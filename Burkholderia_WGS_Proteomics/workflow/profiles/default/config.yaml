@@ -1,0 +1,33 @@
+# Workflow profile.  Snakemake auto-loads `profiles/default` relative to the
+# Snakefile, so a plain `snakemake` picks this up - no --profile needed.
+# Named config.yaml, not profile.yaml: 9.13.7's loader only accepts config.yaml.
+# Runtime values live here, never in config/config.yaml (best practice #4).
+software-deployment-method:
+  - conda
+
+# Shared env cache, so the envs are solved once per machine instead of once per
+# clone.  Written with $HOME rather than an absolute path: snakemake expands
+# environment variables in this value, so the profile stays portable.  Override
+# with --conda-prefix or $SNAKEMAKE_CONDA_PREFIX.
+conda-prefix: "$HOME/snakemake_dep/conda_envs"
+
+# 12, not 10: snakemake caps a rule's threads at --cores, so a lower value here
+# would silently drop the aligners below their pinned thread count and change
+# the alignments.  This machine has 12.
+cores: 12
+keep-going: true
+rerun-incomplete: true
+printshellcmds: true
+
+# bwa mem batches 10M x nthreads bases and estimates the insert size per batch,
+# so the thread count CHANGES the alignments.  minimap2 chunks its input the same
+# way.  Both are pinned here - the profile is committed, so the alignment a fresh
+# clone produces does not depend on whatever --cores it was given.
+set-threads:
+  bwa_mem_illumina: 12
+  minimap2_nanopore: 12
+
+# Single-machine defaults; raise per rule with --set-resources.
+default-resources:
+  mem_mb: 8000
+  runtime: 120

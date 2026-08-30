@@ -1,0 +1,8 @@
+channels:
+ - conda-forge
+ - bioconda
+ - nodefaults
+dependencies:
+ - bioconductor-topgo =2.58.0
+ - bioconductor-deseq2=1.46.0
+ - r-tidyverse=2.0.0

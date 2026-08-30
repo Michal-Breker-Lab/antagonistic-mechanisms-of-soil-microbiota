@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  # Does not work with python 3.14
+  # Throws an error "Illegal instruction (core dumped)"
+  - python=3.13
+  - sortmerna =4.3.7

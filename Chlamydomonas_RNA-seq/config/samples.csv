@@ -1,0 +1,16 @@
+sample_name,fastq_path,Replicate,Timepoint
+T0_A,resources/fastq/T0_A.fastq.gz,A,0
+T1_A,resources/fastq/T1_A.fastq.gz,A,1
+T2_A,resources/fastq/T2_A.fastq.gz,A,2
+T3_A,resources/fastq/T3_A.fastq.gz,A,3
+T4_A,resources/fastq/T4_A.fastq.gz,A,4
+T0_B,resources/fastq/T0_B.fastq.gz,B,0
+T1_B,resources/fastq/T1_B.fastq.gz,B,1
+T2_B,resources/fastq/T2_B.fastq.gz,B,2
+T3_B,resources/fastq/T3_B.fastq.gz,B,3
+T4_B,resources/fastq/T4_B.fastq.gz,B,4
+T0_C,resources/fastq/T0_C.fastq.gz,C,0
+T1_C,resources/fastq/T1_C.fastq.gz,C,1
+T2_C,resources/fastq/T2_C.fastq.gz,C,2
+T3_C,resources/fastq/T3_C.fastq.gz,C,3
+T4_C,resources/fastq/T4_C.fastq.gz,C,4

@@ -1,0 +1,9 @@
+MF6_ID	Description	note
+AC1V0C_26460	triacylglycerol lipase	Highly induced lipase, sits near lipase-specific foldase (Lif/LifO), Induced in MF6 depleted in mutants, hydrolyse triacylglycerol
+AC1V0C_31655	RHS repeat domain-containing protein	C-terminal peptide 354aa does not have a domain annotation; 248-354aa match SteB toxin from Salmonella (SteB is 133aa, match is 2-67 aa); C-terminus has 100% blast matches with  Burkholderia sola and sola; The C-term looks like an AB-toxin
+AC1V0C_19605	M36 family metallopeptidase	SP(Sec/SPI) secretion, extracellular; M36 family metallopeptidase or fungalysin; Very strong hit against eukariotic target
+AC1V0C_13670	SGNH/GDSL hydrolase family protein	It is 33350 from the old annotation
+AC1V0C_32450	M4 family metallopeptidase	96% identity to ZmpA from B.cenocepacia, canonical virulence factor
+AC1V0C_15920	T6SS effector BTH_I2691 family protein	Toxin VasX + type six effector clan III. VasX kills bacteria and eukaryotes. Complete module: PAAR–VasX–DUF4123–VgrG, all co-induced
+AC1V0C_34660	hypothetical protein	Concanavalin A-like lectins/glucanases, some of this proteins are toxins, maybe cell wall degradation
+AC1V0C_34655	RHS repeat-associated core domain-containing protein	C-terminal toxin, RHS-like toxin, C-terminus sits inside the wraping structure (Alphafold); C-terminus has a best eval hit against Paraburkholderia dioscoreae which is plant associated bacteria

@@ -1,0 +1,554 @@
+region	contig	region_product	protein_id	gene	product	feature	start	end	strand	length_bp	gene_kind	in_protocluster_core	logFC	adj.P.Val	category	direction	mibig_accession	mibig_similarity
+chr1.region001	chr1	lassopeptide	AC1V0C_06400	phoB	phosphate regulon transcriptional regulator PhoB	CDS	1351755	1352456	+	702	regulatory	False	0.483756628910193	0.0241116225803154	significant	up in MF6C	BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06405	phoR	phosphate regulon sensor histidine kinase PhoR	CDS	1352513	1353832	+	1320	regulatory	False	-0.0405153379937708	0.780420081348314	nonsig	up in MF6	BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06410	ppk1	polyphosphate kinase 1	CDS	1353924	1355987	-	2064		False	-0.391272650392207	0.0110683518804004	significant	up in MF6	BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06415	ppx	exopolyphosphatase	CDS	1356267	1357781	+	1515	biosynthetic-additional	False	-0.157149179731277	0.0560140710805322	nonsig	up in MF6	BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06420		hypothetical protein	CDS	1357905	1358339	-	435		False	-1.12105505401195	5.05414854647689e-05	significant	up in MF6	BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06425		IS30 family transposase	CDS	1358792	1359807	+	1016		False			not_quantified		BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06430		ATP-binding cassette domain-containing protein	CDS	1359944	1361686	-	1743	transport	False			missing_in_A		BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06435		asparagine synthase-related protein	CDS	1361733	1363520	-	1788	biosynthetic	True			not_quantified		BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06440		lasso peptide biosynthesis B2 protein	CDS	1363513	1364133	-	621	biosynthetic	True			not_quantified		BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06445		hypothetical protein	CDS	1364189	1364320	-	132		False			not_quantified		BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06450		type VI secretion system Vgr family protein	CDS	1365293	1367800	+	2508		False			not_quantified		BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06455		glycoside hydrolase family 24 protein	CDS	1367846	1370728	+	2883		False			missing_in_A		BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06460		hypothetical protein	CDS	1370739	1371266	+	528		False	-1.08646066643695	0.0008457967058395	significant	up in MF6	BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06465		PAAR domain-containing protein	CDS	1371295	1371546	+	252		False			not_quantified		BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06470		conjugal transfer protein	CDS	1371615	1372091	+	477		False			not_quantified		BGC0000571.3	0.633
+chr1.region001	chr1	lassopeptide	AC1V0C_06475		tyrosine-type recombinase/integrase	CDS	1372470	1373771	+	1302	other	False			missing_in_A		BGC0000571.3	0.633
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08255		MFS family transporter	CDS	1762980	1764284	+	1305	transport	False	0.709195884610367	0.0016945310922386	significant	up in MF6C	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08260		ABC transporter substrate-binding protein	CDS	1764713	1765528	+	816	biosynthetic-additional	False	-0.667285189515006	0.0374359280135268	significant	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08265		amino acid ABC transporter permease	CDS	1765623	1766345	+	723	transport	False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08270		amino acid ABC transporter permease	CDS	1766348	1767073	+	726	transport	False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08275		M23 family metallopeptidase	CDS	1767220	1768485	-	1266		False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08280		TetR family transcriptional regulator	CDS	1768825	1769472	-	648	regulatory	False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08285		MexX/AxyX family multidrug efflux RND transporter periplasmic adaptor subunit	CDS	1769624	1770826	+	1203	transport	False	1.53917993500387	1.36218699819787e-06	significant	up in MF6C	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08290		multidrug efflux RND transporter permease subunit	CDS	1770842	1773982	+	3141	transport	False	1.04012962398266	1.20702428979777e-05	significant	up in MF6C	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08295		efflux transporter outer membrane subunit	CDS	1773982	1775442	+	1461	transport	False	1.28648038663123	1.16445049059595e-06	significant	up in MF6C	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08300		hypothetical protein	CDS	1776047	1776265	-	219		False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08305		fimbrial protein	CDS	1776289	1776801	+	513		False	-3.51940763964182	1.00810555688169e-05	significant	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08310		fimbria/pilus outer membrane usher protein	CDS	1776891	1779377	+	2487		False	-2.5699499526056	2.52498717260584e-07	significant	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08315		fimbrial biogenesis chaperone	CDS	1779395	1780141	+	747		False	-2.73746418282229	2.86494058342524e-08	significant	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08320		fimbrial protein	CDS	1780138	1781160	+	1023		False	-2.92794354752213	3.1227334975916e-06	significant	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08325		RNA polymerase factor sigma-70	CDS	1781401	1782069	+	669	regulatory	False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08330		MbtH family protein	CDS	1782155	1782397	+	243	biosynthetic-additional	False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08335		TauD/TfdA family dioxygenase	CDS	1782443	1783450	+	1008	biosynthetic	True	-2.83054820477666	8.20075451924343e-06	significant	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08340		ABC transporter ATP-binding protein	CDS	1783450	1784298	+	849	transport	True			missing_in_A		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08345	fhuB	Fe(3+)-hydroxamate ABC transporter permease FhuB	CDS	1784295	1786385	+	2091	transport	True			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08350	fhuF	siderophore-iron reductase FhuF	CDS	1786382	1787182	+	801		True			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08355		ABC transporter substrate-binding protein	CDS	1787179	1788204	+	1026	transport	True			missing_in_A		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08360		cyclic peptide export ABC transporter	CDS	1788378	1790123	-	1746	transport	True			missing_in_A		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08365		amino acid adenylation domain-containing protein	CDS	1790396	1800088	+	9693	biosynthetic	True			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08370		non-ribosomal peptide synthetase	CDS	1800098	1805086	+	4989	biosynthetic	True	-1.02501200809856	0.0009345974606286	significant	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08375		GNAT family N-acetyltransferase	CDS	1805076	1806107	+	1032	biosynthetic-additional	True			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08380		lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein	CDS	1806141	1807517	+	1377	biosynthetic	True			missing_in_A		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08385		TonB-dependent siderophore receptor	CDS	1807564	1809804	+	2241	transport	False	-2.56623221000703	6.86843503099094e-08	significant	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08390		formyltransferase family protein	CDS	1809893	1810732	+	840		False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08395		GNAT family N-acetyltransferase	CDS	1810732	1811748	+	1017	biosynthetic-additional	False	-3.68990813401702	1.50505552971099e-05	significant	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08400	vapB	type II toxin-antitoxin system VapB family antitoxin	CDS	1811999	1812262	+	264		False	0.902048343438459	0.0051728233562397	significant	up in MF6C	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08405		PIN domain-containing protein	CDS	1812259	1812675	+	417		False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08410		nucleotidyl transferase AbiEii/AbiGii toxin family protein	CDS	1812720	1813625	-	906		False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08415		type IV toxin-antitoxin system AbiEi family antitoxin	CDS	1813594	1814664	-	1071		False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08420		M20 aminoacylase family protein	CDS	1815024	1816187	+	1164	biosynthetic-additional	False			missing_in_B		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08425		type II toxin-antitoxin system ParD family antitoxin	CDS	1816300	1816587	+	288		False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08430		cobyrinic acid a,c-diamide synthase CobB	CDS	1816623	1817933	-	1311		False	-1.01390631413906	0.0002117190065847	significant	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08435	cobO	cob(I)yrinic acid a,c-diamide adenosyltransferase	CDS	1817936	1818538	-	603		False	-0.0970342933172788	0.555565290359488	nonsig	up in MF6	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08440		cobalamin biosynthesis protein	CDS	1818573	1818950	-	378		False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08445	cobA	uroporphyrinogen-III C-methyltransferase	CDS	1818947	1819756	-	810	biosynthetic-additional	False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08450		EAL domain-containing protein	CDS	1820401	1821897	+	1497		False	1.13005324546661	0.0193437628358753	significant	up in MF6C	BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08455		TonB-dependent receptor	CDS	1821991	1824129	-	2139	transport	False			not_quantified		BGC0002569.3	1.466
+chr1.region002	chr1	NRP-metallophore, NRPS	AC1V0C_08460	cobW	cobalamin biosynthesis protein CobW	CDS	1824767	1825855	+	1089	biosynthetic-additional	False	-0.981049187766473	3.55099538497486e-06	significant	up in MF6	BGC0002569.3	1.466
+chr1.region003	chr1	terpene	AC1V0C_09925		glycerate kinase	CDS	2140047	2141192	+	1146		False	0.294574387215963	0.0105060323907605	significant	up in MF6C	BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09930		MarR family winged helix-turn-helix transcriptional regulator	CDS	2141255	2141704	+	450	regulatory	False	0.8128484577209	0.0012540585584535	significant	up in MF6C	BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09935		2-dehydropantoate 2-reductase	CDS	2141903	2142901	-	999		False	1.01927818514508	0.0001448657832247	significant	up in MF6C	BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09940		helix-turn-helix transcriptional regulator	CDS	2143007	2144158	-	1152		False			not_quantified		BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09945		hypothetical protein	CDS	2144291	2144464	+	174		False			not_quantified		BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09950		porin	CDS	2144461	2145507	+	1047		False			not_quantified		BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09955		MFS transporter	CDS	2145529	2146731	+	1203	transport	False			not_quantified		BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09960		class II histone deacetylase	CDS	2146746	2147855	+	1110		False			not_quantified		BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09965		hypothetical protein	CDS	2147967	2148197	+	231		False			not_quantified		BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09970		hypothetical protein	CDS	2148268	2148567	+	300		False			not_quantified		BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09980	hpnD	presqualene diphosphate synthase HpnD	CDS	2149052	2149885	+	834	biosynthetic	True	-0.159665537593817	0.292356094532095	nonsig	up in MF6	BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09985		DUF1501 domain-containing protein	CDS	2149896	2151116	-	1221		False	-0.134529049144881	0.649623720859612	nonsig	up in MF6	BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09990		DUF1800 domain-containing protein	CDS	2151171	2152676	-	1506		False			not_quantified		BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_09995		hypothetical protein	CDS	2152811	2153089	-	279		False			not_quantified		BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_10000	ompR	osmolarity response regulator transcription factor OmpR	CDS	2153348	2154082	+	735	regulatory	False	0.311119467486431	0.0012332435874906	significant	up in MF6C	BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_10005		ATP-binding protein	CDS	2154124	2155485	+	1362	regulatory	False	0.275412147911865	0.0779483585965034	nonsig	up in MF6C	BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_10010		peroxiredoxin	CDS	2155675	2156223	+	549	biosynthetic-additional	False	-0.300756010250275	0.0398427191238583	significant	up in MF6	BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_10015		carboxymuconolactone decarboxylase family protein	CDS	2156300	2156827	+	528		False	-0.348699031156578	0.012756120222001	significant	up in MF6	BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_10020	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	CDS	2156954	2157439	-	486		False	-0.454022137193441	0.0077313899799883	significant	up in MF6	BGC0000527.5	0.373
+chr1.region003	chr1	terpene	AC1V0C_10025	ispD	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	CDS	2157468	2158178	-	711	biosynthetic-additional	False	-0.500826181802218	0.0090475590948423	significant	up in MF6	BGC0000527.5	0.373
+chr1.region004	chr1	arylpolyene	AC1V0C_10615		ABC transporter ATP-binding protein	CDS	2280464	2282086	-	1623	transport	False	0.724834092452944	0.0006549792972025	significant	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10620		ABC transporter permease	CDS	2282083	2283180	-	1098	transport	False	0.154626275521668	0.858689369688034	nonsig	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10625		microcin C ABC transporter permease YejB	CDS	2283229	2284272	-	1044	transport	False	1.20427509295466	0.0068267171846442	significant	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10630		extracellular solute-binding protein	CDS	2284323	2286197	-	1875	transport	False	0.325477468510496	0.0019878452676676	significant	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10635		hypothetical protein	CDS	2286338	2286694	-	357		False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10640		response regulator transcription factor	CDS	2286859	2287533	-	675	regulatory	False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10645		sensor histidine kinase	CDS	2287550	2288941	-	1392	regulatory	False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10650		response regulator transcription factor	CDS	2288953	2289627	-	675	regulatory	False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10655		DUF4148 domain-containing protein	CDS	2289846	2290145	+	300		False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10660	cyoD	cytochrome o ubiquinol oxidase subunit IV	CDS	2290254	2290586	-	333		False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10665	cyoC	cytochrome o ubiquinol oxidase subunit III	CDS	2290587	2291195	-	609		False			missing_in_A		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10670	cyoB	cytochrome o ubiquinol oxidase subunit I	CDS	2291195	2293198	-	2004		False			missing_in_A		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10675	cyoA	ubiquinol oxidase subunit II	CDS	2293202	2294089	-	888		False			missing_in_A		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10680		complex I subunit 4 family protein	CDS	2294374	2295903	-	1530		False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10685		LysE family translocator	CDS	2296369	2296965	-	597	transport	False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10690		NAD(P)/FAD-dependent oxidoreductase	CDS	2297012	2298271	-	1260	biosynthetic-additional	False	-0.607244530666918	0.0015632596699323	significant	up in MF6	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10695		class I SAM-dependent methyltransferase	CDS	2298380	2299099	+	720	biosynthetic-additional	False			missing_in_A		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10700		excinuclease ABC subunit A	CDS	2299148	2299570	-	423		False	0.237942058304895	0.189135068147326	nonsig	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10705		signal peptidase	CDS	2299594	2300016	-	423		False	-0.203611964914593	0.0835399171698091	nonsig	up in MF6	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10710		beta-ketoacyl synthase N-terminal-like domain-containing protein	CDS	2300049	2301272	-	1224	biosynthetic	True			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10715		beta-ketoacyl-ACP synthase	CDS	2301269	2302498	-	1230	biosynthetic	True	0.115687849510419	0.586464591052761	nonsig	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10720		3-ketoacyl-ACP reductase FabG2	CDS	2302498	2303223	-	726	biosynthetic-additional	True	0.371277973689402	0.149611918831182	nonsig	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10725		hotdog family protein	CDS	2303220	2303723	-	504		True			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10730		beta-ketoacyl-[acyl-carrier-protein] synthase family protein	CDS	2303725	2304912	-	1188	biosynthetic	True			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10735		MMPL family transporter	CDS	2304909	2307317	-	2409		False	-0.212646538653839	0.234826027102438	nonsig	up in MF6	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10740		LolA family protein	CDS	2307317	2307982	-	666		False	0.155100913518758	0.5334817365027	nonsig	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10745		acyl-CoA thioesterase	CDS	2307973	2308401	-	429	biosynthetic-additional	False	-0.436992427839304	0.085848385506329	nonsig	up in MF6	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10750		HAL/PAL/TAL family ammonia-lyase	CDS	2308398	2310008	-	1611		False			missing_in_A		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10755		glycosyltransferase family 2 protein	CDS	2309995	2311701	-	1707	biosynthetic-additional	False	-1.11197542756987	0.0273788672527937	significant	up in MF6	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10760		ApeI family dehydratase	CDS	2311701	2313389	-	1689	biosynthetic-additional	False			missing_in_A		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10765		COG4648 family protein	CDS	2313386	2314006	-	621		False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10770		acyl carrier protein	CDS	2314024	2314272	-	249	biosynthetic-additional	False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10775		phosphopantetheine-binding protein	CDS	2314269	2314574	-	306	biosynthetic-additional	False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10780		lysophospholipid acyltransferase family protein	CDS	2314549	2315343	-	795	biosynthetic-additional	False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10785		beta-ketoacyl synthase chain length factor	CDS	2315327	2316022	-	696	biosynthetic-additional	False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10790		IS30 family transposase	CDS	2316407	2316906	+	500		False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10800		aspartate kinase	CDS	2317287	2318540	-	1254		False	-0.639096705236845	1.560809563753e-05	significant	up in MF6	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10805		hypothetical protein	CDS	2318523	2318760	+	238		False			not_quantified		BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10810	tilS	tRNA lysidine(34) synthetase TilS	CDS	2318883	2320304	-	1422		False	-0.177135531820227	0.551100502800046	nonsig	up in MF6	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10815		acetyl-CoA carboxylase carboxyltransferase subunit alpha	CDS	2320351	2321322	-	972	biosynthetic-additional	False	0.0538502397245963	0.668127692121772	nonsig	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10820		DNA-3-methyladenine glycosylase family protein	CDS	2321426	2322253	-	828		False	0.374734590828883	0.0049345275119109	significant	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10825	cysS	cysteine--tRNA ligase	CDS	2322297	2323694	-	1398		False	0.31911296023161	0.0455406672546346	significant	up in MF6C	BGC0002341.2	0.753
+chr1.region004	chr1	arylpolyene	AC1V0C_10830		tetratricopeptide repeat protein	CDS	2323929	2324651	+	723	other	False	0.0233400961643895	0.830722082028075	nonsig	up in MF6C	BGC0002341.2	0.753
+chr1.region005	chr1	arylpolyene	AC1V0C_14545		phospholipase D family protein	CDS	3119429	3121051	-	1623		False	0.676399980220072	0.0020778331464649	significant	up in MF6C	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14550		FadR/GntR family transcriptional regulator	CDS	3121200	3121916	-	717	regulatory	False	1.73668949388427	1.20702428979777e-05	significant	up in MF6C	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14555		(Fe-S)-binding protein	CDS	3122045	3122842	+	798	other	False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14560		LutC/YkgG family protein	CDS	3122839	3123564	+	726		False			missing_in_A		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14565		LutB/LldF family L-lactate oxidation iron-sulfur protein	CDS	3123561	3125006	+	1446		False			missing_in_A		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14570		lactate permease LctP family transporter	CDS	3125057	3126757	+	1701		False	1.3548308009998	0.680173095196373	nonsig	up in MF6C	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14575	loiP	metalloprotease LoiP	CDS	3126870	3127631	-	762		False	-0.61109083815883	0.0005619466276349	significant	up in MF6	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14580		glycosyltransferase family 2 protein	CDS	3127835	3128617	-	783	biosynthetic-additional	False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14585		chorismate transformation FkbO/Hyg5 family protein	CDS	3128743	3130035	-	1293		False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14590	fabG	3-oxoacyl-ACP reductase FabG	CDS	3130073	3130789	-	717	biosynthetic-additional	False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14595		phosphopantetheine-binding protein	CDS	3130857	3131141	-	285	biosynthetic-additional	False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14600		COG4648 family protein	CDS	3131678	3132331	+	654		False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14605		AMP-binding protein	CDS	3132391	3134133	+	1743	biosynthetic-additional	False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14610		lysophospholipid acyltransferase family protein	CDS	3134130	3135107	+	978		False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14615		LolA family protein	CDS	3135104	3135748	+	645		False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14620		MMPL family transporter	CDS	3135748	3138222	+	2475	biosynthetic-additional	False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14625		polysaccharide deacetylase family protein	CDS	3138219	3139103	+	885	biosynthetic-additional	False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14630		beta-ketoacyl-[acyl-carrier-protein] synthase family protein	CDS	3139167	3140390	+	1224	biosynthetic	True			missing_in_A		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14635		beta-ketoacyl synthase chain length factor	CDS	3140399	3141217	+	819	biosynthetic-additional	False	-0.0067125319621261	0.967559869858878	nonsig	up in MF6	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14640		hotdog family protein	CDS	3141214	3141717	+	504		False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14645		hypothetical protein	CDS	3141714	3142043	+	330		False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14650		hypothetical protein	CDS	3142135	3142341	-	207		False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14655	phbB	acetoacetyl-CoA reductase	CDS	3142449	3143192	-	744	biosynthetic-additional	False	-1.81352719576677	3.33943247608747e-05	significant	up in MF6	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14660		acetyl-CoA C-acetyltransferase	CDS	3143411	3144592	-	1182	biosynthetic-additional	False	-1.49964725102389	6.03958341912993e-06	significant	up in MF6	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14665	phaP	TIGR01841 family phasin	CDS	3144856	3145440	-	585		False	-3.82792874846205	6.21882163573937e-07	significant	up in MF6	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14670		ParA family protein	CDS	3145938	3146702	-	765	other	False	-0.632247338629377	0.0017730696742511	significant	up in MF6	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14675		DNA-3-methyladenine glycosylase	CDS	3146816	3147439	-	624		False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14680	mug	G/U mismatch-specific DNA glycosylase	CDS	3147426	3147956	-	531		False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14685		single-stranded DNA-binding protein	CDS	3148079	3148630	-	552		False	-0.145735969344216	0.129198220726106	nonsig	up in MF6	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14690		MFS transporter	CDS	3148731	3149918	-	1188	transport	False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14695	uvrA	excinuclease ABC subunit UvrA	CDS	3150182	3153067	+	2886	transport	False	0.030808340124107	0.660540407485982	nonsig	up in MF6C	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14700		AI-2E family transporter	CDS	3153307	3154389	+	1083		False	0.730153464294084	0.0086725236160943	significant	up in MF6C	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14705	purU	formyltetrahydrofolate deformylase	CDS	3154483	3155367	-	885	biosynthetic-additional	False	-0.445140389782285	0.0008678599257401	significant	up in MF6	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14710		NUDIX hydrolase	CDS	3155448	3156314	-	867		False	-0.264174543098228	0.0888228970601666	nonsig	up in MF6	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14715		LysE family translocator	CDS	3156320	3156934	-	615	transport	False			not_quantified		BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14720		adenine phosphoribosyltransferase	CDS	3157013	3157579	-	567		False	-0.42737066043513	0.0326611126036454	significant	up in MF6	BGC0000866.5	0.656
+chr1.region005	chr1	arylpolyene	AC1V0C_14725		monovalent cation:proton antiporter family protein	CDS	3157656	3159662	-	2007	transport	False	-0.285860818672045	0.0703445559410135	nonsig	up in MF6	BGC0000866.5	0.656
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30515	ampC	class C beta-lactamase	CDS	110954	112129	+	1176	biosynthetic-additional	False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30520		hypothetical protein	CDS	112373	112666	+	294		False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30525		DUF4148 domain-containing protein	CDS	112668	113012	-	345		False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30530		aldo/keto reductase	CDS	113344	114363	+	1020	biosynthetic-additional	False	-0.275814988323575	0.0702813544386542	nonsig	up in MF6	BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30535		SRPBCC family protein	CDS	114366	114566	+	201		False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30540		LysR family transcriptional regulator	CDS	114645	115550	-	906	regulatory	False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30545		ABC transporter substrate-binding protein	CDS	115657	116439	-	783	biosynthetic-additional	False	2.64694976246152	2.80345830439118e-05	significant	up in MF6C	BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30550		FAD/NAD(P)-dependent oxidoreductase	CDS	116480	117916	-	1437	biosynthetic	True			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30555		(2Fe-2S)-binding protein	CDS	117913	118212	-	300	biosynthetic	True			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30560		NAD(P)/FAD-dependent oxidoreductase	CDS	118205	119329	-	1125	biosynthetic	True			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30565		LysR substrate-binding domain-containing protein	CDS	119479	120393	+	915	regulatory	False	0.341757725054983	0.0898704482142937	nonsig	up in MF6C	BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30570	shc	squalene--hopene cyclase	CDS	120458	122518	-	2061	biosynthetic	True			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30575		TetR/AcrR family transcriptional regulator	CDS	122572	123255	+	684	regulatory	False	1.13036504575128	0.0023475589154594	significant	up in MF6C	BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30580		aldo/keto reductase	CDS	123272	123520	-	249		False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30585		flavodoxin family protein	CDS	123693	124286	-	594		False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30590		LysR family transcriptional regulator	CDS	124403	125308	+	906	regulatory	False	0.109139046211894	0.579648175882902	nonsig	up in MF6C	BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30595		LysR substrate-binding domain-containing protein	CDS	125363	126256	-	894	regulatory	False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30600		sugar ABC transporter	CDS	126406	126936	+	531		False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30605		hypothetical protein	CDS	126929	127255	+	327		False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30610		MBL fold metallo-hydrolase	CDS	127274	128119	+	846	biosynthetic-additional	False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30615		methyl-accepting chemotaxis protein	CDS	128465	130030	+	1566	other	False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30620		DUF3224 domain-containing protein	CDS	130040	130447	-	408		False	-0.0655195038633778	0.668891546534198	nonsig	up in MF6	BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30625		acetoacetate decarboxylase	CDS	130791	131171	+	381		False			not_quantified		BGC0002345.2	0.414
+chr3.region001	chr3	terpene, hydrogen-cyanide	AC1V0C_30630		saccharopine dehydrogenase family protein	CDS	131215	132465	+	1251		False	1.60714543878452	3.75119840586695e-06	significant	up in MF6C	BGC0002345.2	0.414
+chr3.region002	chr3	T1PKS	AC1V0C_30995		response regulator transcription factor	CDS	208397	209230	-	834	regulatory	False			missing_in_A		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31000		hypothetical protein	CDS	209834	210289	+	456		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31005		YadA-like family protein	CDS	210700	214926	+	4227		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31010		OmpA family protein	CDS	215058	215720	+	663		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31015		hypothetical protein	CDS	216037	216354	+	318		False			missing_in_A		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31020		hypothetical protein	CDS	216621	216809	-	189		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31025		DUF3820 family protein	CDS	217121	217336	+	216		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31030		DUF1269 domain-containing protein	CDS	217485	217994	+	510		False	-0.397656032374826	0.31989744030573	nonsig	up in MF6	BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31035		hypothetical protein	CDS	218209	218724	+	516		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31040		c-type cytochrome	CDS	218829	219980	+	1152		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31045	ctaD	cytochrome c oxidase subunit I	CDS	219994	221748	+	1755		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31050		cytochrome c oxidase subunit 3	CDS	221745	222356	+	612		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31055		heme-copper oxidase subunit III family protein	CDS	222353	223072	+	720		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31060		cytochrome C oxidase subunit IV family protein	CDS	223081	223422	+	342		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31065		high-potential iron-sulfur protein	CDS	223479	223799	+	321		False	-0.154819296727613	0.676806696829104	nonsig	up in MF6	BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31070		MaoC family dehydratase	CDS	224051	224521	-	471		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31075		carboxymuconolactone decarboxylase family protein	CDS	224580	225671	-	1092		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31080		SDR family NAD(P)-dependent oxidoreductase	CDS	225925	226683	+	759	biosynthetic-additional	False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31085	ccrA	crotonyl-CoA carboxylase/reductase	CDS	226758	228035	+	1278	biosynthetic-additional	False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31090		type I polyketide synthase	CDS	228068	231946	+	3879	biosynthetic	True			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31095		acyl carrier protein	CDS	232028	232357	+	330	biosynthetic-additional	False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31100		beta-ketoacyl-ACP synthase III	CDS	232424	233416	+	993	biosynthetic-additional	False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31105		EAL domain-containing protein	CDS	233739	234539	-	801		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31110		sensor histidine kinase	CDS	235204	237342	+	2139	regulatory	False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31115		LabA-like NYN domain-containing protein	CDS	237380	238189	-	810		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31120		OmpA family protein	CDS	238469	239311	-	843		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31125		YadA-like family protein	CDS	239371	243243	-	3873		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31130		hypothetical protein	CDS	243328	243591	-	264		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31135		hypothetical protein	CDS	244079	244321	-	243		False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31140		response regulator transcription factor	CDS	244318	245067	-	750	regulatory	False			not_quantified		BGC0001273.3	0.638
+chr3.region002	chr3	T1PKS	AC1V0C_31145	uvrA	excinuclease ABC subunit UvrA	CDS	245516	251410	+	5895	transport	False	-0.188018690200131	0.0253203033534402	significant	up in MF6	BGC0001273.3	0.638
+chr3.region003	chr3	terpene	AC1V0C_32810		NAD(P)/FAD-dependent oxidoreductase	CDS	615054	615947	-	894	biosynthetic-additional	False			missing_in_B		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32815		hypothetical protein	CDS	615928	616140	+	213		False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32820		TetR/AcrR family transcriptional regulator	CDS	616224	616856	+	633	regulatory	False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32825		benzaldehyde dehydrogenase	CDS	617155	618624	+	1470	biosynthetic-additional	False	0.599493886056909	0.0142721982896694	significant	up in MF6C	BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32830		NAD(P)-dependent alcohol dehydrogenase	CDS	618638	619765	+	1128	biosynthetic-additional	False	0.282939961932577	0.0195994612572478	significant	up in MF6C	BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32835		helix-turn-helix domain-containing protein	CDS	619933	621102	+	1170		False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32840		sugar transporter	CDS	621137	622321	-	1185	transport	False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32845		HAD family hydrolase	CDS	622524	623198	+	675	biosynthetic-additional	False	0.657626644880672	0.0001465099917626	significant	up in MF6C	BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32850		SAM-dependent methyltransferase	CDS	623779	624741	+	963	biosynthetic-additional	False	3.58335372440588	1.45907608210394e-07	significant	up in MF6C	BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32855		terpene synthase family protein	CDS	624755	625849	+	1095	biosynthetic	True	2.92339924819133	1.96304166616643e-06	significant	up in MF6C	BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32860		Rieske 2Fe-2S domain-containing protein	CDS	625862	626917	+	1056		False	2.21116982798705	1.03385287818763e-05	significant	up in MF6C	BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32865		Rieske (2Fe-2S) protein	CDS	626914	627966	+	1053		False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32870		succinate dehydrogenase/fumarate reductase iron-sulfur subunit	CDS	628002	628709	-	708		False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32875		DUF6566 family protein	CDS	628801	629043	-	243		False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32880		MgtC/SapB family protein	CDS	629221	629916	+	696		False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32885		hypothetical protein	CDS	629913	630251	+	339		False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32890		VTT domain-containing protein	CDS	630248	632446	+	2199		False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32895		endonuclease/exonuclease/phosphatase family protein	CDS	632437	633228	+	792		False			not_quantified		BGC0002283.2	0.512
+chr3.region003	chr3	terpene	AC1V0C_32900		phage protein NinX family protein	CDS	633258	633746	+	489		False			not_quantified		BGC0002283.2	0.512
+chr3.region004	chr3	RiPP-like	AC1V0C_33230		aminotransferase-like domain-containing protein	CDS	707681	709105	-	1425	biosynthetic-additional	False			not_quantified		BGC0001488.3	0.309
+chr3.region004	chr3	RiPP-like	AC1V0C_33235		hypothetical protein	CDS	709467	709715	-	249		False			not_quantified		BGC0001488.3	0.309
+chr3.region004	chr3	RiPP-like	AC1V0C_33240		DUF1269 domain-containing protein	CDS	709751	710206	-	456		False	0.164147034180004	0.480302048478791	nonsig	up in MF6C	BGC0001488.3	0.309
+chr3.region004	chr3	RiPP-like	AC1V0C_33245		phosphate-starvation-inducible protein PsiE	CDS	710294	710746	-	453		False			not_quantified		BGC0001488.3	0.309
+chr3.region004	chr3	RiPP-like	AC1V0C_33250		LysR family transcriptional regulator	CDS	710743	711120	-	378	regulatory	False			not_quantified		BGC0001488.3	0.309
+chr3.region004	chr3	RiPP-like	AC1V0C_33255		Dyp-type peroxidase	CDS	711557	712636	+	1080		False	-1.25799328867964	5.7424137922883e-05	significant	up in MF6	BGC0001488.3	0.309
+chr3.region004	chr3	RiPP-like	AC1V0C_33260		family 1 encapsulin nanocompartment shell protein	CDS	712629	713444	+	816	biosynthetic	True	-0.795875317637392	2.71275989138053e-05	significant	up in MF6	BGC0001488.3	0.309
+chr3.region004	chr3	RiPP-like	AC1V0C_33265		hypothetical protein	CDS	713547	713816	+	270		False			not_quantified		BGC0001488.3	0.309
+chr3.region004	chr3	RiPP-like	AC1V0C_33270		ATP-dependent Clp protease ATP-binding subunit	CDS	714333	717176	+	2844	other	False	-0.739885910944107	1.53794077157311e-05	significant	up in MF6	BGC0001488.3	0.309
+chr3.region005	chr3	other	AC1V0C_33835		efflux RND transporter periplasmic adaptor subunit	CDS	840654	842051	+	1398	transport	False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33840		efflux transporter outer membrane subunit	CDS	842083	843624	+	1542	transport	False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33845	asnB	asparagine synthase (glutamine-hydrolyzing)	CDS	844033	845853	+	1821	biosynthetic-additional	False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33850		heavy metal sensor histidine kinase	CDS	845917	847377	-	1461	regulatory	False	0.315481578716994	0.0903687762126775	nonsig	up in MF6C	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33855		heavy metal response regulator transcription factor	CDS	847374	848051	-	678	regulatory	False	0.277392776774821	0.110602768261874	nonsig	up in MF6C	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33860		hypothetical protein	CDS	848352	848825	-	474		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33865		MFS transporter	CDS	848916	850202	-	1287	transport	False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33870		M20 family metallopeptidase	CDS	850251	851675	-	1425	biosynthetic-additional	False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33875		LysR family transcriptional regulator	CDS	851809	852705	+	897	regulatory	False	1.08668045603045	2.33075132961262e-05	significant	up in MF6C	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33880		pyruvate dehydrogenase (acetyl-transferring), homodimeric type	CDS	852892	853281	-	390		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33885		1-aminocyclopropane-1-carboxylate deaminase	CDS	853354	854370	-	1017	biosynthetic-additional	False	-0.688503364795316	5.94908669925642e-05	significant	up in MF6	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33890		Lrp/AsnC family transcriptional regulator	CDS	854541	855053	+	513	regulatory	False	-0.542375406872537	0.186285405169477	nonsig	up in MF6	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33895	prnD	aminopyrrolnitrin oxygenase PrnD	CDS	855240	856334	-	1095		False	-1.55692136803341	1.49478585317429e-05	significant	up in MF6	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33900	prnC	monodechloroaminopyrrolnitrin halogenase PrnC	CDS	856359	858059	-	1701	biosynthetic-additional	False	-1.96254715613371	5.74355717551602e-05	significant	up in MF6	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33905	prnB	monodechloroaminopyrrolnitrin synthase PrnB	CDS	858114	859199	-	1086	biosynthetic	True	-1.4867607421904	5.99690784097597e-06	significant	up in MF6	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33910	prnA	tryptophan 7-halogenase PrnA	CDS	859199	860815	-	1617	biosynthetic-additional	False	-2.90412020336255	4.05650743953981e-07	significant	up in MF6	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33915		LysE family translocator	CDS	861610	862212	+	603	transport	False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33920		hypothetical protein	CDS	862415	862642	+	228		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33925		hypothetical protein	CDS	862727	863731	-	1005		False	-0.0203776026740705	0.920886430472123	nonsig	up in MF6	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33930		hypothetical protein	CDS	864322	864834	+	513		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33935		hypothetical protein	CDS	865150	865857	-	708		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33940	rbsK	ribokinase	CDS	866061	866987	+	927	biosynthetic-additional	False	-0.596534129742338	0.0007465337078102	significant	up in MF6	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33945	fucP	L-fucose:H+ symporter permease	CDS	867028	868401	+	1374	transport	False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33950		aldose 1-epimerase family protein	CDS	868404	869456	+	1053		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33955	deoR	DNA-binding transcriptional repressor DeoR	CDS	869488	870258	-	771		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33960	deoC	deoxyribose-phosphate aldolase	CDS	870405	871085	+	681		False	-0.669546746965445	0.0007199077620198	significant	up in MF6	BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33965		N-acyl homoserine lactonase	CDS	871118	872098	-	981		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33970		YadA family autotransporter adhesin	CDS	872521	875739	-	3219		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33975		hypothetical protein	CDS	876006	876284	+	279		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33980		N-acyl homoserine lactonase	CDS	876281	877192	+	912		False			not_quantified		BGC0000924.5	0.884
+chr3.region005	chr3	other	AC1V0C_33985		response regulator	CDS	877877	878518	+	642	regulatory	False			not_quantified		BGC0000924.5	0.884
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34330		hypothetical protein	CDS	959481	960152	+	672		False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34335		hypothetical protein	CDS	960294	960668	+	375		False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34340		3-hydroxybutyryl-CoA dehydrogenase	CDS	960784	961638	-	855	biosynthetic-additional	False	0.811764592672493	2.49420090896021e-05	significant	up in MF6C	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34345	bktB	beta-ketothiolase BktB	CDS	961677	962870	-	1194	biosynthetic-additional	False	0.311725686480884	0.0088915831508037	significant	up in MF6C	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34350		electron transfer flavoprotein-ubiquinone oxidoreductase	CDS	962919	964547	-	1629		False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34355		acyl-CoA dehydrogenase	CDS	964628	966418	-	1791	biosynthetic-additional	False	0.15922613409743	0.128933775176082	nonsig	up in MF6C	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34360		AraC family transcriptional regulator	CDS	966841	967959	-	1119		False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34365		AMP-binding protein	CDS	968008	969642	-	1635	biosynthetic-additional	False	-0.249419148068391	0.17810268242063	nonsig	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34370		AraC family transcriptional regulator	CDS	969955	971055	+	1101	regulatory	False	0.466477935186177	0.0040713953019697	significant	up in MF6C	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34375		sensor histidine kinase	CDS	971072	972604	-	1533	regulatory	False	0.42636632598229	0.0280658205299788	significant	up in MF6C	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34380		response regulator transcription factor	CDS	972604	973323	-	720	regulatory	False	0.0043761525574126	0.977751034792944	nonsig	up in MF6C	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34385		aspartyl/asparaginyl beta-hydroxylase domain-containing protein	CDS	973731	974537	-	807		False	-6.05000092233122	2.50212897113468e-06	significant	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34390		MFS transporter	CDS	974644	975891	-	1248	transport	False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34395		GNAT family N-acetyltransferase	CDS	975888	976331	-	444		False	-1.73158552196051	1.53941003339608e-06	significant	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34400		serine hydrolase domain-containing protein	CDS	976312	977784	-	1473	biosynthetic-additional	False	-1.93824312242899	9.21891459874302e-07	significant	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34405		MBL fold metallo-hydrolase	CDS	977850	979445	-	1596		False	-2.78159712414503	4.80435967515295e-06	significant	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34410		amino acid adenylation domain-containing protein	CDS	979447	993468	-	14022	biosynthetic	True	-5.03680264007398	6.79826464930433e-07	significant	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34415		non-ribosomal peptide synthetase	CDS	993468	996716	-	3249	biosynthetic	True	-4.20325693919967	7.25186597297354e-06	significant	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34420		hypothetical protein	CDS	996787	998196	-	1410		False	-1.64137794694784	3.87725401031534e-06	significant	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34425		cupin-like domain-containing protein	CDS	998267	999157	-	891		False	-1.83711805670382	6.21882163573937e-07	significant	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34430		MBL fold metallo-hydrolase	CDS	999183	1000511	-	1329		False	-2.37261410729566	4.03239165339991e-07	significant	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34435		MbtH family protein	CDS	1000740	1000949	-	210	biosynthetic-additional	False	-4.58059567512453	1.1466992320187e-06	significant	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34440		thioesterase II family protein	CDS	1001279	1002076	+	798	biosynthetic-additional	False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34445		putative bifunctional diguanylate cyclase/phosphodiesterase	CDS	1002151	1004232	-	2082	biosynthetic-additional	False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34450		porin	CDS	1004468	1005541	-	1074		False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34455		MFS transporter	CDS	1005729	1007171	-	1443	transport	False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34460		dihydrodipicolinate synthase family protein	CDS	1007406	1008329	-	924		False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34465		LysR family transcriptional regulator	CDS	1008510	1009454	+	945	regulatory	False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34470		hypothetical protein	CDS	1009600	1010391	-	792		False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34475		hypothetical protein	CDS	1010521	1011348	-	828		False	-0.318398459126886	0.492698781805311	nonsig	up in MF6	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34480		tetratricopeptide repeat protein	CDS	1011469	1012056	-	588		False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34485		TetR/AcrR family transcriptional regulator	CDS	1012473	1013075	+	603	regulatory	False	1.10703235733922e-06	0.999993734376305	nonsig	up in MF6C	BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34490		NRAMP family divalent metal transporter	CDS	1013254	1014546	+	1293		False			not_quantified		BGC0001825.4	0.787
+chr3.region006	chr3	NRPS, T1PKS	AC1V0C_34495		chemotaxis protein CheB	CDS	1014580	1015584	-	1005		False			not_quantified		BGC0001825.4	0.787
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34870		ATPase	CDS	1101690	1102160	+	471		False			not_quantified		BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34875		DUF429 domain-containing protein	CDS	1102311	1102988	-	678		False			not_quantified		BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34880		HD domain-containing protein	CDS	1102999	1103523	-	525		False	-0.546661047753837	0.0021014680793882	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34885		ATP-binding protein	CDS	1103645	1107115	-	3471		False	-0.153591830858637	0.341941962493673	nonsig	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34890		metallophosphoesterase family protein	CDS	1107119	1108369	-	1251	biosynthetic-additional	False	-0.423151316154815	0.0046938884958392	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34895		hypothetical protein	CDS	1108813	1109583	-	771		False	-0.0405330460165914	0.65574422290976	nonsig	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34900		thioester reductase domain-containing protein	CDS	1110107	1114468	-	4362	biosynthetic-additional	False	-2.6332737380913	4.58014115959397e-07	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34905		condensation domain-containing protein	CDS	1114526	1119193	-	4668	biosynthetic-additional	False	-1.8301544406811	0.0001730632977014	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34910		type I polyketide synthase	CDS	1119190	1124808	-	5619	biosynthetic	True	-1.26208045665868	9.82120882354535e-05	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34915		AMP-binding protein	CDS	1124855	1127116	-	2262	biosynthetic	True	-2.86942173510907	9.02044431986661e-07	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34920		AMP-binding protein	CDS	1127185	1128762	-	1578	biosynthetic-additional	False	-1.84735964524916	6.11939622510473e-06	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34925		iron-containing redox enzyme family protein	CDS	1128707	1129453	-	747		False	-1.94288907162683	5.61797125747922e-08	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34930		acyl carrier protein	CDS	1129627	1129893	+	267	biosynthetic-additional	False			not_quantified		BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34935		alpha/beta hydrolase	CDS	1129904	1131754	+	1851		False	-1.81955571249378	1.16445049059595e-06	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34940		PLP-dependent cysteine synthase family protein	CDS	1131914	1132939	+	1026	biosynthetic-additional	False	-6.12849409096667	3.07027935287806e-07	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34945		GNAT family N-acetyltransferase	CDS	1132953	1133618	+	666		False	-1.89206393120151	4.50505928165412e-08	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34950		amidohydrolase family protein	CDS	1133615	1134577	+	963		False	-1.08717632958827	1.83507154974225e-05	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34955		cytochrome-c peroxidase	CDS	1134591	1135862	+	1272		False	0.658086848640899	0.0012603947904054	significant	up in MF6C	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34960		RidA family protein	CDS	1135882	1136274	-	393		False	0.411287311548381	0.0030391483409118	significant	up in MF6C	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34965		hypothetical protein	CDS	1136311	1137582	-	1272		False	0.759488026782691	1.43664214165419e-05	significant	up in MF6C	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34970		outer membrane lipoprotein-sorting protein	CDS	1137579	1138361	-	783		False	0.793137387291544	0.0001667753878157	significant	up in MF6C	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34975		DJ-1/PfpI family protein	CDS	1138475	1139617	-	1143		False	0.63744230459637	0.0011931191252066	significant	up in MF6C	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34980		FixH family protein	CDS	1139677	1140111	-	435		False	-0.0804391458175857	0.830668497091327	nonsig	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34985		ABC transporter permease	CDS	1140173	1141564	-	1392		False	-0.108597118083736	0.317476354260112	nonsig	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34990		ABC transporter ATP-binding protein	CDS	1141561	1142271	-	711	transport	False	-0.762910749674958	0.0003505486012198	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_34995		thioesterase II family protein	CDS	1142575	1143327	+	753	biosynthetic-additional	False	-3.33879858714881	1.7102232482235e-06	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_35000		DUF3683 domain-containing protein	CDS	1143378	1147403	-	4026	other	False			missing_in_A		BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_35005		hypothetical protein	CDS	1147485	1147733	-	249		False	0.282095140164067	0.462786092837321	nonsig	up in MF6C	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_35010		helix-turn-helix transcriptional regulator	CDS	1147746	1148522	-	777	regulatory	False	-1.3047550176499	0.0035370118738114	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_35015		MATE family efflux transporter	CDS	1149552	1150928	-	1377	transport	False	-1.42399975243755	4.26324037647954e-05	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_35020		cysteine synthase family protein	CDS	1150925	1151962	-	1038	biosynthetic	True			missing_in_A		BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_35025		alanine racemase	CDS	1151966	1153273	-	1308	biosynthetic	True	-0.816217950390932	0.0006370957945032	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_35030		ornithine cyclodeaminase family protein	CDS	1153342	1154298	-	957	biosynthetic	True	-0.735247933216101	0.0118111517058657	significant	up in MF6	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_35035		hypothetical protein	CDS	1155456	1155974	-	519		False	3.06208277350263	4.7712251025345e-06	significant	up in MF6C	BGC0001164.3	0.661
+chr3.region007	chr3	T1PKS, NRPS-like, aminopolycarboxylic-acid	AC1V0C_35040		gamma-glutamyltransferase family protein	CDS	1156348	1158333	-	1986	biosynthetic-additional	False	1.27665858198258	1.49773178389619e-05	significant	up in MF6C	BGC0001164.3	0.661
+chr2.region001	chr2	terpene	AC1V0C_16775	arsC	arsenate reductase (glutaredoxin)	CDS	4166	4522	+	357		False	-0.206872892179845	0.424073113212118	nonsig	up in MF6	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16780		zf-HC2 domain-containing protein	CDS	4663	4878	-	216		False			not_quantified		BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16785		RNA polymerase factor sigma-70	CDS	4856	5455	-	600	regulatory	False			not_quantified		BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16790		NADPH-dependent FMN reductase	CDS	5833	6387	+	555		False	0.195797579277667	0.0419765464038305	significant	up in MF6C	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16795		hybrid sensor histidine kinase/response regulator	CDS	6456	8705	-	2250	regulatory	False	0.508130843574556	0.349574393528933	nonsig	up in MF6C	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16800		response regulator	CDS	9198	9566	+	369	regulatory	False	0.236129205003483	0.203515290580439	nonsig	up in MF6C	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16805		chemotaxis protein CheC	CDS	9559	10185	+	627		False			missing_in_A		BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16810		GGDEF domain-containing protein	CDS	10182	11123	+	942	biosynthetic-additional	False	-0.127417214529274	0.408454637520843	nonsig	up in MF6	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16815		alpha/beta fold hydrolase	CDS	11139	12023	-	885	biosynthetic-additional	False	0.142392011847935	0.4833586252049	nonsig	up in MF6C	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16820		hypothetical protein	CDS	12214	12546	+	333		False			not_quantified		BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16825	hpnD	presqualene diphosphate synthase HpnD	CDS	12805	13653	+	849	biosynthetic	True	-1.03314571618679	5.07166687538799e-06	significant	up in MF6	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16830	hpnE	hydroxysqualene dehydroxylase HpnE	CDS	13667	14920	+	1254		True	-0.261211569400604	0.0810092825626994	nonsig	up in MF6	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16835	shc	squalene--hopene cyclase	CDS	14933	16906	+	1974	biosynthetic	True	-1.69672032897422	4.07983745708752e-06	significant	up in MF6	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16840		phosphorylase	CDS	16910	17617	+	708		False	-0.243928970167786	0.108250250500817	nonsig	up in MF6	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16845		MlaA family lipoprotein	CDS	17730	18737	-	1008		False	-0.313485109178753	0.0081926428510517	significant	up in MF6	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16850	hpnN	hopanoid transporter HpnN	CDS	18730	21363	-	2634	biosynthetic-additional	False	-0.161880002017032	0.118957276028738	nonsig	up in MF6	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16855		MlaC/ttg2D family ABC transporter substrate-binding protein	CDS	21690	22286	+	597		False	0.386602713821468	0.0005557777833318	significant	up in MF6C	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16860		type VI secretion system amidase effector protein Tae4	CDS	22664	23257	-	594		False			not_quantified		BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16865		PAAR domain-containing protein	CDS	23257	23820	-	564		False			not_quantified		BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16870		response regulator	CDS	24024	24668	-	645	regulatory	False	0.277172273182973	0.331864475067422	nonsig	up in MF6C	BGC0000656.5	0.502
+chr2.region001	chr2	terpene	AC1V0C_16875		cache domain-containing protein	CDS	24699	26084	-	1386	regulatory	False	0.573899741147901	0.0009371003573995	significant	up in MF6C	BGC0000656.5	0.502
+chr2.region002	chr2	redox-cofactor	AC1V0C_19285		methanol/ethanol family PQQ-dependent dehydrogenase	CDS	575012	576733	-	1722		False	2.34648873487426	9.54746986404752e-05	significant	up in MF6C	BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19290		TonB-dependent receptor	CDS	577166	579493	+	2328	transport	False	0.936186938784751	0.0420362002883927	significant	up in MF6C	BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19295		alpha/beta fold hydrolase	CDS	579548	580525	-	978	biosynthetic-additional	False			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19300		sigma-54-dependent Fis family transcriptional regulator	CDS	580877	582925	+	2049	regulatory	False	0.0503800582287326	0.85606120231973	nonsig	up in MF6C	BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19305	pqqA	pyrroloquinoline quinone precursor peptide PqqA	CDS	583247	583321	+	75		False			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19310	pqqB	pyrroloquinoline quinone biosynthesis protein PqqB	CDS	583382	584305	+	924		False	-0.281902417867613	0.412431123798627	nonsig	up in MF6	BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19315	pqqC	pyrroloquinoline-quinone synthase PqqC	CDS	584308	585027	+	720	biosynthetic	True	-1.07028082930679	0.0325195270369798	significant	up in MF6	BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19320	pqqD	pyrroloquinoline quinone biosynthesis peptide chaperone PqqD	CDS	585024	585305	+	282	biosynthetic	True			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19325	pqqE	pyrroloquinoline quinone biosynthesis protein PqqE	CDS	585307	586446	+	1140	biosynthetic	True	-1.55263346945406	0.0007609341250313	significant	up in MF6	BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19330		helix-turn-helix domain-containing protein	CDS	586707	587045	-	339		False			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19335		hypothetical protein	CDS	587125	588024	+	900		False			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19340		hypothetical protein	CDS	588232	588462	+	231		False			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19345		alpha/beta hydrolase	CDS	588491	589366	-	876	biosynthetic-additional	False			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19350		alpha/beta fold hydrolase	CDS	589499	589609	-	111		False			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19355		DinB family protein	CDS	589606	590412	-	807		False	0.0644119172457458	0.637785805780565	nonsig	up in MF6C	BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19360		YciI family protein	CDS	590524	590955	-	432		False			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19365		hypothetical protein	CDS	591171	591401	+	231		False	0.960358311389836	0.000964146263866	significant	up in MF6C	BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19370		MFS transporter	CDS	591593	593017	-	1425	transport	False			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19375		ABC transporter permease	CDS	593179	593940	-	762	transport	False			not_quantified		BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19380		ABC transporter ATP-binding protein	CDS	593944	594888	-	945	transport	False	-0.334815885986689	0.0051444992652761	significant	up in MF6	BGC0000600.3	0.452
+chr2.region002	chr2	redox-cofactor	AC1V0C_19385		cupin domain-containing protein	CDS	595313	595609	+	297		False			not_quantified		BGC0000600.3	0.452
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19805		hypothetical protein	CDS	693797	694126	+	330		False	-0.569778180119485	0.001977642185773	significant	up in MF6	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19810		hypothetical protein	CDS	694317	694904	+	588		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19815		hypothetical protein	CDS	695085	695435	+	351		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19820		barstar family protein	CDS	695466	695843	+	378		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19825		immunity 22 family protein	CDS	695938	696315	+	378		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19830		SymE family type I addiction module toxin	CDS	697293	697514	+	222		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19835		branched-chain amino acid ABC transporter substrate-binding protein	CDS	699042	700160	+	1119	transport	False	-0.223210140353864	0.0046114092621589	significant	up in MF6	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19840	livH	high-affinity branched-chain amino acid ABC transporter permease LivH	CDS	700343	701269	+	927		False			missing_in_B		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19845		high-affinity branched-chain amino acid ABC transporter permease LivM	CDS	701281	702552	+	1272		False	-0.323782098274485	0.11985870721132	nonsig	up in MF6	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19850	livG	high-affinity branched-chain amino acid ABC transporter ATP-binding protein LivG	CDS	702549	703322	+	774	transport	False	-0.174608430295262	0.302648884159171	nonsig	up in MF6	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19855		ABC transporter ATP-binding protein	CDS	703322	704023	+	702	transport	False	-0.0170678994143572	0.832837742672223	nonsig	up in MF6	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19860		DUF2000 family protein	CDS	704173	704580	-	408		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19865		AraC family ligand binding domain-containing protein	CDS	704625	705482	-	858	regulatory	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19870		AraC family transcriptional regulator	CDS	705556	706473	-	918	regulatory	False	2.33745698076353	6.34821962998235e-06	significant	up in MF6C	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19875		SDR family oxidoreductase	CDS	706575	707324	+	750	biosynthetic-additional	False	-1.31257979822927	0.0009014085613017	significant	up in MF6	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19880		aspartate aminotransferase family protein	CDS	707392	708693	-	1302	biosynthetic-additional	False	0.898526482688865	0.0012821697545553	significant	up in MF6C	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19885		LysR family transcriptional regulator	CDS	708771	709655	+	885	regulatory	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19890		isochorismate synthase	CDS	709669	711102	-	1434	biosynthetic-additional	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19895		isochorismate lyase	CDS	711099	711404	-	306	biosynthetic	True			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19900		thioesterase II family protein	CDS	711401	712174	-	774	biosynthetic-additional	True			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19905		(2,3-dihydroxybenzoyl)adenylate synthase	CDS	712171	713823	-	1653	biosynthetic-additional	True			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19910		helix-turn-helix transcriptional regulator	CDS	714041	714982	+	942	regulatory	True			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19915		non-ribosomal peptide synthetase	CDS	715106	719479	+	4374	biosynthetic	True			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19920		non-ribosomal peptide synthetase	CDS	719476	724953	+	5478	biosynthetic	True			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19925		Gfo/Idh/MocA family oxidoreductase	CDS	724950	726002	+	1053	biosynthetic-additional	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19930		ABC transporter ATP-binding protein	CDS	725999	727723	+	1725	transport	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19935		ABC transporter ATP-binding protein	CDS	727720	729492	+	1773	transport	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19940		TonB-dependent siderophore receptor	CDS	729639	731822	+	2184	transport	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19945		hypothetical protein	CDS	731822	732085	+	264		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19950		PepSY-associated TM helix domain-containing protein	CDS	732087	733598	+	1512		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19955		RhtX/FptX family siderophore transporter	CDS	733621	734868	+	1248	transport	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19960		MFS transporter	CDS	734953	736194	-	1242	transport	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19965		LysR family transcriptional regulator	CDS	736336	737208	+	873	regulatory	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19975		leucine-rich repeat-containing protein kinase family protein	CDS	737511	738824	+	1314	regulatory	False	-0.832376261624674	0.0163709520532009	significant	up in MF6	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19980		LysE family translocator	CDS	738835	739467	-	633	transport	False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19985		hypothetical protein	CDS	739569	739742	-	174		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19990		copper chaperone PCu(A)C	CDS	739775	740218	-	444		False	0.492689451326115	0.0434901889485091	significant	up in MF6C	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_19995		copper resistance CopC family protein	CDS	740311	740676	-	366		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_20000		DUF2946 domain-containing protein	CDS	740968	741345	-	378		False			not_quantified		BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_20005		SRPBCC family protein	CDS	741439	741933	-	495		False	1.68897696561297	0.0004587170948836	significant	up in MF6C	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_20010		2Fe-2S iron-sulfur cluster-binding protein	CDS	741992	742294	-	303		False	-0.314900109861448	0.343345104662133	nonsig	up in MF6	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_20015		sigma-54-dependent Fis family transcriptional regulator	CDS	742377	744290	-	1914	regulatory	False	0.98041884991553	1.86206631228425e-05	significant	up in MF6C	BGC0002678.2	1.087
+chr2.region003	chr2	NRP-metallophore, NRPS	AC1V0C_20020		DUF2964 family protein	CDS	744477	744752	+	276		False			not_quantified		BGC0002678.2	1.087
+chr2.region004	chr2	terpene	AC1V0C_20865		DUF4142 domain-containing protein	CDS	920340	920918	-	579		False			not_quantified		BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20870		HAD hydrolase-like protein	CDS	921323	921946	-	624	biosynthetic-additional	False	0.328655118945797	0.134922481858728	nonsig	up in MF6C	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20875		GNAT family N-acetyltransferase	CDS	922108	922551	+	444		False	1.37990309491238	0.0185270638044205	significant	up in MF6C	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20880		DUF1653 domain-containing protein	CDS	922609	922827	+	219		False	-1.28955748904258	0.000193554448872	significant	up in MF6	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20885	atpC	ATP synthase F1 subunit epsilon	CDS	922857	923315	-	459		False	-0.823155609609181	0.0015006275771741	significant	up in MF6	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20890	atpG	ATP synthase F1 subunit gamma	CDS	923326	924207	-	882		False	-0.72669351081317	0.0014721301995657	significant	up in MF6	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20895		phosphate acetyltransferase	CDS	924353	925324	+	972		False	-1.25624833168268	1.403622538101e-05	significant	up in MF6	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20900		acetate/propionate family kinase	CDS	925335	926543	+	1209		False	-1.10658770162541	9.25294579731029e-06	significant	up in MF6	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20905		alpha/beta fold hydrolase	CDS	926552	927673	+	1122	biosynthetic-additional	False	-1.37099998933836	5.59998969394289e-06	significant	up in MF6	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20910	fabI	enoyl-ACP reductase FabI	CDS	927702	928460	+	759	biosynthetic-additional	False	-1.40667119510652	0.0006936637582513	significant	up in MF6	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20915		winged helix-turn-helix domain-containing protein	CDS	928482	929693	-	1212		False	0.395072904804788	0.0132819216088023	significant	up in MF6C	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20920		terpene synthase family protein	CDS	930029	931108	-	1080	biosynthetic	True	0.628538217705628	0.0014939447737754	significant	up in MF6C	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20925	uppS	polyprenyl diphosphate synthase	CDS	931164	931934	-	771		False			not_quantified		BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20930		MFS transporter	CDS	932327	933715	-	1389	transport	False	-1.42025567597	0.154987130580193	nonsig	up in MF6	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20935		TetR/AcrR family transcriptional regulator	CDS	934105	934734	+	630	regulatory	False			not_quantified		BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20940	treA	alpha,alpha-trehalase TreA	CDS	934872	936590	+	1719		False	1.56652032628083	9.36546391048199e-06	significant	up in MF6C	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20945		carbohydrate porin	CDS	936711	938201	-	1491		False	-0.1104142359526	0.391819304588614	nonsig	up in MF6	BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20950		hypothetical protein	CDS	938294	938563	-	270		False			not_quantified		BGC0002708.2	0.744
+chr2.region004	chr2	terpene	AC1V0C_20955		hypothetical protein	CDS	939647	939784	+	138		False			not_quantified		BGC0002708.2	0.744
+chr2.region005	chr2	hserlactone	AC1V0C_21600		glutathione S-transferase family protein	CDS	1091110	1091757	+	648	biosynthetic-additional	False			not_quantified		BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21605		MFS transporter	CDS	1092097	1093347	+	1251	transport	False			not_quantified		BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21610		YXWGXW repeat-containing protein	CDS	1093712	1094083	-	372		False			not_quantified		BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21615		porin	CDS	1094668	1095789	+	1122		False	-0.314140007797079	0.0024631437682763	significant	up in MF6	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21620		GreA/GreB family elongation factor	CDS	1095966	1096364	-	399		False	0.146871501599492	0.300339824053012	nonsig	up in MF6C	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21625		DUF4148 domain-containing protein	CDS	1096877	1097206	+	330		False			not_quantified		BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21630		CBS domain-containing protein	CDS	1097364	1097825	-	462		False	1.11707050590077	4.39325248055204e-06	significant	up in MF6C	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21635	ribA	GTP cyclohydrolase II	CDS	1098001	1098651	+	651		False	-0.330111819484202	0.0097675894532623	significant	up in MF6	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21640		VOC family protein	CDS	1098927	1099313	-	387		False	0.876623184353772	0.0004765204004101	significant	up in MF6C	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21645		hypothetical protein	CDS	1099616	1099906	+	291		False			not_quantified		BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21650		hypothetical protein	CDS	1100111	1100875	-	765		False	-0.230634095060207	0.142563911693449	nonsig	up in MF6	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21655		acyl-homoserine-lactone synthase	CDS	1100927	1101535	-	609	biosynthetic	True	-0.558911263983031	0.100116253364957	nonsig	up in MF6	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21660		DUF4902 domain-containing protein	CDS	1101747	1102190	-	444		False	-0.427846522784474	0.0143343145161527	significant	up in MF6	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21665		autoinducer binding domain-containing protein	CDS	1102264	1102983	+	720	regulatory	False	-0.608316336302028	0.0010793589810699	significant	up in MF6	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21670		MgtC/SapB family protein	CDS	1103035	1103742	-	708		False	0.407815449119347	0.118907323068994	nonsig	up in MF6C	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21675		TolC family protein	CDS	1104046	1105590	-	1545	transport	False			not_quantified		BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21680		FUSC family protein	CDS	1105577	1107622	-	2046		False	0.715286972007757	0.0947111433971967	nonsig	up in MF6C	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21685	mdtN	multidrug transporter subunit MdtN	CDS	1107603	1108652	-	1050	transport	False	0.982661886931059	2.12609637729822e-05	significant	up in MF6C	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21690		hypothetical protein	CDS	1108649	1108942	-	294		False			not_quantified		BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21695		hypothetical protein	CDS	1109111	1109434	-	324		False			not_quantified		BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21700		metallophosphoesterase	CDS	1109621	1110766	+	1146		False	0.124508815434972	0.513128586071145	nonsig	up in MF6C	BGC0000927.3	0.43
+chr2.region005	chr2	hserlactone	AC1V0C_21705		alpha-ketoglutarate-dependent dioxygenase AlkB family protein	CDS	1110933	1111532	+	600		False	-0.504387409120149	0.235875348418801	nonsig	up in MF6	BGC0000927.3	0.43
+chr2.region006	chr2	terpene	AC1V0C_24140	pdxR	MocR-like pyridoxine biosynthesis transcription factor PdxR	CDS	1676612	1678096	+	1485	biosynthetic-additional	False			not_quantified		BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24145		carboxymuconolactone decarboxylase family protein	CDS	1678192	1678629	+	438	biosynthetic-additional	False			not_quantified		BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24150		cupin domain-containing protein	CDS	1678640	1679059	+	420		False			not_quantified		BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24155		TetR/AcrR family transcriptional regulator	CDS	1679335	1680030	+	696	regulatory	False			not_quantified		BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24160		HlyD family secretion protein	CDS	1680027	1680992	+	966	transport	False	-0.927829202451129	3.7706946598323e-05	significant	up in MF6	BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24165		ABC transporter ATP-binding protein	CDS	1680989	1681939	+	951	transport	False			missing_in_A		BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24170		ABC transporter permease	CDS	1681936	1683090	+	1155	transport	False			not_quantified		BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24175		efflux transporter outer membrane subunit	CDS	1683101	1684579	+	1479	transport	False	-1.18331988041201	7.22367269055742e-05	significant	up in MF6	BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24180		porin	CDS	1684647	1685861	-	1215		False	2.0761479600002	1.10365963269581e-05	significant	up in MF6C	BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24185		phytoene/squalene synthase family protein	CDS	1686327	1687391	-	1065	biosynthetic	True	-0.462749407104955	0.0421420828111519	significant	up in MF6	BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24190		glycerophosphodiester phosphodiesterase	CDS	1687761	1688906	+	1146		False	0.246045137088871	0.0166975042355294	significant	up in MF6C	BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24195		rhodanese-related sulfurtransferase	CDS	1688977	1690608	-	1632	biosynthetic-additional	False	-1.2193250303451	1.53941003339608e-06	significant	up in MF6	BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24200		cysteine dioxygenase family protein	CDS	1690714	1691280	-	567		False	0.956888818487187	0.027096474759975	significant	up in MF6C	BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24205		LysR family transcriptional regulator	CDS	1691298	1692272	+	975	regulatory	False			not_quantified		BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24210		acyl-CoA dehydrogenase family protein	CDS	1692352	1693710	-	1359	biosynthetic-additional	False			not_quantified		BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24215		LLM class flavin-dependent oxidoreductase	CDS	1693951	1695036	+	1086	biosynthetic-additional	False			not_quantified		BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24220		class II aldolase/adducin family protein	CDS	1695060	1695899	+	840		False			not_quantified		BGC0001684.3	0.61
+chr2.region006	chr2	terpene	AC1V0C_24225		ABC transporter substrate-binding protein	CDS	1695933	1696967	+	1035		False			not_quantified		BGC0001684.3	0.61
+chr2.region007	chr2	phosphonate	AC1V0C_24750		4-hydroxyproline epimerase	CDS	1818780	1819712	-	933		False			missing_in_B		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24755		dihydrodipicolinate synthase family protein	CDS	1819964	1820884	+	921		False	0.789063590169896	0.0055684390962823	significant	up in MF6C	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24760		APC family permease	CDS	1821121	1822746	+	1626	biosynthetic-additional	False			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24765		aldehyde dehydrogenase (NADP(+))	CDS	1822818	1824410	+	1593	biosynthetic	True			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24770		Ldh family oxidoreductase	CDS	1824403	1825425	+	1023		True			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24775	ilvD	dihydroxy-acid dehydratase	CDS	1825740	1827599	+	1860		True	-0.841655795873841	3.1518935001234e-05	significant	up in MF6	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24780		SH3 domain-containing protein	CDS	1827720	1828622	-	903		True	1.34412284307124	0.000183819598333	significant	up in MF6C	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24785		hypothetical protein	CDS	1828651	1829073	-	423		True			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24790		sigma-70 family RNA polymerase sigma factor	CDS	1829371	1830897	+	1527		True			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24795		helix-hairpin-helix domain-containing protein	CDS	1831080	1831961	+	882		True	3.06365582334952	7.69498026468436e-07	significant	up in MF6C	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24800		helix-turn-helix domain-containing protein	CDS	1832108	1832533	-	426	regulatory	True	0.394040909255995	0.0417312204466446	significant	up in MF6C	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24805		DUF2938 domain-containing protein	CDS	1832674	1833171	+	498		True			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24810		MarR family transcriptional regulator	CDS	1833178	1833273	-	96		True			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24815		multidrug transporter	CDS	1833260	1833364	+	105		True			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24820	scpC	succinyl-CoA:acetate CoA-transferase ScpC	CDS	1833395	1834909	-	1515		True	-3.0404362101658	3.29519527197275e-08	significant	up in MF6	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24825		CDP-alcohol phosphatidyltransferase family protein	CDS	1835546	1836241	+	696		True	-1.13835695806543	0.0049144151600178	significant	up in MF6	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24830		HalD/BesD family halogenase	CDS	1836238	1837047	+	810		True	-2.06526735629175	5.18755364121524e-06	significant	up in MF6	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24835		HpnL family protein	CDS	1837044	1838045	+	1002		True			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24840		phosphocholine cytidylyltransferase family protein	CDS	1838081	1838848	+	768	biosynthetic	True	-2.1166984745109	2.86494058342524e-08	significant	up in MF6	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24845	aepX	phosphoenolpyruvate mutase	CDS	1838845	1840530	+	1686	biosynthetic	True	-4.28187131957722	7.0518156232283806e-09	significant	up in MF6	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24850	aepY	phosphonopyruvate decarboxylase	CDS	1840527	1841723	+	1197	biosynthetic	True	-1.95766679136511	5.29360585487904e-08	significant	up in MF6	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24855		2-aminoethylphosphonate aminotransferase	CDS	1841723	1842787	+	1065	biosynthetic	True	-1.54917033693864	5.46778248030373e-07	significant	up in MF6	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24860		hypothetical protein	CDS	1843011	1843943	+	933		False			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24865		PA3715 family protein	CDS	1844496	1845314	+	819		False	-0.129407298605198	0.6508229679116	nonsig	up in MF6	BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24870		acyltransferase family protein	CDS	1845342	1846493	-	1152	biosynthetic-additional	False			not_quantified		BGC0002036.4	0.504
+chr2.region007	chr2	phosphonate	AC1V0C_24875	pip	prolyl aminopeptidase	CDS	1846821	1847753	+	933	biosynthetic-additional	False	0.179765481716792	0.0733011406437077	nonsig	up in MF6C	BGC0002036.4	0.504
+chr2.region008	chr2	terpene-precursor	AC1V0C_26610	dnaG	DNA primase	CDS	2241274	2243148	-	1875		False	-0.173425543105225	0.28279543761862	nonsig	up in MF6	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26615		GatB/YqeY domain-containing protein	CDS	2243219	2243665	-	447		False	-0.281494892511986	0.147791684599498	nonsig	up in MF6	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26620	rpsU	30S ribosomal protein S21	CDS	2243860	2244072	-	213		False	0.815063396110915	0.0004895595894062	significant	up in MF6C	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26625		BaiN/RdsA family NAD(P)/FAD-dependent oxidoreductase	CDS	2244178	2245398	-	1221		False	0.198550432998122	0.279856771125326	nonsig	up in MF6C	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26630	tsaD	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	CDS	2245529	2246569	+	1041		False	-0.0577262365352276	0.633886534357527	nonsig	up in MF6	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26635	folE2	GTP cyclohydrolase FolE2	CDS	2246659	2247468	-	810		False			missing_in_A		BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26640	dxs	1-deoxy-D-xylulose-5-phosphate synthase	CDS	2247622	2249526	-	1905	biosynthetic-additional	False	-1.28378714065946	4.18658073912974e-07	significant	up in MF6	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26645		polyprenyl synthetase family protein	CDS	2249608	2250492	-	885	biosynthetic	True	-0.700436253726284	0.0003797570650756	significant	up in MF6	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26650		exodeoxyribonuclease VII small subunit	CDS	2250489	2250782	-	294		False			not_quantified		BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26655		aromatic ring-hydroxylating oxygenase subunit alpha	CDS	2251052	2252158	+	1107		False			not_quantified		BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26660		sulfurtransferase	CDS	2252276	2253145	+	870		False	0.346596927502535	0.0327694364322506	significant	up in MF6C	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26665		dienelactone hydrolase family protein	CDS	2253200	2254075	-	876		False	0.845464105585595	5.84726057468708e-06	significant	up in MF6C	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26670		NAD(P)/FAD-dependent oxidoreductase	CDS	2254377	2255711	-	1335	biosynthetic-additional	False	0.931680460651325	5.06599943168664e-06	significant	up in MF6C	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26675	polA	DNA polymerase I	CDS	2255990	2258743	-	2754		False	-0.0560665197374561	0.453024025697301	nonsig	up in MF6	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26680		LOG family protein	CDS	2258745	2259503	+	759	biosynthetic-additional	False	-0.273771289240376	0.0125635058743487	significant	up in MF6	BGC0002283.2	0.509
+chr2.region008	chr2	terpene-precursor	AC1V0C_26685		hypothetical protein	CDS	2259904	2260203	+	300		False			not_quantified		BGC0002283.2	0.509
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27935		IclR family transcriptional regulator	CDS	2543114	2544010	-	897	regulatory	False			not_quantified		BGC0002447.3	0.396
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27940		ABC transporter ATP-binding protein	CDS	2544305	2545387	+	1083	transport	False			not_quantified		BGC0002447.3	0.396
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27945		ABC transporter permease	CDS	2545388	2546368	+	981	transport	False			not_quantified		BGC0002447.3	0.396
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27950		ABC transporter permease	CDS	2546365	2547159	+	795	transport	False			not_quantified		BGC0002447.3	0.396
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27955		(2Fe-2S)-binding protein	CDS	2547159	2547506	+	348	biosynthetic	True			not_quantified		BGC0002447.3	0.396
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27960		FAD/NAD(P)-dependent oxidoreductase	CDS	2547503	2548945	+	1443	biosynthetic	True			not_quantified		BGC0002447.3	0.396
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27965		NAD(P)/FAD-dependent oxidoreductase	CDS	2548938	2550089	+	1152	biosynthetic	True			not_quantified		BGC0002447.3	0.396
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27970		ABC transporter substrate-binding protein	CDS	2550086	2551132	+	1047		False	1.04738794737388	0.0003014937310946	significant	up in MF6C	BGC0002447.3	0.396
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27975		hypothetical protein	CDS	2551281	2552441	-	1161		False			not_quantified		BGC0002447.3	0.396
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27980		PAAR domain-containing protein	CDS	2552459	2552641	-	183		False			not_quantified		BGC0002447.3	0.396
+chr2.region009	chr2	hydrogen-cyanide	AC1V0C_27985		MFS transporter	CDS	2552877	2554214	+	1338	transport	False			not_quantified		BGC0002447.3	0.396
+chr2.region010	chr2	ectoine	AC1V0C_29600		polysaccharide deacetylase family protein	CDS	2894960	2895694	+	735		False			missing_in_B		BGC0002274.2	0.56
+chr2.region010	chr2	ectoine	AC1V0C_29605		hypothetical protein	CDS	2895882	2897963	-	2082		False			missing_in_B		BGC0002274.2	0.56
+chr2.region010	chr2	ectoine	AC1V0C_29610		helix-turn-helix transcriptional regulator	CDS	2898210	2899328	+	1119		False	2.50850180088129	4.76351311075721e-06	significant	up in MF6C	BGC0002274.2	0.56
+chr2.region010	chr2	ectoine	AC1V0C_29615		ectoine synthase	CDS	2899755	2900141	+	387	biosynthetic	True			not_quantified		BGC0002274.2	0.56
+chr2.region010	chr2	ectoine	AC1V0C_29620		MFS transporter	CDS	2900249	2901469	+	1221	transport	False			not_quantified		BGC0002274.2	0.56
+chr2.region010	chr2	ectoine	AC1V0C_29625		class I adenylate-forming enzyme family protein	CDS	2901459	2902982	+	1524	biosynthetic-additional	False			not_quantified		BGC0002274.2	0.56
+chr2.region010	chr2	ectoine	AC1V0C_29630		class I SAM-dependent methyltransferase	CDS	2902877	2904016	+	1140		False			not_quantified		BGC0002274.2	0.56
+chr2.region011	chr2	RiPP-like	AC1V0C_29790		MFS transporter	CDS	2933355	2934659	+	1305	transport	False			not_quantified		BGC0002311.3	0.464
+chr2.region011	chr2	RiPP-like	AC1V0C_29795		2,3-butanediol dehydrogenase	CDS	2934661	2935782	+	1122	biosynthetic-additional	False			not_quantified		BGC0002311.3	0.464
+chr2.region011	chr2	RiPP-like	AC1V0C_29800		SDR family NAD(P)-dependent oxidoreductase	CDS	2935760	2936482	+	723	biosynthetic-additional	False			not_quantified		BGC0002311.3	0.464
+chr2.region011	chr2	RiPP-like	AC1V0C_29805		porin	CDS	2936659	2937750	+	1092		False			not_quantified		BGC0002311.3	0.464
+chr2.region011	chr2	RiPP-like	AC1V0C_29810		TOMM precursor leader peptide-binding protein	CDS	2937819	2940074	-	2256	biosynthetic	True	-1.21711681698906	6.04735337800981e-06	significant	up in MF6	BGC0002311.3	0.464
+chr2.region011	chr2	RiPP-like	AC1V0C_29815		BMA_0021/BMA_0022 family TOMM bacteriocin	CDS	2940167	2940529	-	363	biosynthetic	True	-0.6726990795555	0.003485125381294	significant	up in MF6	BGC0002311.3	0.464
+chr2.region011	chr2	RiPP-like	AC1V0C_29820		BMA_0021/BMA_0022 family TOMM bacteriocin	CDS	2940546	2940890	-	345	biosynthetic	True	-1.27315403821703	9.44283918040459e-06	significant	up in MF6	BGC0002311.3	0.464
+chr2.region011	chr2	RiPP-like	AC1V0C_29825		TOMM system kinase/cyclase fusion protein	CDS	2940924	2944973	-	4050	regulatory	False	-1.10309846304131	7.47006856084861e-05	significant	up in MF6	BGC0002311.3	0.464

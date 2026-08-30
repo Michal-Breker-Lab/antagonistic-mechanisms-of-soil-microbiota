@@ -1,0 +1,148 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+description: MF6 proteomics supplementary-table workflow
+type: object
+properties:
+  kegg:
+    type: object
+    description: KEGG term filtering, applied identically by enrichment_mf6 and core_clusters
+    properties:
+      drop_non_bacterial: {type: boolean}
+      drop_overview: {type: boolean}
+      drop_retired: {type: boolean}
+      min_term_size: {type: integer, minimum: 1}
+      min_hits: {type: integer, minimum: 1}
+    required:
+      - drop_non_bacterial
+      - drop_overview
+      - drop_retired
+      - min_term_size
+      - min_hits
+  resources:
+    type: object
+    description: every input the workflow reads, keyed by the name rules pass to res()
+    minProperties: 1
+    additionalProperties:
+      type: string
+      description: path relative to the working directory; must stay inside this folder
+      pattern: "^(resources|config)/"
+  published_tables:
+    type: object
+    description: internal workbook name -> published filename
+    properties:
+      generated:
+        type: object
+        additionalProperties: {type: string}
+    required: [generated]
+  samples:
+    type: string
+    description: path to the sample sheet, relative to the working directory
+  absent_replicon:
+    type: string
+    description: replicon absent from both mutant genomes, as named in the staged annotation
+  locus_prefix:
+    type: string
+    description: locus-tag prefix of the bacterial proteins in the staged resources
+  de:
+    type: object
+    properties:
+      min_valid:
+        type: integer
+        minimum: 1
+      min_on:
+        type: integer
+        minimum: 1
+      fdr:
+        type: number
+        exclusiveMinimum: 0
+        maximum: 1
+      lfc:
+        type: number
+        minimum: 0
+      day:
+        type: integer
+        minimum: 1
+        description: the day the DE models are fitted on
+      min_core:
+        type: integer
+        minimum: 1
+        description: fewest core proteins the fit will accept
+    required: [min_valid, min_on, fdr, lfc, day, min_core]
+  onoff_percentile_gate:
+    type: number
+    minimum: 0
+    maximum: 100
+    description: ON/OFF calls are admitted only above this percentile of the absent group
+  clusters:
+    type: object
+    properties:
+      k:
+        type: integer
+        minimum: 2
+      fdr:
+        type: number
+        exclusiveMinimum: 0
+        maximum: 1
+    required: [k, fdr]
+  heatmap:
+    type: object
+    properties:
+      prefix:
+        type: string
+    required: [prefix]
+  supp_tables:
+    type: object
+    properties:
+      lfq_decimals: {type: integer, minimum: 0}
+    required: [lfq_decimals]
+  secretion_systems:
+    type: object
+    properties:
+      models:
+        type: object
+        properties:
+          org: {type: string}
+          package: {type: string}
+          version: {type: string}
+        required: [org, package, version]
+      isolates:
+        type: array
+        items: {type: string}
+        minItems: 1
+        description: relative genomes included in Table 01; MF6 is always included
+    required: [models, isolates]
+  candidates:
+    type: object
+    properties:
+      min_reps: {type: integer, minimum: 1}
+    required: [min_reps]
+  figures:
+    type: object
+    properties:
+      volcano:
+        type: object
+        properties:
+          fdr: {type: number, exclusiveMinimum: 0, maximum: 1}
+          lfc: {type: number, minimum: 0}
+        required: [fdr, lfc]
+      bubble:
+        type: object
+        properties:
+          alpha: {type: number, exclusiveMinimum: 0, maximum: 1}
+          fdr_cap: {type: number, exclusiveMinimum: 0}
+        required: [alpha, fdr_cap]
+    required: [volcano, bubble]
+required:
+  - resources
+  - samples
+  - published_tables
+  - kegg
+  - absent_replicon
+  - locus_prefix
+  - de
+  - onoff_percentile_gate
+  - clusters
+  - heatmap
+  - supp_tables
+  - candidates
+  - secretion_systems
+  - figures

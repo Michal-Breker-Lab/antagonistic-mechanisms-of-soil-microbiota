@@ -1,0 +1,15 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+description: one row per Tn5 insertion clone with a whole-genome sequencing run
+type: object
+properties:
+  clone:
+    type: string
+    description: clone name as Table S12 prints it; the SRA Sample name
+  platform:
+    type: string
+    enum: ["nanopore", "illumina"]
+  sra:
+    type: string
+    pattern: "^[SED]RR[0-9]+$"
+    description: SRA Run accession, from SraRunInfo.csv
+required: [clone, platform, sra]

@@ -1,0 +1,108 @@
+samples: "config/samples.tsv"
+clones: "config/clones.tsv"
+sanger: "config/sanger.tsv"
+
+# Inputs, by the name rules pass to res().
+resources:
+  fragpipe: "resources/fragpipe/combined_protein.tsv"
+  gff: "resources/genome/MF6.gff"
+  eggnog: "resources/annotation/eggnog_annotation.tsv"
+  kegg_names: "resources/annotation/kegg_pathway_names.tsv"
+  deeplocpro: "resources/annotation/DeepLocPro.tsv"
+  interpro: "resources/annotation/interpro.tsv"
+  all_pfams: "resources/toxins/all_pfams.csv"
+  t6ss: "resources/toxins/t6ss_effector_predictions.tsv"
+  final_list: "resources/toxins/final_list.tsv"
+  txsscan_tree: "resources/secretion_systems/txsscan"
+  antismash_genes: "resources/antismash/antismash.tsv"
+  kegg_classes: "resources/annotation/kegg_pathway_classes.tsv"
+  genome: "resources/genome/MF6.fasta"
+  proteome: "resources/genome/MF6.faa"
+  tn5: "resources/genome/Tn5.fa"
+
+absent_replicon: "chr3"   # the replicon both mutants have lost
+locus_prefix: "AC1V0C_"
+
+# Passed straight to limma.  Excluded runs come from samples.tsv's qc_pass.
+de:
+  min_valid: 2          # replicates to call a protein quantified in a group
+  min_on: 3             # replicates on the present side for an ON/OFF call
+  fdr: 0.05
+  lfc: 1
+  day: 2                # day 3 has no mutants
+  min_core: 200         # fewest core proteins the fit accepts
+
+# Percentile of the absent group's abundances an ON/OFF call must clear.
+onoff_percentile_gate: 50
+
+clusters:
+  k: 8
+  fdr: 0.05
+
+heatmap:
+  prefix: "candidates_sup_horizontal"
+
+supp_tables:
+  lfq_decimals: 4
+
+# `isolates` selects the relatives; MF6 is always included, from its own run.
+secretion_systems:
+  models:
+    org: "macsy-models"
+    package: "TXSScan"
+    version: "1.1.4"
+  isolates: ["CL130", "CL52", "CL91", "MF181", "MF397", "MF51", "MF7"]
+
+candidates:
+  min_reps: 3           # replicates of one day-2 group to call it expressed
+
+# Here, not in the scripts, so a figure cannot disagree with its table.
+figures:
+  volcano:
+    fdr: 0.05
+    lfc: 1
+  bubble:
+    alpha: 0.05
+    fdr_cap: 4          # -log10 FDR where the colour ramp saturates
+
+# Applied before the Fisher tests, against KEGG's BRITE hierarchy (br08901).
+kegg:
+  drop_non_bacterial: true
+  drop_overview: true
+  drop_retired: true
+  min_term_size: 5      # proteins in the universe
+  min_hits: 2           # proteins in the foreground
+
+# Reads map to the genome plus the cassette as a fourth contig.  The cassette's
+# name and length are read from Tn5.fa, not declared here.
+tn:
+  detect:
+    min_ins: 100        # shortest insertion event considered
+    cluster: 150        # bp within which junctions are one site
+    min_af: 0.10
+    presets:            # nanopore reads span the cassette; Illumina only reach it
+      nanopore:
+        FLANK: 100
+        ADJACENT: 250
+        OVERLAP: 100
+        MIN_READS: 3
+      illumina:
+        FLANK: 25
+        ADJACENT: 60
+        OVERLAP: 30
+        MIN_READS: 5
+  sanger:
+    min_flank: 150      # rejects short, N-heavy tails
+    min_mapq: 30
+  coverage_mapq: [0, 10]  # published table reports q10
+
+published_tables:
+  generated:
+    secretion_systems: "Table_S07_secretion_systems.xlsx"
+    lfq_raw: "Table_S08_LFQ_raw_proteomics.xlsx"
+    lfq_normalized: "Table_S09_LFQ_normalized_proteomics.xlsx"
+    de_proteomics: "Table_S10_DE_proteomics.xlsx"
+    enrichment: "Table_S11_enrichment.xlsx"
+    tn_insertion_sites: "Table_S12_Tn_insertion_sites.xlsx"
+    coverage_breadth: "Table_S13_coverage_breadth.xlsx"
+    potential_toxins: "Table_S14_potential_toxins.xlsx"

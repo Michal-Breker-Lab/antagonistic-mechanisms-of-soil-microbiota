@@ -1,0 +1,5 @@
+# Sanger verification reads, one row per clone.  Both directions read outward
+# from the Tn5 cassette, so the genomic flank is what places the insertion.
+clone	fwd	rev
+54B7	resources/sanger/54B7_F.fasta	resources/sanger/54B7_R.fasta
+57A4	resources/sanger/57A4_F.fasta	resources/sanger/57A4_R.fasta

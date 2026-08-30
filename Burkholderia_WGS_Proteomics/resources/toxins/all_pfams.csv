@@ -1,0 +1,1448 @@
+pfamID,pfam_real_name,pfam_toxity
+pfam13023,HD 3,nan
+pfam00005,ABC tran,nan
+pfam07602,DUF1565,nan
+pfam13229,Beta helix,nan
+pfam00353,HemolysinCabind,nan
+pfam04365,BrnT toxin,tox
+pfam07927,HicA toxin,tox
+pfam06769,YoeB toxin,tox
+pfam01850,PIN,nan
+pfam01554,MatE,nan
+pfam00664,ABC membrane,nan
+pfam13671,AAA 33,nan
+pfam00067,p450,nan
+pfam03412,Peptidase C39,tox
+pfam13470,PIN 3,tox
+pfam05016,ParE toxin,tox
+pfam03534,SpvB,nan
+pfam12256,TcdB toxin midN,tox
+pfam12255,TcdB toxin midC,tox
+pfam02452,PemK toxin,tox
+pfam00882,Zn dep PLPC,tox
+pfam06296,RelE,tox
+pfam01471,PG binding 1,nan
+pfam00959,Phage lysozyme,tox
+pfam15738,YafQ toxin,tox
+pfam02674,Colicin V,tox
+pfam06414,Zeta toxin,tox
+pfam13304,AAA 21,nan
+pfam08843,AbiEii,tox
+pfam07804,HipA C,tox
+pfam07812,TfuA,nan
+pfam09857,YjhX toxin,tox
+pfam00873,ACR tran,nan
+pfam13657,Couple hipA,nan
+pfam05673,DUF815,nan
+pfam08327,AHSA1,nan
+pfam03364,Polyketide cyc,nan
+pfam08808,RES,tox
+pfam10439,Bacteriocin IIc,tox
+pfam08085,Entericidin,tox
+pfam00196,GerE,nan
+pfam05015,HigB like toxin,tox
+pfam07498,Rho N,nan
+pfam06958,Pyocin S,tox
+pfam09000,Cytotoxic,tox
+pfam14496,NEL,nan
+pfam13665,DUF4150,nan
+pfam15635,Tox GHH2,tox
+pfam01636,APH,nan
+pfam05593,RHS repeat,nan
+pfam03527,RHS,nan
+pfam12261,T hemolysin,tox
+pfam02917,Pertussis S1,tox
+pfam15653,Tox URI2,tox
+pfam12639,Colicin DNase,tox
+pfam13332,Fil haemagg 2,nan
+pfam04829,PT VENN,tox
+pfam12919,TcdA TcdB,tox
+pfam03176,MMPL,nan
+pfam12704,MacB PCD,nan
+pfam02687,FtsX,nan
+pfam01325,Fe dep repress,nan
+pfam02742,Fe dep repr C,nan
+pfam04023,FeoA,nan
+pfam07884,VKOR,nan
+pfam01797,Y1 Tnp,nan
+pfam03583,LIP,tox
+pfam00652,Ricin B lectin,tox
+pfam07992,Pyr redox 2,nan
+pfam09242,FCSD flav bind,nan
+pfam02661,Fic,nan
+pfam01473,Choline bind 1,nan
+pfam11848,DUF3368,nan
+pfam09907,HigB toxin,tox
+pfam01823,MACPF,tox
+pfam00045,Hemopexin,nan
+pfam00139,Lectin legB,nan
+pfam03762,VOMI,tox
+pfam15723,MqsR toxin,tox
+pfam14431,YwqJ deaminase,tox
+pfam15636,Tox GHH,tox
+pfam00485,PRK,nan
+pfam15781,ParE like toxin,tox
+pfam01909,NTP transf 2,nan
+pfam12695,Abhydrolase 5,nan
+pfam09371,Tex N,nan
+pfam12836,HHH 3,nan
+pfam00575,S1,nan
+pfam16921,Tex YqgF,nan
+pfam05973,Gp49,nan
+pfam10130,PIN 2,tox
+pfam14487,DarT,tox
+pfam13784,Fic N,nan
+pfam13310,Virulence RhuM,nan
+pfam08239,SH3 3,nan
+pfam03498,CDtoxinA,tox
+pfam07591,PT HINT,tox
+pfam01458,SUFBD,nan
+pfam14528,LAGLIDADG 3,nan
+pfam15605,Ntox28,tox
+pfam09339,HTH IclR,nan
+pfam07703,A2M BRD,nan
+pfam00207,A2M,nan
+pfam01835,MG2,nan
+pfam00754,F5 F8 type C,nan
+pfam13517,FG GAP 3,nan
+pfam04055,Radical SAM,nan
+pfam16199,Radical SAM C,nan
+pfam12790,T6SS SciN,tox
+pfam07610,DUF1573,nan
+pfam12846,AAA 10,nan
+pfam00030,Crystall,tox
+pfam00400,WD40,nan
+pfam01661,Macro,nan
+pfam07081,DUF1349,nan
+pfam13303,PTS EIIC 2,nan
+pfam07690,MFS 1,nan
+pfam03496,ADPrib exo Tox,tox
+pfam04233,Phage Mu F,nan
+pfam11663,Toxin YhaV,tox
+pfam08845,SymE toxin,tox
+pfam01381,HTH 3,nan
+pfam12703,ptaRNA1 toxin,tox
+pfam15527,Ntox22,tox
+pfam01928,CYTH,nan
+pfam13166,AAA 13,nan
+pfam01845,CcdB,tox
+pfam05954,Phage GPD,nan
+pfam06114,Peptidase M78,nan
+pfam00188,CAP,nan
+pfam15643,Tox PL 2,tox
+pfam05791,Bacillus HBL,tox
+pfam14424,Toxin deaminase,tox
+pfam10671,TcpQ,nan
+pfam03595,SLAC1,nan
+pfam00015,MCPsignal,nan
+pfam11236,DUF3037,nan
+pfam03538,VRP1,nan
+pfam00999,Na H Exchanger,nan
+pfam05707,Zot,tox
+pfam00437,T2SSE,nan
+pfam00672,HAMP,nan
+pfam07968,Leukocidin,tox
+pfam12563,Hemolysin N,tox
+pfam16458,Beta prism lec,nan
+pfam16670,PI PLC C1,nan
+pfam13476,AAA 23,nan
+pfam13004,BACON,nan
+pfam11678,DUF3274,nan
+pfam13700,DUF4158,nan
+pfam01526,DDE Tnp Tn3,nan
+pfam03545,YopE,nan
+pfam00563,EAL,nan
+pfam00614,PLDc,nan
+pfam13091,PLDc 2,nan
+pfam14437,MafB19 deam,nan
+pfam14891,Peptidase M91,tox
+pfam09009,Exotox A cataly,tox
+pfam03497,Anthrax toxA,tox
+pfam09101,Exotox A bind,tox
+pfam14436,EndoU bacteria,tox
+pfam14200,RicinB lectin 2,tox
+pfam00722,Glyco hydro 16,nan
+pfam04616,Glyco hydro 43,nan
+pfam03422,CBM 6,nan
+pfam15542,Ntox50,tox
+pfam15537,Ntox43,tox
+pfam15657,Tox HNH EHHH,tox
+pfam14410,GH E,tox
+pfam09102,Exotox A target,tox
+pfam15648,Tox REase 5,tox
+pfam13175,AAA 15,nan
+pfam14412,AHH,tox
+pfam15606,Ntox34,tox
+pfam00395,SLH,nan
+pfam15644,Gln amidase,tox
+pfam13365,Trypsin 2,nan
+pfam07944,Glyco hydro 127,nan
+pfam03664,Glyco hydro 62,nan
+pfam13472,Lipase GDSL 2,nan
+pfam16499,Melibiase 2,nan
+pfam02057,Glyco hydro 59,nan
+pfam13385,Laminin G 3,nan
+pfam02983,Pro Al protease,nan
+pfam07995,GSDH,nan
+pfam00801,PKD,nan
+pfam00331,Glyco hydro 10,nan
+pfam16483,Glyco hydro 64,nan
+pfam00704,Glyco hydro 18,nan
+pfam13207,AAA 17,nan
+pfam00724,Oxidored FMN,nan
+pfam02382,RTX,tox
+pfam08339,RTX C,tox
+pfam05704,Caps synth,tox
+pfam15561,Imm15,tox
+pfam01927,Mut7 C,nan
+pfam00482,T2SSF,nan
+pfam01764,Lipase 3,nan
+pfam07634,RtxA,tox
+pfam16671,ACD,nan
+pfam11647,MLD,nan
+pfam11713,Peptidase C80,nan
+pfam01375,Enterotoxin a,tox
+pfam10734,DUF2523,nan
+pfam05946,TcpA,tox
+pfam01376,Enterotoxin b,tox
+pfam02498,Bro N,nan
+pfam03374,ANT,nan
+pfam13448,DUF4114,nan
+pfam14113,Tae4,tox
+pfam15639,Tox MPTase3,tox
+pfam15523,Ntox16,tox
+pfam05860,Haemagg act,nan
+pfam13754,Big 3 4,nan
+pfam10672,Methyltrans SAM,nan
+pfam14414,WHH,tox
+pfam05925,IpgD,tox
+pfam04952,AstE AspA,nan
+pfam01479,S4,nan
+pfam01728,FtsJ,nan
+pfam11429,Colicin D,tox
+pfam07676,PD40,nan
+pfam13620,CarboxypepD reg,nan
+pfam00691,OmpA,nan
+pfam01844,HNH,nan
+pfam15647,Tox REase 3,tox
+pfam01420,Methylase S,nan
+pfam03543,Peptidase C58,nan
+pfam08376,NIT,nan
+pfam03178,CPSF A,nan
+pfam01848,HOK GEF,tox
+pfam14021,TNT,tox
+pfam15604,Ntox15,tox
+pfam01938,TRAM,nan
+pfam10552,ORF6C,nan
+pfam15533,Ntox33,tox
+pfam04149,DUF397,nan
+pfam14449,PT TG,tox
+pfam01079,Hint,nan
+pfam14428,SCP1201 deam,tox
+pfam03752,ALF,nan
+pfam11958,DUF3472,nan
+pfam02585,PIG L,nan
+pfam09076,Crystall 2,tox
+pfam16935,Hol Tox,tox
+pfam00589,Phage integrase,nan
+pfam14657,Arm DNA bind 4,nan
+pfam14659,Phage int SAM 3,nan
+pfam08281,Sigma70 r4 2,nan
+pfam07953,Toxin R bind N,tox
+pfam01742,Peptidase M27,tox
+pfam07952,Toxin trans,tox
+pfam07951,Toxin R bind C,tox
+pfam01370,Epimerase,nan
+pfam08338,DUF1731,nan
+pfam14411,LHH,tox
+pfam13533,Biotin lipoyl 2,nan
+pfam13437,HlyD 3,nan
+pfam04740,LXG,nan
+pfam07538,ChW,nan
+pfam15654,Tox WTIP,tox
+pfam10604,Polyketide cyc2,nan
+pfam14171,SpoIISA toxin,tox
+pfam00027,cNMP binding,nan
+pfam00028,Cadherin,nan
+pfam13177,DNA pol3 delta2,nan
+pfam12169,DNA pol3 gamma3,nan
+pfam15529,Ntox24,tox
+pfam05638,T6SS HCP,nan
+pfam10753,Toxin GhoT OrtT,tox
+pfam13646,HEAT 2,nan
+pfam13940,Ldr toxin,tox
+pfam07254,Cpta toxin,nan
+pfam08178,GnsAB toxin,tox
+pfam06755,CbtA toxin,tox
+pfam15641,Tox MPTase5,tox
+pfam06109,HlyE,tox
+pfam07906,Toxin 15,tox
+pfam06254,YdaT toxin,tox
+pfam11080,GhoS,tox
+pfam15640,Tox MPTase4,tox
+pfam13205,Big 5,nan
+pfam16754,Pesticin,tox
+pfam08309,LVIVD,nan
+pfam12920,TcdA TcdB pore,tox
+pfam03372,Exo endo phos,nan
+pfam01289,Thiol cytolysin,nan
+pfam06725,3D,nan
+pfam15607,Ntox44,tox
+pfam14448,Nuc N,tox
+pfam05431,Toxin 10,tox
+pfam15652,Tox SHH,tox
+pfam15528,Ntox23,tox
+pfam13699,DUF4157,nan
+pfam01852,START,nan
+pfam07532,Big 4,nan
+pfam12733,Cadherin like,nan
+pfam07523,Big 3,nan
+pfam12538,FtsK SpoIIIE N,nan
+pfam01580,FtsK SpoIIIE,nan
+pfam05168,HEPN,nan
+pfam13957,YafO toxin,tox
+pfam13958,ToxN toxin,tox
+pfam05345,He PIG,nan
+pfam00161,RIP,tox
+pfam11721,Malectin,nan
+pfam00041,fn3,nan
+pfam01670,Glyco hydro 12,nan
+pfam01011,PQQ,nan
+pfam05488,PAAR motif,nan
+pfam07745,Glyco hydro 53,nan
+pfam01693,Cauli VI,nan
+pfam00075,RNase H,nan
+pfam15935,RnlA toxin,tox
+pfam15522,Ntox14,tox
+pfam15532,Ntox30,tox
+pfam15650,Tox REase 9,tox
+pfam01453,B lectin,nan
+pfam01551,Peptidase M23,nan
+pfam16535,T3SSipB,tox
+pfam04888,SseC,nan
+pfam14859,Colicin M,tox
+pfam13296,T6SS Vgr,nan
+pfam10106,DUF2345,nan
+pfam04830,DUF637,nan
+pfam13018,ESPR,nan
+pfam13935,Ead Ea22,tox
+pfam13191,AAA 16,nan
+pfam14491,DUF4435,nan
+pfam03318,ETX MTX2,tox
+pfam15645,Tox PLDMTX,tox
+pfam15656,Tox HDC,tox
+pfam04417,DUF501,nan
+pfam12681,Glyoxalase 2,nan
+pfam09206,ArabFuran catal,nan
+pfam13088,BNR 2,nan
+pfam01841,Transglut core,nan
+pfam13403,Hint 2,nan
+pfam02156,Glyco hydro 26,nan
+pfam02055,Glyco hydro 30,nan
+pfam06283,ThuA,nan
+pfam14440,XOO 2897 deam,tox
+pfam00877,NLPC P60,nan
+pfam02918,Pertussis S2S3,tox
+pfam05364,SecIII SopE N,nan
+pfam07487,SopE GEF,nan
+pfam05688,BIg21,nan
+pfam05689,InvE AD,nan
+pfam03515,Cloacin,tox
+pfam01024,Colicin,tox
+pfam15530,Ntox25,tox
+pfam15633,Tox ART HYD1,tox
+pfam16591,HBM,nan
+pfam13360,PQQ 2,nan
+pfam08346,AntA,nan
+pfam14229,DUF4332,nan
+pfam11972,HTH 13,nan
+pfam11086,DUF2878,nan
+pfam12294,DUF3626,nan
+pfam15637,Tox HNH HHH,tox
+pfam00149,Metallophos,nan
+pfam15538,Ntox46,tox
+pfam05594,Fil haemagg,nan
+pfam05990,DUF900,nan
+pfam06594,HCBP related,nan
+pfam14427,Pput2613 deam,tox
+pfam14587,Glyco hydr 30 2,nan
+pfam16640,Big 3 5,nan
+pfam07593,UnbV ASPIC,nan
+pfam13462,Thioredoxin 4,nan
+pfam03098,An peroxidase,nan
+pfam03729,DUF308,nan
+pfam10462,Peptidase M66,nan
+pfam08305,NPCBM,nan
+pfam05526,R equi Vir,tox
+pfam00150,Cellulase,nan
+pfam00756,Esterase,nan
+pfam06439,DUF1080,nan
+pfam00251,Glyco hydro 32N,nan
+pfam08244,Glyco hydro 32C,nan
+pfam13238,AAA 18,nan
+pfam15649,Tox REase 7,tox
+pfam08479,POTRA 2,nan
+pfam03865,ShlB,nan
+pfam13930,Endonuclea NS 2,nan
+pfam03211,Pectate lyase,nan
+pfam15646,Tox REase 2,tox
+pfam15521,Ntox11,tox
+pfam16380,DUF4990,nan
+pfam04851,ResIII,nan
+pfam13586,DDE Tnp 1 2,nan
+pfam13340,DUF4096,nan
+pfam01832,Glucosaminidase,nan
+pfam00544,Pectate lyase 4,nan
+pfam01095,Pectinesterase,nan
+pfam13573,SprB,nan
+pfam11398,DUF2813,nan
+pfam00271,Helicase C,nan
+pfam01510,Amidase 2,nan
+pfam00413,Peptidase M10,nan
+pfam08548,Peptidase M10 C,nan
+pfam00457,Glyco hydro 11,nan
+pfam01022,HTH 5,nan
+pfam01106,NifU,nan
+pfam15541,Ntox4,tox
+pfam15545,Ntox8,tox
+pfam06259,Abhydrolase 8,nan
+pfam10936,DUF2617,nan
+pfam04488,Gly transf sug,nan
+pfam00082,Peptidase S8,nan
+pfam01476,LysM,nan
+pfam01483,P proprotein,nan
+pfam09118,DUF1929,nan
+pfam12106,Colicin E5,nan
+pfam03945,Endotoxin N,tox
+pfam01117,Aerolysin,tox
+pfam15634,Tox ART HYE1,tox
+pfam14312,FG GAP 2,nan
+pfam00404,Dockerin 1,nan
+pfam00963,Cohesin,nan
+pfam07705,CARDB,nan
+pfam13519,VWA 2,nan
+pfam14432,DYW deaminase,nan
+pfam01344,Kelch 1,nan
+pfam15534,Ntox35,tox
+pfam03869,Arc,nan
+pfam00580,UvrD helicase,nan
+pfam13361,UvrD C,nan
+pfam10518,TAT signal,nan
+pfam02463,SMC N,nan
+pfam13263,PHP C,nan
+pfam10566,Glyco hydro 97,nan
+pfam14508,GH97 N,nan
+pfam14509,GH97 C,nan
+pfam08279,HTH 11,nan
+pfam04143,Sulf transp,nan
+pfam02368,Big 2,nan
+pfam00498,FHA,nan
+pfam01839,FG GAP,nan
+pfam13529,Peptidase C39 2,nan
+pfam03944,Endotoxin C,tox
+pfam00059,Lectin C,nan
+pfam00326,Peptidase S9,nan
+pfam15520,Ntox10,tox
+pfam15535,Ntox37,tox
+pfam13412,HTH 24,nan
+pfam14252,DUF4347,nan
+pfam03704,BTAD,nan
+pfam03639,Glyco hydro 81,nan
+pfam13204,DUF4038,nan
+pfam12904,Collagen bind 2,nan
+pfam08517,AXH,nan
+pfam15526,Ntox21,tox
+pfam00657,Lipase GDSL,nan
+pfam00079,Serpin,nan
+pfam00553,CBM 2,nan
+pfam00759,Glyco hydro 9,nan
+pfam05426,Alginate lyase,nan
+pfam07931,CPT,nan
+pfam00545,Ribonuclease,nan
+pfam06739,SBBP,nan
+pfam00932,LTD,nan
+pfam03160,Calx beta,nan
+pfam01569,PAP2,nan
+pfam14015,DUF4231,nan
+pfam01419,Jacalin,nan
+pfam07737,ATLF,tox
+pfam05270,AbfB,nan
+pfam06101,Vps62,nan
+pfam09994,DUF2235,nan
+pfam16990,CBM 35,nan
+pfam03442,CBM X2,nan
+pfam04545,Sigma70 r4,nan
+pfam01637,ATPase 2,nan
+pfam00004,AAA,nan
+pfam13582,Reprolysin 3,nan
+pfam15659,Toxin JAB1,tox
+pfam08291,Peptidase M15 3,nan
+pfam13550,Phage tail 3,nan
+pfam04542,Sigma70 r2,nan
+pfam13490,zf HC2,nan
+pfam01721,Bacteriocin II,tox
+pfam02876,Stap Strp tox C,tox
+pfam09199,SSL OB,tox
+pfam01123,Stap Strp toxin,tox
+pfam00069,Pkinase,nan
+pfam10757,YbaJ,nan
+pfam06597,Clostridium P47,nan
+pfam13855,LRR 8,nan
+pfam15500,Ntox1,tox
+pfam15283,DUF4595,nan
+pfam13245,AAA 19,nan
+pfam07691,PA14,nan
+pfam07679,I set,nan
+pfam04151,PPC,nan
+pfam02794,HlyC,tox
+pfam01229,Glyco hydro 39,nan
+pfam01120,Alpha L fucos,nan
+pfam16757,Fucosidase C,nan
+pfam08787,Alginate lyase2,nan
+pfam00182,Glyco hydro 19,nan
+pfam07971,Glyco hydro 92,nan
+pfam03663,Glyco hydro 76,nan
+pfam07335,Glyco hydro 75,nan
+pfam00933,Glyco hydro 3,nan
+pfam01915,Glyco hydro 3 C,nan
+pfam14310,Fn3 like,nan
+pfam00295,Glyco hydro 28,nan
+pfam01055,Glyco hydro 31,nan
+pfam06290,PsiB,nan
+pfam00034,Cytochrom C,nan
+pfam13511,DUF4124,nan
+pfam16369,GH43 C,nan
+pfam05630,NPP1,nan
+pfam02133,Transp cyt pur,nan
+pfam05203,Hom end hint,nan
+pfam13946,DUF4214,nan
+pfam12728,HTH 17,nan
+pfam01541,GIY YIG,nan
+pfam10503,Esterase PHB,nan
+pfam05922,Inhibitor I9,nan
+pfam13955,Fst toxin,tox
+pfam01738,DLH,nan
+pfam11504,Colicin Ia,tox
+pfam02819,Toxin 9,tox
+pfam07373,CAMP factor,nan
+pfam13734,Inhibitor I69,nan
+pfam01640,Peptidase C10,nan
+pfam03077,VacA2,tox
+pfam03507,CagA,tox
+pfam02691,VacA,tox
+pfam03797,Autotransporter,nan
+pfam08964,Crystall 3,nan
+pfamam06836,DUF1240,nan
+pfam15531,Ntox27,tox
+pfam08401,ArdcN,nan
+pfam02384,N6 Mtase,nan
+pfam05372,Delta lysin,tox
+pfam14498,Glyco hyd 65N 2,nan
+pfam16334,DUF4964,nan
+pfam16335,DUF4965,nan
+pfam08760,DUF1793,nan
+pfam02837,Glyco hydro 2 N,nan
+pfam00703,Glyco hydro 2,nan
+pfam02836,Glyco hydro 2 C,nan
+pfam15899,BNR 6,nan
+pfam04607,RelA SpoT,nan
+pfam01129,ART,nan
+pfam00089,Trypsin,nan
+pfam09979,DUF2213,nan
+pfam01183,Glyco hydro 25,nan
+pfam14107,DUF4280,nan
+pfam05382,Amidase 5,nan
+pfam12918,TcdB N,tox
+pfam03734,YkuD,nan
+pfam04122,CW binding 2,nan
+pfam03495,Binary toxB,tox
+pfam02395,Peptidase S6,tox
+pfam03212,Pertactin,nan
+pfam12832,MFS 1 like,nan
+pfam13414,TPR 11,nan
+pfam05257,CHAP,nan
+pfam03047,ComC,nan
+pfam06152,Phage min cap2,nan
+pfam12729,4HB MCP 1,nan
+pfam00629,MAM,nan
+pfam03440,APT,tox
+pfam15638,Tox MPTase2,tox
+pfam06013,WXG100,nan
+pfam15540,Ntox47,tox
+pfam13540,RCC1 2,nan
+pfam08241,Methyltransf 11,nan
+pfam01400,Astacin,nan
+pfam12388,Peptidase M57,nan
+pfam05043,Mga,nan
+pfam08270,PRD Mga,nan
+pfam16353,DUF4981,nan
+pfam02929,Bgal small N,nan
+pfam08814,XisH,nan
+pfam00106,adh short,nan
+pfam05119,Terminase 4,nan
+pfam01436,NHL,nan
+pfam14441,OTT 1508 deam,tox
+pfam15892,BNR 4,nan
+pfam13560,HTH 31,nan
+pfam05621,TniB,nan
+pfam08299,Bac DnaA C,nan
+pfam01374,Glyco hydro 46,nan
+pfam09156,Anthrax tox M,tox
+pfam00874,PRD,nan
+pfam02258,SLT beta,tox
+pfam11996,DUF3491,nan
+pfam04448,DUF551,nan
+pfam09479,Flg new,nan
+pfam15560,Imm12,tox
+pfam15658,Latrotoxin C,tox
+pfam01391,Collagen,nan
+pfam13367,PrsW protease,nan
+pfam03553,Na H antiporter,nan
+pfam14040,DNase NucA NucB,nan
+pfam11740,KfrA N,nan
+pfam12073,DUF3553,nan
+pfam01966,HD,nan
+pfam01520,Amidase 3,nan
+pfam12664,DUF3789,nan
+pfam00717,Peptidase S24,nan
+pfam12476,DUF3696,nan
+pfam13199,Glyco hydro 66,nan
+pfam01338,Bac thur toxin,tox
+pfam13828,DUF4190,nan
+pfam16338,DUF4968,nan
+pfam02838,Glyco hydro 20b,nan
+pfam00728,Glyco hydro 20,nan
+pfam14099,Polysacc lyase,nan
+pfam16873,AbiGii 2,tox
+pfam03949,Malic M,nan
+pfam14220,DUF4329,nan
+pfam05433,Rick 17kDa Anti,nan
+pfam11127,DUF2892,nan
+pfam00293,NUDIX,nan
+pfam00648,Peptidase C2,nan
+pfam06483,ChiC,nan
+pfam15138,Syncollin,nan
+pfam15524,Ntox17,tox
+pfam02195,ParBc,nan
+pfam07250,Glyoxal oxid N,nan
+pfam01244,Peptidase M19,nan
+pfam09669,Phage pRha,nan
+pfam00560,LRR 1,nan
+pfam00753,Lactamase B,nan
+pfam06006,DUF905,nan
+pfam13956,Ibs toxin,tox
+pfam10633,NPCBM assoc,nan
+pfam04586,Peptidase S78,nan
+pfam08450,SGL,nan
+pfam05048,NosD,nan
+pfam00502,Phycobilisome,nan
+pfam03243,MerB,nan
+pfam13964,Kelch 6,nan
+pfam13555,AAA 29,nan
+pfam04231,Endonuclease 1,nan
+pfam09722,DUF2384,nan
+pfam14568,SUKH 6,nan
+pfam00314,Thaumatin,nan
+pfam09204,Colicin immun,nan
+pfam02018,CBM 4 9,nan
+pfam01345,DUF11,nan
+pfam05785,CNF1,tox
+pfam01833,TIG,nan
+pfam00688,TGFb propeptide,nan
+pfam00111,Fer2,nan
+pfam00555,Endotoxin M,tox
+pfam13583,Reprolysin 4,nan
+pfam07819,PGAP1,nan
+pfam11570,E2R135,nan
+pfam05277,DUF726,nan
+pfam00197,Kunitz legume,nan
+pfam07599,DUF1563,nan
+pfam08460,SH3 5,nan
+pfam13402,Peptidase M60,nan
+pfam00431,CUB,nan
+pfam14076,DUF4258,nan
+pfam00388,PI PLC X,nan
+pfam03330,DPBB 1,nan
+pfam12708,Pectate lyase 3,nan
+pfam16158,N BRCA1 IG,nan
+pfam08280,HTH Mga,nan
+pfam08470,NTNH C,nan
+pfam05588,Botulinum HA 17,tox
+pfam03505,Clenterotox,tox
+pfam13103,TonB 2,nan
+pfam15962,DUF4765,nan
+pfam16683,TGase elicitor,nan
+pfam05598,DUF772,nan
+pfam01609,DDE Tnp 1,nan
+pfam03009,GDPD,nan
+pfam13313,DUF4082,nan
+pfam09259,Fve,nan
+pfam06255,MafB,tox
+pfam03035,RNA capsid,nan
+pfam03513,Cloacin immun,nan
+pfam13488,Gly zipper Omp,nan
+pfam00443,UCH,nan
+pfam11300,DUF3102,nan
+pfam02811,PHP,nan
+pfam15780,ASH,nan
+pfam13802,Gal mutarotas 2,nan
+pfam00583,Acetyltransf 1,nan
+pfam14295,PAN 4,nan
+pfam14559,TPR 19,nan
+pfam01204,Trehalase,nan
+pfam12833,HTH 18,nan
+pfam13499,EF hand 7,nan
+pfam13202,EF hand 5,nan
+pfam01522,Polysacc deac 1,nan
+pfam02743,dCache 1,nan
+pfam05735,TSP C,nan
+pfam01041,DegT DnrJ EryC1,nan
+pfam08924,DUF1906,nan
+pfam13988,DUF4225,nan
+pfam12773,DZR,nan
+pfam02557,VanY,nan
+pfam01935,DUF87,nan
+pfam03389,MobA MobL,nan
+pfam05461,ApoL,nan
+pfam02839,CBM 5 12,nan
+pfam01301,Glyco hydro 35,nan
+pfam08881,CVNH,nan
+pfam04350,PilO,nan
+pfam04453,LptD,nan
+pfam04389,Peptidase M28,nan
+pfam12151,MVL,nan
+pfam13640,2OG FeII Oxy 3,nan
+pfam07303,Occludin ELL,nan
+pfam13306,LRR 5,nan
+pfam00459,Inositol P,nan
+pfam13395,HNH 4,nan
+pfam09035,Tn916 Xis,nan
+pfam00531,Death,nan
+pfam07486,Hydrolase 2,nan
+pfam09992,NAGPA,nan
+pfam04343,DUF488,nan
+pfam13330,Mucin2 WxxW,nan
+pfam08811,DUF1800,nan
+pfam09492,Pec lyase,nan
+pfam05887,Trypan PARP,nan
+pfam07589,PEP CTERM,nan
+pfam03050,DDE Tnp IS66,nan
+pfam13007,LZ Tnp IS66,nan
+pfam13005,zf IS66,nan
+pfam04471,Mrr cat,nan
+pfam09720,Unstab antitox,nan
+pfam07963,N methyl,nan
+pfam13431,TPR 17,nan
+pfam00782,DSPc,nan
+pfam00486,Trans reg C,nan
+pfam06841,Phage T4 gp19,nan
+pfam02493,MORN,nan
+pfam00791,ZU5,nan
+pfam04408,HA2,nan
+pfam07717,OB NTP bind,nan
+pfam11898,DUF3418,nan
+pfam00561,Abhydrolase 1,nan
+pfam07490,Tir receptor N,tox
+pfam03549,Tir receptor M,nan
+pfam07489,Tir receptor C,tox
+pfam13156,Mrr cat 2,nan
+pfam03328,HpcH HpaI,nan
+pfam02518,HATPase c,nan
+pfam00204,DNA gyraseB,nan
+pfam01751,Toprim,nan
+pfam00986,DNA gyraseB C,nan
+pfam02048,Enterotoxin ST,tox
+pfam07666,MpPF26,nan
+pfam09680,YjcZ 2,nan
+pfam00300,His Phos 1,nan
+pfam16376,fragilysinNterm,nan
+pfam10543,ORF6N,nan
+pfam13130,DUF3952,nan
+pfam16374,CIF,nan
+pfam06453,LT IIB,tox
+pfam01695,IstB IS21,nan
+pfam11790,Glyco hydro cc,nan
+pfam03743,TrbI,nan
+pfam09075,STb secrete,tox
+pfam06715,Gp5 C,nan
+pfam13688,Reprolysin 5,nan
+pfam05307,Bundlin,nan
+pfam00263,Secretin,nan
+pfam09131,Endotoxin mid,tox
+pfam12495,Vip3A N,tox
+pfam00239,Resolvase,nan
+pfam07508,Recombinase,nan
+pfam13408,Zn ribbon recom,nan
+pfam07697,7TMR HDED,nan
+pfam07698,7TM 7TMR HD,nan
+pfam01978,TrmB,nan
+pfam13753,SWM repeat,nan
+pfam05876,Terminase GpA,nan
+pfam04185,Phosphoesterase,nan
+pfam07555,NAGidase,nan
+pfam07554,FIVAR,nan
+pfam01477,PLAT,nan
+pfam10554,Phage ASH,nan
+pfam02764,Diphtheria T,tox
+pfam01324,Diphtheria R,tox
+pfam12796,Ank 2,nan
+pfam13424,TPR 12,nan
+pfam00931,NB ARC,nan
+pfam00023,Ank,nan
+pfam13637,Ank 4,nan
+pfam13606,Ank 3,nan
+pfam06267,DUF1028,nan
+pfam04450,BSP,nan
+pfam00509,Hemagglutinin,tox
+pfam04972,BON,nan
+pfam00550,PP binding,nan
+pfam00529,CusB dom 1,nan
+pfam12245,Big 3 2,nan
+pfam00126,HTH 1,nan
+pfam08129,Antimicrobial17,tox
+pfam08310,LGFP,nan
+pfam00009,GTP EFTU,nan
+pfam07228,SpoIIE,nan
+pfam13581,HATPase c 2,nan
+pfam01402,RHH 1,nan
+pfam12407,Abdominal A,nan
+pfam02350,Epimerase 2,nan
+pfam00011,HSP20,nan
+pfam08282,Hydrolase 3,nan
+pfam08238,Sel1,nan
+pfam09275,Pertus S4 tox,tox
+pfam09276,Pertus S5 tox,tox
+pfam15642,Tox ODYAM1,tox
+pfam04326,AlbA 2,nan
+pfam00092,VWA,nan
+pfam16184,Cadherin 3,nan
+pfam13979,SopA C,nan
+pfam15651,Tox SGS,tox
+pfam02021,UPF0102,nan
+pfam13280,WYL,nan
+pfam16289,PIN 12,nan
+pfam08017,Fibrinogen BP,nan
+pfam03091,CutA1,nan
+pfam01432,Peptidase M3,nan
+pfam00823,PPE,nan
+pfam13833,EF hand 8,nan
+pfam00356,LacI,nan
+pfam13672,PP2C 2,nan
+pfam02397,Bac transf,nan
+pfam07517,SecA DEAD,nan
+pfam00962,A deaminase,nan
+pfam15543,Ntox5,tox
+pfam12146,Hydrolase 4,nan
+pfam13857,Ank 5,nan
+pfam03150,CCP MauG,nan
+pfam00454,PI3 PI4 kinase,nan
+pfam01546,Peptidase M20,nan
+pfam01223,Endonuclease NS,nan
+pfam09228,Prok TraM,nan
+pfam01532,Glyco hydro 47,nan
+pfam01878,EVE,nan
+pfam00415,RCC1,nan
+pfam14326,DUF4384,nan
+pfam00330,Aconitase,nan
+pfam02387,IncFII repA,nan
+pfam00383,dCMP cyt deam 1,nan
+pfam12710,HAD,nan
+pfam12685,SpoIIIAH,nan
+pfam11756,YgbA NO,nan
+pfam05453,Toxin 6,tox
+pfam02371,Transposase 20,nan
+pfam09203,MspA,nan
+pfam11187,DUF2974,nan
+pfam13489,Methyltransf 23,nan
+pfam08481,GBS Bsp like,nan
+pfam13354,Beta lactamase2,nan
+pfam00226,DnaJ,nan
+pfam13407,Peripla BP 4,nan
+pfam00128,Alpha amylase,nan
+pfam16738,CBM26,nan
+pfam00246,Peptidase M14,nan
+pfam10908,DUF2778,nan
+pfam10577,UPF0560,nan
+pfam03230,Antirestrict,nan
+pfam14667,Polysacc synt C,nan
+pfam05738,Cna B,nan
+pfam14267,DUF4357,nan
+pfam08220,HTH DeoR,nan
+pfam07825,Exc,nan
+pfam04313,HSDR N,nan
+pfam00612,IQ,nan
+pfam05227,CHASE3,nan
+pfam13495,Phage int SAM 4,nan
+pfam02203,TarH,nan
+pfam06866,DUF1256,nan
+pfam00112,Peptidase C1,nan
+pfam12791,RsgI N,nan
+pfam08707,PriCT 2,nan
+pfam13362,Toprim 3,nan
+pfam07000,DUF1308,nan
+pfam13198,DUF4014,nan
+pfam00294,PfkB,nan
+pfam03485,Arg tRNA synt N,nan
+pfam00750,tRNA synt 1d,nan
+pfam05746,DALR 1,nan
+pfam00462,Glutaredoxin,nan
+pfam13392,HNH 3,nan
+pfam05133,Phage prot Gp6,nan
+pfam12799,LRR 4,nan
+pfam13474,SnoaL 3,nan
+pfam14129,DUF4296,nan
+pfam08090,Enterotoxin HS1,tox
+pfam02210,Laminin G 2,nan
+pfam14292,SusE,nan
+pfam00543,P II,nan
+pfam00012,HSP70,nan
+pfam00924,MS channel,nan
+pfam16402,DUF5010,nan
+pfam14240,YHYH,nan
+pfam01295,Adenylate cycl,nan
+pfam06924,DUF1281,nan
+pfam00665,rve,nan
+pfam11047,SopD,nan
+pfam02958,EcKL,nan
+pfam10049,DUF2283,nan
+pfam04280,Tim44,nan
+pfam02378,PTS EIIC,nan
+pfam13772,AIG2 2,nan
+pfam02729,OTCace N,nan
+pfam00185,OTCace,nan
+pfam10686,YAcAr,nan
+pfam13441,Gly zipper YMGG,nan
+pfam07461,NADase NGA,nan
+pfam07740,Toxin 12,tox
+pfam06537,DHOR,nan
+pfam03537,Glyco hydro 114,nan
+pfam12905,Glyco hydro 101,nan
+pfam16355,DUF4982,nan
+pfam03175,DNA pol B 2,nan
+pfam10145,PhageMin Tail,nan
+pfam07510,DUF1524,nan
+pfam00436,SSB,nan
+pfam02574,S methyl trans,nan
+pfam04466,Terminase 3,nan
+pfam02412,TSP 3,nan
+pfam04717,Phage base V,nan
+pfam05548,Peptidase M11,nan
+pfam00656,Peptidase C14,nan
+pfam06229,FRG1,nan
+pfam13353,Fer4 12,nan
+pfam07728,AAA 5,nan
+pfam00072,Response reg,nan
+pfam16871,DUF5077,nan
+pfam16013,DUF4781,nan
+pfam00094,VWD,nan
+pfam07506,RepB,nan
+pfam00872,Transposase mut,nan
+pfam05164,ZapA,nan
+pfam03629,SASA,nan
+pfam07041,DUF1327,nan
+pfam14690,zf ISL3,nan
+pfam07581,Glug,nan
+pfam04650,YSIRK signal,nan
+pfam12671,Amidase 6,nan
+pfam16396,DUF5005,nan
+pfam07798,DUF1640,nan
+pfam04862,DUF642,nan
+pfam00501,AMP binding,nan
+pfam13276,HTH 21,nan
+pfam07833,Cu amine oxidN1,nan
+pfam13356,Arm DNA bind 3,nan
+pfam00303,Thymidylat synt,nan
+pfam03718,Glyco hydro 49,nan
+pfam02449,Glyco hydro 42,nan
+pfam00942,CBM 3,nan
+pfam03463,eRF1 1,nan
+pfam03464,eRF1 2,nan
+pfam03465,eRF1 3,nan
+pfam04010,DUF357,nan
+pfam02026,RyR,nan
+pfam09286,Pro kuma activ,nan
+pfam13810,DUF4185,nan
+pfam16389,DUF4998,nan
+pfam03767,Acid phosphat B,nan
+pfam00849,PseudoU synth 2,nan
+pfam13436,Gly zipper OmpA,nan
+pfam05523,FdtA,nan
+pfam03102,NeuB,nan
+pfam03477,ATP cone,nan
+pfam00317,Ribonuc red lgN,nan
+pfam02867,Ribonuc red lgC,nan
+pfam04007,DUF354,nan
+pfam13186,SPASM,nan
+pfam00132,Hexapep,nan
+pfam06119,NIDO,nan
+pfam04221,RelB,nan
+pfam08677,GP11,nan
+pfam04550,Phage holin 3 2,nan
+pfam11455,DUF3018,nan
+pfam09791,Oxidored like,nan
+pfam14082,DUF4263,nan
+pfam07719,TPR 2,nan
+pfam05036,SPOR,nan
+pfam01464,SLT,nan
+pfam13518,HTH 28,nan
+pfam03636,Glyco hydro 65N,nan
+pfam03632,Glyco hydro 65m,nan
+pfam03633,Glyco hydro 65C,nan
+pfam00354,Pentaxin,nan
+pfam07635,PSCyt1,nan
+pfam13384,HTH 23,nan
+pfam04828,GFA,nan
+pfam14905,OMP b brl 3,nan
+pfam05944,Phage term smal,nan
+pfam09603,Fib succ major,nan
+pfam07732,Cu oxidase 3,nan
+pfam07731,Cu oxidase 2,nan
+pfam16656,Pur ac phosph N,nan
+pfam13328,HD 4,nan
+pfam02810,SEC C,nan
+pfam01434,Peptidase M41,nan
+pfam11974,bMG3,nan
+pfam04664,OGFr N,nan
+pfam01457,Peptidase M8,nan
+pfam15536,Ntox3,tox
+pfam02338,OTU,nan
+pfam10102,DUF2341,nan
+pfam08887,GAD like,nan
+pfam05204,Hom end,nan
+pfam13358,DDE 3,nan
+pfam06074,DUF935,nan
+pfam09373,PMBR,nan
+pfam13927,Ig 3,nan
+pfam06848,Disaggr repeat,nan
+pfam13585,CHU C,nan
+pfam16375,DUF4986,nan
+pfam08757,CotH,nan
+pfam08329,ChitinaseA N,nan
+pfam03466,LysR substrate,nan
+pfam06605,Prophage tail,nan
+pfam16400,DUF5008,nan
+pfam01610,DDE Tnp ISL3,nan
+pfam06951,PLA2G12,nan
+pfam13710,ACT 5,nan
+pfam14517,Tachylectin,nan
+pfam07811,TadE,nan
+pfam07282,OrfB Zn ribbon,nan
+pfam13860,FlgD ig,nan
+pfam00639,Rotamase,nan
+pfam00990,GGDEF,nan
+pfam13899,Thioredoxin 7,nan
+pfam00085,Thioredoxin,nan
+pfam00191,Annexin,nan
+pfam12810,Gly rich,nan
+pfam01656,CbiA,nan
+pfam09976,TPR 21,nan
+pfam00702,Hydrolase,nan
+pfam17091,Inovirus G7P 1,nan
+pfam00890,FAD binding 2,nan
+pfam01435,Peptidase M48,nan
+pfam09335,SNARE assoc,nan
+pfam13503,DUF4123,nan
+pfam16173,DUF4874,nan
+pfam16116,DUF4832,nan
+pfam12844,HTH 19,nan
+pfam02012,BNR,nan
+pfam13442,Cytochrome CBB3,nan
+pfam01527,HTH Tnp 1,nan
+pfam12692,Methyltransf 17,nan
+pfam13643,DUF4145,nan
+pfam00699,Urease beta,nan
+pfam12553,DUF3742,nan
+pfam04492,Phage rep O,nan
+pfam02126,PTE,nan
+pfamam06092,DUF943,nan
+pfam01856,HP OMP,nan
+pfam12760,Zn Tnp IS1595,nan
+pfam03174,CHB HEX C,nan
+pfam03404,Mo co dimer,nan
+pfam02369,Big 1,nan
+pfam01266,DAO,nan
+pfam00176,SNF2 rel dom,nan
+pfam02224,Cytidylate kin,nan
+pfam13514,AAA 27,nan
+pfam00903,Glyoxalase,nan
+pfam01202,SKI,nan
+pfam05534,HicB,nan
+pfam00934,PE,nan
+pfam14567,SUKH 5,nan
+pfam13570,PQQ 3,nan
+pfam17189,Glyco hydro 30C,nan
+pfam03888,MucB RseB,nan
+pfam12831,FAD oxidored,nan
+pfam13676,TIR 2,nan
+pfam07179,SseB,nan
+pfam02321,OEP,nan
+pfam02881,SRP54 N,nan
+pfam00448,SRP54,nan
+pfam02978,SRP SPB,nan
+pfam13750,Big 3 3,nan
+pfam01917,Arch flagellin,nan
+pfam16697,Yop YscD cpl,nan
+pfam17137,DUF5110,nan
+pfam13181,TPR 8,nan
+pfam13176,TPR 7,nan
+pfam13174,TPR 6,nan
+pfam07183,DUF1403,nan
+pfam03995,Inhibitor I36,nan
+pfam06823,DUF1236,nan
+pfam06342,DUF1057,nan
+pfam06183,DinI,nan
+pfam17168,DUF5127,nan
+pfam16862,Glyco hydro 79C,nan
+pfam05592,Bac rhamnosid,nan
+pfam14106,DUF4279,nan
+pfam05872,DUF853,nan
+pfam06223,Phage tail T,nan
+pfam00152,tRNA synt 2,nan
+pfam07151,DUF1391,nan
+pfam03130,HEAT PBS,nan
+pfam05106,Phage holin 3 1,nan
+pfam05100,Phage tail L,nan
+pfam16082,Phage holin 2 4,nan
+pfam04751,DUF615,nan
+pfam06067,DUF932,nan
+pfam17191,RecG wedge,nan
+pfam12740,Chlorophyllase2,nan
+pfam16841,CBM60,nan
+pfam04604,L biotic typeA,nan
+pfam13508,Acetyltransf 7,nan
+pfam08125,Mannitol dh C,nan
+pfam03706,LPG synthase TM,nan
+pfamam05638,T6SS HCP,nan
+pfam06964,Alpha L AF C,nan
+pfam02801,Ketoacyl synt C,nan
+pfam16197,KAsynt C assoc,nan
+pfam00698,Acyl transf 1,nan
+pfam14765,PS DH,nan
+pfam05552,TM helix,nan
+pfam12385,Peptidase C70,nan
+pfam05101,VirB3,nan
+pfam03135,CagE TrbE VirB,nan
+pfam03524,CagX,nan
+pfam13420,Acetyltransf 4,nan
+pfam09970,DUF2204,nan
+pfam13432,TPR 16,nan
+pfam09397,FtsK gamma,nan
+pfam02763,Diphtheria C,tox
+pfam07704,PSK trans fac,nan
+pfam04335,VirB8,nan
+pfam11319,VasI,nan
+pfam09480,PrgH,nan
+pfam16403,DUF5011,nan
+pfam02281,Dimer Tnp Tn5,nan
+pfam05136,Phage portal 2,nan
+pfam04439,Adenyl transf,nan
+pfam05658,YadA head,nan
+pfam05662,YadA stalk,nan
+pfam03895,YadA anchor,nan
+pfam01075,Glyco transf 9,nan
+pfam07452,CHRD,nan
+pfam07249,Cerato platanin,tox
+pfam05406,WGR,nan
+pfam12697,Abhydrolase 6,nan
+pfam10142,PhoPQ related,nan
+pfam17164,DUF5122,nan
+pfam13578,Methyltransf 24,nan
+pfam00535,Glycos transf 2,nan
+pfam00884,Sulfatase,nan
+pfam04644,Motilin ghrelin,nan
+pfam02627,CMD,nan
+pfam01583,APS kinase,nan
+pfam02230,Abhydrolase 2,nan
+pfam12468,TTSSLRR,nan
+pfam14890,Intein splicing,nan
+pfam00392,GntR,nan
+pfam10706,Aminoglyc resit,nan
+pfam00805,Pentapeptide,nan
+pfam12616,DUF3775,nan
+pfam14029,DUF4244,nan
+pfam02415,Chlam PMP,nan
+pfam11218,DUF3011,nan
+pfam08758,Cadherin pro,nan
+pfam04886,PT,nan
+pfam13350,Y phosphatase3,nan
+pfam00370,FGGY N,nan
+pfam09412,XendoU,nan
+pfam01807,zf CHC2,nan
+pfam08275,Toprim N,nan
+pfam13155,Toprim 2,nan
+pfam10410,DnaB bind,nan
+pfam12971,NAGLU N,nan
+pfam05089,NAGLU,nan
+pfam12972,NAGLU C,nan
+pfam08386,Abhydrolase 4,nan
+pfam09534,Trp oprn chp,nan
+pfam13856,Gifsy 2,nan
+pfam00746,Gram pos anchor,nan
+pfam03245,Phage lysis,nan
+pfam06163,DUF977,nan
+pfam01847,VHL,nan
+pfam13948,DUF4215,nan
+pfam01494,FAD binding 3,nan
+pfam02734,Dak2,nan
+pfam13684,Dak1 2,nan
+pfam08494,DEAD assoc,nan
+pfam00180,Iso dh,nan
+pfam00815,Histidinol dh,nan
+pfam00347,Ribosomal L6,nan
+pfam12252,SidE PDE,nan
+pfam08975,2H phosphodiest,nan
+pfam07459,CTX RstB,nan
+pfam10708,DUF2510,nan
+pfam00078,RVT 1,nan
+pfam05170,AsmA,nan
+pfam01926,MMR HSR1,nan
+pfam16932,T4SS TraI,nan
+pfam08306,Glyco hydro 98M,nan
+pfam08307,Glyco hydro 98C,nan
+pfam04073,tRNA edit,nan
+pfam13516,LRR 6,nan
+pfam00581,Rhodanese,nan
+pfam09533,DUF2380,nan
+pfam03239,FTR1,nan
+pfam00989,PAS,nan
+pfam05677,DUF818,nan
+pfam04226,Transgly assoc,nan
+pfam08889,WbqC,nan
+pfam13525,YfiO,nan
+pfam03781,FGE sulfatase,nan
+pfam00899,ThiF,nan
+pfam05729,NACHT,nan
+pfam12848,ABC tran Xtn,nan
+pfam13240,zinc ribbon 2,nan
+pfam06271,RDD,nan
+pfam02677,QueH,nan
+pfam05335,DUF745,nan
+pfam12686,DUF3800,nan
+pfam00731,AIRC,nan
+pfam10547,P22 AR N,nan
+pfam03693,ParD antitoxin,nan
+pfam04519,Bactofilin,nan
+pfam13539,Peptidase M15 4,nan
+pfam01633,Choline kinase,nan
+pfam12399,BCA ABC TP C,nan
+pfam03567,Sulfotransfer 2,nan
+pfam00480,ROK,nan
+pfam07598,DUF1561,nan
+pfam10030,DUF2272,nan
+pfam08323,Glyco transf 5,nan
+pfam16258,DUF4912,nan
+pfam03065,Glyco hydro 57,nan
+pfam09210,DUF1957,nan
+pfam03320,FBPase glpX,nan
+pfam13673,Acetyltransf 10,nan
+pfam00881,Nitroreductase,nan
+pfam11692,DUF3289,nan
+pfam13290,CHB HEX C 1,nan
+pfam05448,AXE1,nan
+pfam05321,HHA,nan
+pfam06530,Phage antitermQ,nan
+pfam01121,CoaE,nan
+pfam04860,Phage portal,nan
+pfam02796,HTH 7,nan
+pfam03167,UDG,nan
+pfam13711,DUF4160,nan
+pfam10824,T7SS ESX EspC,nan
+pfam02085,Cytochrom CIII,nan
+pfam15902,Sortilin Vps10,nan
+pfam16080,Phage holin 2 3,nan
+pfam01979,Amidohydro 1,nan
+pfam00264,Tyrosinase,nan
+pfam08240,ADH N,nan
+pfam13708,DUF4942,nan
+pfam00809,Pterin bind,nan
+pfam02607,B12 binding 2,nan
+pfam02310,B12 binding,nan
+pfam01674,Lipase 2,nan
+pfam01743,PolyA pol,nan
+pfam04572,Gb3 synth,nan
+pfam13406,SLT 2,nan
+pfam02682,CT C D,nan
+pfam05498,RALF,nan
+pfam00277,SAA,nan
+pfam00362,Integrin beta,nan
+pfam09511,RNA lig T4 1,nan
+pfam12840,HTH 20,nan
+pfam01243,Putative PNPOx,nan
+pfam09406,DUF2004,nan
+pfam01943,Polysacc synt,nan
+pfam01421,Reprolysin,tox
+pfam04255,DUF433,nan
+pfam10162,G8,nan
+pfam12951,PATR,nan
+pfam02013,CBM 10,nan
+pfam07722,Peptidase C26,nan
+pfam05690,ThiG,nan
+pfam13599,Pentapeptide 4,nan
+pfam13419,HAD 2,nan
+pfam11175,DUF2961,nan
+pfam03308,MeaB,nan
+pfam00052,Laminin B,nan
+pfam02926,THUMP,nan
+pfam01170,UPF0020,nan
+pfam02899,Phage int SAM 1,nan
+pfam08847,Crr6,nan
+pfam13242,Hydrolase like,nan
+pfam00483,NTP transferase,nan
+pfam12502,DUF3710,nan
+pfam16349,DUF4978,nan
+pfam15711,ILEI,nan
+pfam14751,DUF4474,nan
+pfam05013,FGase,nan
+pfam00669,Flagellin N,nan
+pfam00700,Flagellin C,nan
+pfam00800,PDT,nan
+pfam01842,ACT,nan
+pfam03815,LCCL,nan
+pfam00199,Catalase,nan
+pfam06628,Catalase rel,nan
+pfam01965,DJ 1 PfpI,nan
+pfam01264,Chorismate synt,nan
+pfam04232,SpoVS,nan
+pfam10662,PduV EutP,nan
+pfam09250,Prim Pol,nan
+pfam08708,PriCT 1,nan
+pfam08706,D5 N,nan
+pfam14353,CpXC,nan
+pfam13629,T2SS T3SS pil N,nan
+pfam03272,Mucin bdg,nan
+pfam13731,WxL,nan
+pfam01373,Glyco hydro 14,nan
+pfam00743,FMO like,nan
+pfam09192,Act Frag cataly,nan
+pfam03406,Phage fiber 2,nan
+pfam07131,DUF1382,nan
+pfam13895,Ig 2,nan
+pfam16168,AIDA,nan
+pfam12732,YtxH,nan
+pfam04230,PS pyruv trans,nan
+pfam04865,Baseplate J,nan
+pfam02902,Peptidase C48,nan
+pfam05717,TnpB IS66,nan
+pfam13817,DDE Tnp IS66 C,nan
+pfam00232,Glyco hydro 1,nan
+pfam13936,HTH 38,nan
+pfam05787,DUF839,nan
+pfam14521,Aspzincin M35,nan
+pfam02965,Met synt B12,nan
+pfam04971,Phage holin 2 1,nan
+pfam01131,Topoisom bac,nan
+pfam16216,GxGYxYP N,nan
+pfam14323,GxGYxYP C,nan
+pfam07364,DUF1485,nan
+pfam07171,MlrC C,nan
+pfam14367,DUF4411,nan
+pfam15544,Ntox6,tox
+pfam07283,TrbH,nan
+pfam13151,DUF3990,nan
+pfam06268,Fascin,nan
+pfam04014,MazE antitoxin,nan
+pfam06744,IcmF C,nan
+pfam14907,NTP transf 5,nan
+pfam02987,LEA 4,nan
+pfam02656,DUF202,nan
+pfam02033,RBFA,nan
+pfam02631,RecX,nan
+pfam02805,Ada Zn binding,nan
+pfam07678,TED complement,nan
+pfam14028,Lant dehydr C,nan
+pfam01351,RNase HII,nan
+pfam09154,DUF1939,nan
+pfam16332,DUF4962,nan
+pfam03403,PAF AH p II,nan
+pfam00144,Beta lactamase,nan
+pfam00200,Disintegrin,nan
+pfam12802,MarR 2,immunity
+pfam01047,MarR,immunity
+pfam15919,HicB lk antitox,immunity
+pfam02604,PhdYeFM antitox,immunity
+pfam09957,VapB antitoxin,immunity
+pfam09346,SMI1 KNR4,immunity
+pfam15593,Imm42,immunity
+pfam14384,BrnA antitoxin,immunity
+pfam02381,MraZ,immunity
+pfam13338,AbiEi 4,immunity
+pfam00893,Multi Drug Res,immunity
+pfam15731,MqsA antitoxin,immunity
+pfam05547,Peptidase M6,immunity
+pfam01320,Colicin Pyocin,immunity
+pfam15575,Imm49,immunity
+pfam13630,SdpI,immunity
+pfam12441,CopG antitoxin,immunity
+pfam14433,SUKH 3,immunity
+pfam02697,VAPB antitox,immunity
+pfam07362,CcdA,immunity
+pfam11903,ParD like,immunity
+pfam09386,ParD,immunity
+pfam10899,AbiGi,immunity
+pfam12910,PHD like,immunity
+pfam15937,PrlF antitoxin,immunity
+pfam15970,HicB like 2,immunity
+pfam15595,Imm51,immunity
+pfam15579,Imm52,immunity
+pfam14426,Imm2,immunity
+pfam15574,Imm48,immunity
+pfam15580,Imm53,immunity
+pfam14425,Imm3,immunity
+pfam15586,Imm8,immunity
+pfam14435,SUKH 4,immunity
+pfam15567,Imm35,immunity
+pfam14013,MT0933 antitox,immunity
+pfam15943,YdaS antitoxin,immunity
+pfam15590,Imm27,immunity
+pfam15594,Imm50,immunity
+pfam15601,Imm70,immunity
+pfam14430,Imm1,immunity
+pfam15631,Imm NTF2 2,immunity
+pfam15566,Imm32,immunity
+pfam06154,CbeA antitoxin,immunity
+pfam14122,YokU,immunity
+pfam14112,DUF4284,immunity
+pfam15588,Imm10,immunity
+pfam15583,Imm68,immunity
+pfam14185,SpoIISB antitox,immunity
+pfam15562,Imm17,immunity
+pfam14434,Imm6,immunity
+pfam16695,Tai4,immunity
+pfam14423,Imm5,immunity
+pfam15565,Imm30,immunity
+pfam15933,RnlB antitoxin,immunity
+pfam15585,Imm7,immunity
+pfam13939,TisB toxin,immunity
+pfam15428,Imm26,immunity
+pfam15603,Imm74,immunity
+pfam15569,Imm40,immunity
+pfam15655,Imm NTF2,immunity
+pfam15587,Imm9,immunity
+pfam16765,Pim,immunity
+pfam15589,Imm21,immunity
+pfam15599,Imm63,immunity
+pfam15939,YmcE antitoxin,immunity
+pfam15598,Imm61,immunity
+pfam07262,CdiI,immunity
+pfam15592,Imm41,immunity
+pfam15596,Imm57,immunity
+pfam15602,Imm71,immunity
+pfam15584,Imm72,immunity
+pfam15563,Imm19,immunity
+pfam15571,Imm44,immunity
+pfam16718,IFS,immunity
+pfam08998,Epsilon antitox,immunity
+pfam09407,AbiEi 1,immunity
+pfam15597,Imm59,immunity
+pfam15600,Imm64,immunity
+pfam11480,ImmE5,immunity
+pfam15573,Imm47,immunity
+pfam15572,Imm45,immunity
+pfam15582,Imm65,immunity
+pfam15570,Imm43,immunity
+pfam15591,Imm31,immunity
+pfam03857,Colicin im,immunity
+pfam15660,Imm75,immunity
+pfam15564,Imm25,immunity
+pfam15581,Imm58,immunity
+pfam15568,Imm39,immunity

@@ -1,0 +1,26 @@
+# Snakemake
+.snakemake/
+
+# Pipeline outputs
+results/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# R
+.Rhistory
+.RData
+*.Rout
+
+# Conda / caches
+.conda/
+.cache/
+.condarc
+.config/
+
+# IDE / OS
+.vscode/
+.DS_Store

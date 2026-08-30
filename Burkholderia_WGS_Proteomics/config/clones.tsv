@@ -1,0 +1,19 @@
+# Tn5 insertion clones, one row per SRA run.
+clone	platform	sra
+20D2	nanopore	SRR40322551
+24F8	nanopore	SRR40322550
+24G11	nanopore	SRR40322549
+27D6	nanopore	SRR40322548
+42E1	nanopore	SRR40322547
+50A5	nanopore	SRR40322546
+54B10	nanopore	SRR40322545
+34F7	illumina	SRR40322544
+35A6a	illumina	SRR40322543
+35A6c	illumina	SRR40322542
+35F3	illumina	SRR40322540
+36A7a	illumina	SRR40322539
+36A7c	illumina	SRR40322538
+51B12	illumina	SRR40322536
+42G8	illumina	SRR40322537
+54B10i	illumina	SRR40322535
+

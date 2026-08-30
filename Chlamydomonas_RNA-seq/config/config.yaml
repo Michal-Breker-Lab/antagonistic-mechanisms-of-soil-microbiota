@@ -1,0 +1,51 @@
+samples: "config/samples.csv"
+multiqc_config: "config/multiqc_config.yaml"
+# https://doi.org/10.1101/2022.06.16.496473
+# https://data.jgi.doe.gov/refine-download/phytozome?genome_id=707&ff[file_name_pattern]=CreinhardtiiCC_4532_707_v6.0.fa.gz&expanded=Phytozome-707
+ref_fasta: "resources/ref/CreinhardtiiCC_4532_707_v6.0.fa"
+# https://data.jgi.doe.gov/refine-download/phytozome?genome_id=707&ff[file_name_pattern]=CreinhardtiiCC_4532_707_v6.1.gene_exons.gff3.gz&expanded=Phytozome-707
+ref_gff: "resources/ref/CreinhardtiiCC_4532_707_v6.1.gene_exons.gff3"
+# https://data.jgi.doe.gov/refine-download/phytozome?genome_id=707&ff[file_name_pattern]=CreinhardtiiCC_4532_707_v6.1.master_annotation_table.tsv&expanded=Phytozome-707
+master_annotation: "resources/ref/CreinhardtiiCC_4532_707_v6.1.master_annotation_table.tsv"
+#https://data.jgi.doe.gov/refine-download/phytozome?genome_id=707&ff[file_name_pattern]=CreinhardtiiCC_4532_707_v6.1.P14.annotation_info.txt.gz&expanded=Phytozome-707
+annotation_info: "resources/ref/CreinhardtiiCC_4532_707_v6.1.P14.annotation_info.txt"
+# https://github.com/sortmerna/sortmerna/releases/tag/v4.3.3
+sortmernaDB: "resources/sortmernaDB/smr_v4.3_default_db.fasta"
+
+seed: 42
+
+deseq2:
+  condition: "Timepoint"
+  baselevel: "0"
+  # ntop genes for PCA plot
+  ntop: 1000
+  transformation: "rlog"
+
+impulseDE2:
+  scaQThres: 1e-3
+
+Mfuzz:
+  Nclusters: 6
+  # Order clusters by renaming them
+  rename_clusters: { "up": {1: 1, 2: 6, 3: 4, 4: 5, 5: 3, 6: 2}, "down": {1: 2, 2: 4, 3: 3, 4: 1, 5: 5, 6: 6} } #-3
+
+Enrichment:
+  use_up_clusters: [2,3,4,5] # Clusters for combined enrichment
+  use_down_clusters: [2,3,4,5] # Clusters for combined enrichment
+  minMembership: 0.4
+  minNodeSize: 5
+  minGeneCount: 3
+  minPval: 0.01 # Plotting
+  topNterms: 5 # Plotting
+
+extra:
+  fastp: "--trim_poly_x -q 20 -u 20 -l 30 --dont_eval_duplication -y"
+  star: "--outSAMtype BAM SortedByCoordinate --alignIntronMax 10000 --outSAMunmapped Within"
+  # TODO Change seed in rsem rule
+  rsem_calculate_expression: "--seed 42 --strandedness reverse"
+
+heatmap_de:
+  metal_transporters: "resources/external_data/Metal_transporters.tsv"
+  manual_list: "resources/external_data/Manual_gene_list.tsv"
+  PCD_list: "resources/external_data/PCD_list.tsv"
+  autophagy_list: "resources/external_data/autophagy_related.tsv"

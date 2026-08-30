@@ -1,0 +1,13 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+description: one row per clone whose only insertion evidence is Sanger sequencing
+type: object
+properties:
+  clone:
+    type: string
+  fwd:
+    type: string
+    description: forward read, relative to the working directory
+  rev:
+    type: string
+    description: reverse read, relative to the working directory
+required: [clone, fwd, rev]

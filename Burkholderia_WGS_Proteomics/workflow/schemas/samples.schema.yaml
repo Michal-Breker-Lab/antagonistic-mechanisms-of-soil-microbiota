@@ -1,0 +1,24 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+description: one row per FragPipe run
+type: object
+properties:
+  run:
+    type: string
+    description: FragPipe run name, <strain>_<alone|withC>_d<day>_<replicate>
+  condition:
+    type: string
+  strain:
+    type: string
+  culture:
+    type: string
+    enum: ["alone", "withC"]
+  day:
+    type: string
+    pattern: "^d[0-9]+$"
+  replicate:
+    type: string
+    pattern: "^[0-9]+$"
+  qc_pass:
+    type: string
+    enum: ["yes", "no"]
+required: [run, condition, strain, culture, day, replicate, qc_pass]

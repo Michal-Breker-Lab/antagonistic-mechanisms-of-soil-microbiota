@@ -1,0 +1,21 @@
+module_order:
+  - "star"
+  - "sortmerna"
+  - "fastqc":
+      name: "FastQC: clean"
+      anchor: "fqc_clean"
+      path_filters:
+        - "*/fastqc_trimmed/*"
+  - "fastp"
+  - "fastqc":
+      name: "FastQC: raw"
+      anchor: "fqc_raw"
+      path_filters:
+        - "*/fastqc_raw/*"
+
+use_filename_as_sample_name: true
+
+fastp:
+  s_name_filenames: true
+
+

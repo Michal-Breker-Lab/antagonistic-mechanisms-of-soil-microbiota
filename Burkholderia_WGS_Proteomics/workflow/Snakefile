@@ -1,0 +1,42 @@
+from snakemake.utils import min_version, validate
+
+min_version("9.12")
+
+
+configfile: "config/config.yaml"
+
+
+validate(config, "schemas/config.schema.yaml")
+
+
+include: "rules/common.smk"
+
+
+wildcard_constraints:
+    strain=r"27D6|34F7",
+    variant=r"pca_[A-Za-z0-9_]+",
+    # Tn5 branch. `clone` is constrained to the declared set so the two
+    # fetch_reads rules cannot both match, and bamdir to the two real trees.
+    clone=r"|".join(TN_CLONES),
+    platform=r"nanopore|illumina",
+    genome=r"|".join(SS_ISOLATES),
+    replicon=r"chr[0-9]+",
+    bamdir=r"bam|bam_illumina",
+    sra=r"[SED]RR[0-9]+",
+
+
+include: "rules/matrices.smk"
+include: "rules/de.smk"
+include: "rules/clusters.smk"
+include: "rules/toxins.smk"
+# txsscan before tables: supp_tables consumes mf6_txsscan_genes
+include: "rules/txsscan.smk"
+include: "rules/tables.smk"
+include: "rules/figures.smk"
+include: "rules/tn.smk"
+
+
+rule all:
+    default_target: True
+    input:
+        get_final_output,
