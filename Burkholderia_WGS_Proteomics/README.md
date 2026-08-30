@@ -58,7 +58,3 @@ results/     generated matrices, statistics, supplementary tables, and figures
 ```
 
 Finished workbooks are written straight to `results/published/` as `Table_XX…Table_XX`.
-
-## Citation
-
-If you use this workflow, please cite the MF6 paper (citation to be added upon publication).

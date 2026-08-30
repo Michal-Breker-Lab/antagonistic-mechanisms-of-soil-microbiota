@@ -29,4 +29,4 @@ Code, configuration and small staged inputs are tracked here. Generated outputs 
 
 ## Citation
 
-If you use this code, please cite the MF6 paper (citation to be added upon publication).
+If you use this code, please cite the paper (citation to be added upon publication).

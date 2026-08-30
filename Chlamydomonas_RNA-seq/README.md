@@ -44,6 +44,3 @@ resources/   reference genome, annotation, and input reads
 results/     generated quantifications, statistics, and figures
 ```
 
-## Citation
-
-If you use this workflow, please cite the MF6 paper (citation to be added upon publication).
