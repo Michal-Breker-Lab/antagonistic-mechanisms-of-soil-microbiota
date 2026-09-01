@@ -1,0 +1,774 @@
+accession	organism_name	host_category	evidence	raw_host	raw_isolation_source	raw_host_disease	geo_loc_name
+GCA_017356705.2	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	sepsis	India
+GCA_017356725.2	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	Sepsis	India
+GCA_020887275.1	Burkholderia sp. SFA1	soil	env_medium=chinese cabbage field soil				Japan:Shizuoka, Iwata
+GCA_024298805.1	Burkholderia sp. FXe9	soil	isolation_source=soil	not collected	soil		China: ezhou
+GCA_029762415.1	Burkholderia gladioli	unknown	no usable metadata				China:Xinjiang
+GCA_040954445.1	Burkholderia sp.	unknown	no usable metadata		Accessory glands from 6 females		Brazil:Sao Paulo
+GCA_048918525.1	Burkholderia gladioli	plant	host=rice	rice			Viet Nam: Hau Giang province
+GCA_051027405.1	Burkholderia stagnalis	plant	host=chinese fir	Chinese fir	root		China:Fujian
+GCA_055387565.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	missing	missing	USA
+GCA_056494915.1	Paraburkholderia caledonica	animal	host=fadogia homblei	Fadogia homblei	Laboratory culture		France:Toulouse
+GCA_059696275.1	Burkholderia sp. SJ1	unknown	no usable metadata	Pardieuches dissimilis	gut		Japan: Sapporo
+GCA_964417475.2	Burkholderia pseudomallei	soil	isolation_source=soil	Not applicable	soil		Guadeloupe
+GCA_965199415.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCA_965199775.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCA_965217235.1	Burkholderia multivorans	plant	isolation_source=root of oryza sativa cv zonghua		Root of Oryza sativa cv Zonghua		Cambodia
+GCA_965217245.1	Burkholderia multivorans	plant	isolation_source=root of oryza sativa cv zonghua		Root of Oryza sativa cv Zonghua		Cambodia
+GCA_980298765.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Philippines
+GCF_000009485.1	Burkholderia cenocepacia J2315	unknown	no usable metadata				
+GCF_000010545.1	Burkholderia multivorans ATCC 17616	unknown	no usable metadata				
+GCF_000011545.1	Burkholderia pseudomallei K96243	unknown	no usable metadata				
+GCF_000011705.1	Burkholderia mallei ATCC 23344	unknown	no usable metadata				
+GCF_000012365.1	Burkholderia thailandensis E264	unknown	no usable metadata				
+GCF_000012785.1	Burkholderia pseudomallei 1710b	unknown	no usable metadata				
+GCF_000012945.1	Burkholderia lata	unknown	no usable metadata				
+GCF_000013645.1	Paraburkholderia xenovorans LB400	unknown	no usable metadata				
+GCF_000015465.1	Burkholderia mallei SAVP1	unknown	no usable metadata				
+GCF_000015605.1	Burkholderia mallei NCTC 10229	unknown	no usable metadata				
+GCF_000015625.1	Burkholderia mallei NCTC 10247	unknown	no usable metadata				
+GCF_000015905.1	Burkholderia pseudomallei 668	unknown	no usable metadata				
+GCF_000015925.1	Burkholderia pseudomallei 1106a	unknown	no usable metadata				
+GCF_000016205.1	Burkholderia vietnamiensis G4	unknown	no usable metadata				
+GCF_000018505.1	Burkholderia multivorans ATCC 17616	unknown	no usable metadata				
+GCF_000019505.1	Burkholderia orbicola MC0-3	unknown	no usable metadata				
+GCF_000019925.1	Burkholderia ambifaria MC40-6	unknown	no usable metadata				
+GCF_000020045.1	Paraburkholderia phymatum STM815	unknown	no usable metadata				
+GCF_000020125.1	Paraburkholderia phytofirmans PsJN	unknown	no usable metadata				
+GCF_000022645.2	Burkholderia glumae BGR1	unknown	no usable metadata				
+GCF_000092885.1	Paraburkholderia atlantica	unknown	no usable metadata				Mexico: Nayarit, Tepic
+GCF_000194745.1	Burkholderia gladioli BSR3	unknown	no usable metadata				
+GCF_000198775.1	Mycetohabitans rhizoxinica HKI 454	unknown	no usable metadata				
+GCF_000203915.1	Burkholderia ambifaria AMMD	unknown	no usable metadata				
+GCF_000203955.1	Burkholderia cenocepacia HI2424	unknown	no usable metadata				
+GCF_000236065.1	Burkholderia sp. YI23	unknown	no usable metadata				
+GCF_000236215.2	Burkholderia cenocepacia H111	unknown	no usable metadata				
+GCF_000260515.1	Burkholderia pseudomallei 1026b	human_clinical	host=homo sapiens	Homo sapiens	blood of patient with septicemic melioidosis		Thailand
+GCF_000262695.1	Burkholderia sp. KJ006	plant	isolation_source=rice root		rice root		
+GCF_000292915.1	Burkholderia cepacia GG4	soil	isolation_source=soil		soil		Malaysia
+GCF_000294635.1	Burkholderia pseudomallei BPC006	human_clinical	host=homo sapiens	Homo sapiens	blood from patient with type I diabetes and multiple abcesses		China: Baoting Town, Hainan
+GCF_000300095.1	Paraburkholderia phenoliruptrix BR3459a	plant	host=mimosa flocculosa	Mimosa flocculosa			
+GCF_000385525.1	Burkholderia thailandensis MSMB121	soil	isolation_source=soil		soil		Australia
+GCF_000402035.1	Caballeronia insecticola	unknown	no usable metadata				
+GCF_000439695.1	Burkholderia pseudomallei MSHR305	human_clinical	host=homo sapiens	Homo sapiens	autopsy brain sample		Australia: Northern Territory
+GCF_000494855.1	Burkholderia pseudomallei NCTC 13179	human_clinical	host=homo sapiens	Homo sapiens	skin ulcer		Australia
+GCF_000511895.1	Burkholderia pseudomallei NCTC 13178	human_clinical	host=homo sapiens	Homo sapiens	post mortem brain	missing	Australia
+GCF_000511915.1	Burkholderia pseudomallei NAU20B-16	soil	isolation_source=soil	missing	soil	missing	Australia
+GCF_000520895.1	Burkholderia pseudomallei MSHR511	animal	host=goat	goat	throat	missing	Australia
+GCF_000521645.1	Burkholderia pseudomallei MSHR146	animal	host=goat	goat	right udder	missing	Australia
+GCF_000522545.2	Paraburkholderia caribensis MBA4	soil	isolation_source=soil	missing	soil	missing	Thailand
+GCF_000567905.1	Burkholderia thailandensis H0587	human_clinical	host=homo sapiens	Homo sapiens	pleural wound		USA: LA
+GCF_000567925.1	Burkholderia thailandensis 2002721723	human_clinical	host=homo sapiens	Homo sapiens			
+GCF_000567945.1	Burkholderia thailandensis E444	soil	isolation_source=soil		soil		Thailand
+GCF_000583835.1	Burkholderia pseudomallei MSHR520	human_clinical	host=homo sapiens	Homo sapiens	blood		Australia
+GCF_000701165.1	Burkholderia cepacia JBK9	soil	isolation_source=garlic farming soil		garlic farming soil		South Korea: Gyeongsangbuk-do
+GCF_000705535.2	Burkholderia seminalis	unknown	no usable metadata		surface-sterilized vetiver roots		Taiwan: Taichung
+GCF_000706745.1	Burkholderia thailandensis USAMRU Malaysia #20	unknown	no usable metadata		unknown		Malaysia
+GCF_000755725.1	Burkholderia cenocepacia	environmental_other	isolation_source=aerosol sample		Aerosol sample		Australia
+GCF_000755765.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	brain		Australia: Darwin, Northern Territory
+GCF_000755785.1	Burkholderia mallei	human_clinical	host=homo sapiens	Homo sapiens	laboratory acquired infection		Myanmar
+GCF_000755805.1	Burkholderia cepacia	environmental_other	isolation_source=aerosol sample		Aerosol sample		unknown
+GCF_000755825.1	Burkholderia pseudomallei	unknown	no usable metadata		unknown		unknown
+GCF_000755845.1	Burkholderia mallei	human_clinical	isolation_source=human		human		unknown
+GCF_000755865.1	Burkholderia mallei	unknown	no usable metadata		Knee fluid		Myanmar
+GCF_000755885.1	Burkholderia mallei	animal	isolation_source=horse		horse		India
+GCF_000755905.1	Burkholderia pseudomallei HBPUB10303a	human_clinical	isolation_source=tracheal suction		tracheal suction		unknown
+GCF_000755925.1	Burkholderia pseudomallei HBPUB10134a	human_clinical	isolation_source=tracheal suction		Tracheal suction		unknown
+GCF_000755945.1	Burkholderia pseudomallei MSHR5858	human_clinical	host=homo sapiens	Homo sapiens	sputum		Australia
+GCF_000755965.1	Burkholderia pseudomallei MSHR5848	human_clinical	host=homo sapiens	Homo sapiens	sputum		Australia
+GCF_000755985.1	Burkholderia oklahomensis	unknown	no usable metadata		Conjuctival		USA: Georgia
+GCF_000756005.1	Burkholderia multivorans	environmental_other	isolation_source=aerosol sample		Aerosol sample		unknown
+GCF_000756025.1	Burkholderia mallei	unknown	no usable metadata		unknown		Hungary
+GCF_000756045.1	Paraburkholderia xenovorans LB400	unknown	no usable metadata		unknown		unknown
+GCF_000756065.1	Burkholderia pseudomallei MSHR5855	human_clinical	host=homo sapiens	Homo sapiens	sputum		Australia
+GCF_000756085.1	Burkholderia pseudomallei	unknown	no usable metadata		unknown		Thailand
+GCF_000756125.1	Burkholderia pseudomallei	unknown	no usable metadata		unknown		Thailand
+GCF_000756145.1	Burkholderia pseudomallei	human_clinical	isolation_source=liver		liver		Thailand: Ubon Ratchathani
+GCF_000756165.1	Burkholderia pseudomallei	unknown	no usable metadata		unknown		unknown
+GCF_000756185.1	Burkholderia pseudomallei 576	unknown	no usable metadata		unknown		Thailand
+GCF_000757015.2	Burkholderia pseudomallei	unknown	no usable metadata		unknown		Thailand
+GCF_000757035.2	Burkholderia pseudomallei Pasteur 52237	unknown	no usable metadata		unknown		Viet Nam
+GCF_000762285.1	Burkholderia mallei NCTC 10247	unknown	no usable metadata		unknown		Turkey: Ankara
+GCF_000764575.1	Burkholderia pseudomallei NAU35A-3	soil	isolation_source=soil		soil		Australia
+GCF_000764595.1	Burkholderia thailandensis MSMB59	soil	isolation_source=soil		soil		Australia: Northern Territory, Darwin
+GCF_000764955.1	Burkholderia cenocepacia	soil	isolation_source=soil		soil		unknown
+GCF_000765375.1	Burkholderia thailandensis E254	soil	isolation_source=soil		soil		Thailand
+GCF_000770395.1	Burkholderia pseudomallei MSHR62	human_clinical	host=homo sapiens	Homo sapiens	clinical isolate		Australia
+GCF_000770455.1	Burkholderia pseudomallei B03	environmental_other	isolation_source=environmental sample		environmental sample		Papua New Guinea: record deposited as Australia
+GCF_000770495.1	Burkholderia pseudomallei TSV 48	environmental_other	isolation_source=environmental sample		environmental sample		Australia
+GCF_000770515.1	Burkholderia pseudomallei K42	environmental_other	isolation_source=environmental sample		environmental sample		Papua New Guinea: record deposited as Australia
+GCF_000770535.1	Burkholderia pseudomallei A79A	environmental_other	isolation_source=environmental sample		environmental sample		Papua New Guinea: record deposited as Australia
+GCF_000770565.1	Burkholderia pseudomallei	environmental_other	isolation_source=environmental sample		environmental sample		Australia
+GCF_000808035.2	Burkholderia thailandensis	human_clinical	isolation_source=blood		blood		USA: Texas
+GCF_000828875.1	Caballeronia cordobensis	insect	env_local=the midgut of the bean bug riptortus pedestris	Riptortus pedestris			Japan: the bug was collected in Tsukuba
+GCF_000835205.1	Burkholderia plantarii	unknown	no usable metadata		missing		missing
+GCF_000953095.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	pus		Thailand
+GCF_000954175.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood	melioidosis	Taiwan: Kaohsiung Veterans General Hospital, Kaohsiung
+GCF_000959125.1	Burkholderia pseudomallei 1026b	human_clinical	host=homo sapiens	Homo sapiens	Septicemic melioidosis patient blood sample		Thailand
+GCF_000959145.1	Burkholderia pseudomallei 406e	human_clinical	host=homo sapiens	Homo sapiens	human		Thailand
+GCF_000959165.1	Burkholderia mallei	unknown	no usable metadata		Guinea pig		Hungary
+GCF_000959185.1	Burkholderia pseudomallei MSHR840	human_clinical	isolation_source=human brain tissue		Human Brain Tissue		Australia: Ipswitch
+GCF_000959205.1	Burkholderia pseudomallei MSHR491	water	isolation_source=community water supply storage tank		community water supply storage tank		Australia: Northern Territory
+GCF_000959225.1	Burkholderia pseudomallei MSHR2543	unknown	no usable metadata		Unknown		Australia
+GCF_000959245.1	Burkholderia ubonensis MSMB22	unknown	no usable metadata		Unknown		Unknown
+GCF_000959265.1	Burkholderia pseudomallei 7894	human_clinical	isolation_source=human clinical		Human clinical		Ecuador
+GCF_000959285.1	Burkholderia pseudomallei K96243	human_clinical	isolation_source=human clinical		Human Clinical		Thailand: Mahidol University (Siriraj Hospital and Mahidol-Oxford Research Unit)
+GCF_000959305.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis encephalomyelitis	Homo sapiens	blood	Melioidosis encephalomyelitis	Australia
+GCF_000959325.1	Burkholderia humptydooensis	water	isolation_source=water		water		Australia
+GCF_000959345.1	Burkholderia pseudomallei PB08298010	human_clinical	isolation_source=human clinical		Human Clinical		USA: Arizona
+GCF_000959365.1	Burkholderia oklahomensis C6786	human_clinical	host=homo sapiens	Homo sapiens	Pelvic Wound		USA: Oklahoma
+GCF_000959405.1	Burkholderia mallei	human_clinical	isolation_source=human		human		Turkey
+GCF_000959425.1	Burkholderia thailandensis 2002721643	unknown	no usable metadata		Unknown		Unknown
+GCF_000959445.1	Burkholderia vietnamiensis LMG 10929	rhizosphere	isolation_source=oryza sativa, rhizosphere soil		Oryza sativa, rhizosphere soil		Viet Nam: Binh Thanh
+GCF_000959465.1	Burkholderia mallei	unknown	no usable metadata		Mule		India
+GCF_000959485.1	Burkholderia mallei	unknown	no usable metadata		Unknown		United Kingdom
+GCF_000959505.1	Burkholderia dolosa AU0158	human_clinical	isolation_source=human clinical (cystic fibrosis patient)		Human Clinical (cystic fibrosis patient)		USA
+GCF_000959525.1	Burkholderia multivorans ATCC BAA-247	human_clinical	isolation_source=human clinical sample (cystis fibrosis patient)		Human Clinical Sample (Cystis Fibrosis Patient)		Belgium: Brussela
+GCF_000959545.1	Burkholderia ambifaria AMMD	rhizosphere	isolation_source=pea rhizosphere		Pea rhizosphere		USA: Wisconsin
+GCF_000959605.1	Burkholderia thailandensis 34	unknown	no usable metadata		Unavailable		missing
+GCF_000959625.1	Burkholderia mallei	unknown	no usable metadata		Unknown		Unknown
+GCF_000959725.1	Burkholderia gladioli	plant	isolation_source=plant		Plant		Not Available
+GCF_000960995.1	Burkholderia glumae LMG 2196 = ATCC 33617	plant	isolation_source=oryza sativa, grain		Oryza sativa, grain		Japan: Ehime
+GCF_000961515.1	Paraburkholderia fungorum	fungus	isolation_source=white-rot fungus phanerochaete chrysosporium		White-rot fungus Phanerochaete chrysosporium		France
+GCF_000974835.2	Burkholderia cepacia	human_clinical	host_disease=cystic fibrosis	Homo sapiens	pulmonary	cystic fibrosis	Thailand
+GCF_001028665.1	Burkholderia pyrrocinia	soil	isolation_source=soil		soil		Japan
+GCF_001029145.1	Burkholderia contaminans	soil	env_medium=soil				USA
+GCF_001277875.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Taiwan
+GCF_001277895.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Taiwan
+GCF_001277975.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	Pus	Melioidosis	Malaysia: Pahang
+GCF_001293045.1	Burkholderia sp. HB1	soil	isolation_source=soil		soil		Japan: Ehime Prefecture
+GCF_001318245.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	sputum		USA
+GCF_001411495.1	Burkholderia cepacia ATCC 25416	plant	host=allium cepa (onion)	Allium cepa (onion)			missing
+GCF_001411805.1	Burkholderia plantarii	unknown	no usable metadata				
+GCF_001449005.1	Paraburkholderia caribensis	soil	env_medium=soil				Martinique
+GCF_001484665.1	Burkholderia cenocepacia	human_clinical	host_disease=cepacia syndrome	Homo sapiens	sputum	Cepacia syndrome	Czech Republic
+GCF_001513745.1	Burkholderia humptydooensis	water	isolation_source=water	unknown	water		Australia: Northern Territory
+GCF_001522105.2	Burkholderia oklahomensis EO147	human_clinical	host=homo sapiens	Homo sapiens	unknown		USA: Georgia
+GCF_001522135.2	Burkholderia oklahomensis C6786	human_clinical	host=homo sapiens	Homo sapiens	unknown		USA: Oklahoma
+GCF_001522585.2	Burkholderia sp. NRF60-BP8	soil	isolation_source=soil	unknown	soil		Thailand: Ubon, Pibul
+GCF_001522635.2	Burkholderia mayonis	soil	isolation_source=soil	unknown	soil		Australia: Badu Island, Torres Strait
+GCF_001523745.2	Burkholderia mayonis	soil	isolation_source=soil	unknown	soil		Australia: Badu Island, Torres Strait
+GCF_001523915.2	Burkholderia sp. LA-2-3-30-S1-D2	soil	isolation_source=soil	unknown	soil		USA: New Orleans, Plaquemines, LA
+GCF_001524445.2	Burkholderia savannae	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001524625.2	Burkholderia savannae	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001524645.2	Burkholderia sp. MSMB0856	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001532025.2	Burkholderia sp. MSMB617WGS	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001557535.2	Burkholderia sp. PAMC 26561	fungus	isolation_source=lichen		lichen		Antarctica: King George Island,
+GCF_001577465.1	Burkholderia sp. PAMC 28687	unknown	no usable metadata	Usnea			Antarctica
+GCF_001606115.1	Burkholderia cenocepacia	human_clinical	host_disease=nasal inflammation	Homo sapiens	nasal	nasal inflammation	Malaysia: Terengganu
+GCF_001606135.1	Burkholderia cenocepacia	human_clinical	host_disease=bacterial infection	Homo sapiens	Cord blood	Bacterial infection	Malaysia: Kuala Lumpur
+GCF_001611015.1	Paraburkholderia caribensis	soil	isolation_source=farm soil		farm soil		Japan: Ehime Prefecture
+GCF_001634365.1	Paraburkholderia phytofirmans OLGA172	soil	env_medium=soil				Russia
+GCF_001695715.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			Malaysia
+GCF_001695735.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			Malaysia
+GCF_001718295.1	Burkholderia thailandensis	human_clinical	host=homo sapiens	Homo sapiens	unknown		USA: Texas
+GCF_001718315.1	Burkholderia diffusa	soil	isolation_source=soil	unknown	soil		Thailand: Ubon/Trakam
+GCF_001718335.1	Burkholderia territorii	soil	isolation_source=soil	unknown	soil		Thailand: Ubon/Trakam
+GCF_001718355.1	Burkholderia ubonensis	soil	isolation_source=soil	unknown	soil		Thailand: Ubon/Kemarach
+GCF_001718395.1	Burkholderia cepacia	soil	isolation_source=soil	unknown	soil		Thailand: Ubon
+GCF_001718415.1	Burkholderia pseudomultivorans	soil	isolation_source=soil	unknown	soil		Thailand: Ubon
+GCF_001718495.1	Burkholderia vietnamiensis	soil	isolation_source=soil	unknown	soil		USA: Brevard, FL
+GCF_001718515.1	Burkholderia cenocepacia	soil	isolation_source=soil	unknown	soil		USA: Lake, FL
+GCF_001718535.1	Burkholderia seminalis	soil	isolation_source=soil	unknown	soil		USA: Lake, FL
+GCF_001718555.1	Burkholderia metallica	soil	isolation_source=soil	unknown	soil		USA: Lake, FL
+GCF_001718575.1	Burkholderia lata	environmental_other	isolation_source=environmental	unknown	environmental		USA: Florida
+GCF_001718595.1	Burkholderia thailandensis	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001718615.1	Burkholderia thailandensis	unknown	no usable metadata	unknown	unknown		USA
+GCF_001718635.1	Burkholderia thailandensis	environmental_other	isolation_source=environmental	unknown	environmental		unknown
+GCF_001718655.1	Burkholderia ubonensis	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001718695.1	Burkholderia ubonensis	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001718755.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	Thigh Biopsy		USA
+GCF_001718775.1	Burkholderia vietnamiensis	human_clinical	host=homo sapiens	Homo sapiens	CF Blood		USA
+GCF_001718795.1	Burkholderia latens	human_clinical	host=homo sapiens	Homo sapiens	CF Maxillary Sinus		USA
+GCF_001718815.1	Burkholderia vietnamiensis	plant	isolation_source=oryza sativa root	unknown	Oryza sativa root		Indonesia: Sukamandi, Banten
+GCF_001718835.1	Burkholderia cepacia	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001718855.1	Burkholderia ubonensis	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001718875.1	Burkholderia singularis	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001718895.1	Burkholderia cenocepacia	water	isolation_source=water	unknown	water		Australia: Northern Territory
+GCF_001718915.1	Burkholderia vietnamiensis	plant	isolation_source=plant roots	unknown	plant roots		Australia: Northern Territory
+GCF_001718955.1	Burkholderia stagnalis	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001718975.1	Burkholderia ubonensis	soil	isolation_source=soil	unknown	soil		Australia: Northern Territory
+GCF_001718995.1	Burkholderia multivorans	environmental_other	isolation_source=air	unknown	air		Australia: Northern Territory
+GCF_001729545.1	Burkholderia mallei	animal	host=equus caballus	Equus caballus			Bahrain
+GCF_001742165.1	Burkholderia stabilis	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum from a cystic fibrosis patient	Cystic fibrosis	Belgium: Leuven
+GCF_001865575.2	Paraburkholderia sprentiae WSM5005	rhizosphere	isolation_source=root nodule	Lebeckia ambigua	root nodule		South Africa
+GCF_001885195.1	Burkholderia pseudomallei	human_clinical	host_disease=abscess	Jguana	pus of abscess	abscess	Czech Republic: Prague
+GCF_001887555.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	sputum	Melioidosis	Australia
+GCF_001887575.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	sputum	Melioidosis	Australia
+GCF_001922345.1	Paraburkholderia sp. SOS3	plant	host=tomato rhizosphere	tomato rhizosphere			Australia:Brisbane
+GCF_001975065.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood	Melioidosis	Australia: Northern Territory
+GCF_001975085.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood	Melioidosis	Australia: Northern Territory
+GCF_001975105.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood	Melioidosis	Australia: Northern Territory
+GCF_001975125.1	Burkholderia pseudomallei	human_clinical	isolation_source=human		human		Australia: Northern Territory
+GCF_001975145.1	Burkholderia pseudomallei	human_clinical	isolation_source=human		human		Australia: Northern Territory
+GCF_001980585.2	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	missing	melioidosis	Malaysia
+GCF_001999785.1	Burkholderia cenocepacia	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic Fibrosis	Canada: Vancouver
+GCF_001999825.1	Burkholderia cenocepacia	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic Fibrosis	Canada: Vancouver
+GCF_001999885.1	Burkholderia cenocepacia	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic Fibrosis	Canada: Vancouver
+GCF_002007585.1	Burkholderia cenocepacia	plant	host=corn	Corn	Corn Root		Canada: London, Ontario
+GCF_002097715.1	Burkholderia ubonensis subsp. mesacidophila	soil	isolation_source=soil		soil		Japan
+GCF_002110945.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: California ex Mexico
+GCF_002110965.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: Florida ex Trinidad
+GCF_002111005.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: Rhode Island ex Guatemala
+GCF_002111025.1	Burkholderia pseudomallei	soil	isolation_source=soil	missing	soil	none	USA: Puerto Rico
+GCF_002111045.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: California ex Mexico
+GCF_002111085.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	Ecuador
+GCF_002111105.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Iguana iguana	clinical	melioidosis	USA: California
+GCF_002111125.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: New York ex Aruba
+GCF_002111145.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: Arizona ex Costa Rica
+GCF_002111165.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	Switzerland: ex Martinique
+GCF_002111205.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Iguana iguana	clinical	melioidosis	USA: California
+GCF_002111225.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: Ohio
+GCF_002111245.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: Rhode Island ex Guatemala
+GCF_002111265.1	Burkholderia pseudomallei	soil	isolation_source=soil	missing	soil	none	USA: Puerto Rico
+GCF_002111285.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: Illinois ex Mexico
+GCF_002111305.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: Georgia ex Panama and Peru
+GCF_002111325.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: Puerto Rico
+GCF_002111345.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	Venezuela
+GCF_002111365.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: California
+GCF_002111385.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	clinical	melioidosis	USA: Texas ex Mexico
+GCF_002208175.1	Burkholderia gladioli pv. gladioli	plant	isolation_source=gladiolus		gladiolus		South Korea
+GCF_002209085.2	Burkholderia cepacia	environmental_other	host=environment	Environment	plant derived food stuff, onion, Allium cepa	Not Applicable	USA
+GCF_002278075.1	Paraburkholderia aromaticivorans	soil	env_medium=soil				South Korea: Yangju, Gyeonggi-do
+GCF_002345985.1	Burkholderia mallei	unknown	no usable metadata	missing	missing	Glanders	Turkey
+GCF_002346005.1	Burkholderia mallei	unknown	no usable metadata	missing	missing	Glanders	Turkey
+GCF_002346025.1	Burkholderia mallei	unknown	no usable metadata	missing	missing	Glanders	Turkey
+GCF_002346045.1	Burkholderia mallei	human_clinical	host=homo sapiens	Homo sapiens	missing	Glanders	USA:Maryland
+GCF_002346065.1	Burkholderia mallei	unknown	no usable metadata	missing	missing	Glanders	Turkey
+GCF_002346085.1	Burkholderia mallei	unknown	no usable metadata	missing	missing	Glanders	Turkey
+GCF_002346105.1	Burkholderia mallei	unknown	no usable metadata	missing	missing	Glanders	Turkey
+GCF_002346125.1	Burkholderia mallei	unknown	no usable metadata	missing	missing	Glanders	Turkey
+GCF_002346145.1	Burkholderia mallei	unknown	no usable metadata	missing	missing	Glanders	Turkey
+GCF_002346165.1	Burkholderia mallei	unknown	no usable metadata	missing	missing	Glanders	Turkey
+GCF_002346185.1	Burkholderia mallei	unknown	no usable metadata	missing	missing	Glanders	Turkey
+GCF_002346205.1	Burkholderia mallei	human_clinical	host=homo sapiens	Homo sapiens	Missing	Glanders	USA:Maryland
+GCF_002356275.1	Burkholderia stabilis	industrial	env_medium=sludge				restricted access
+GCF_002386205.1	Burkholderia thailandensis	environmental_other	host=environment	Environment	environmental	Not Applicable	Missing
+GCF_002393425.1	Burkholderia gladioli pv. gladioli	plant	host=onion	Onion	onion	Not Applicable	Missing
+GCF_002407525.2	Burkholderia cepacia	plant	host=onion	Onion	onion	Not Applicable	Missing
+GCF_002843645.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	environment	melioidosis	Australia: Northern Territory
+GCF_002860065.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood culture	blood	Hong Kong
+GCF_002902925.1	Paraburkholderia terrae	soil	isolation_source=soil		soil		Korea
+GCF_002902945.1	Paraburkholderia caribensis	soil	isolation_source=soil		soil		Martinique
+GCF_002902965.1	Paraburkholderia hospita	soil	isolation_source=soil		soil		Belgium: Pittem
+GCF_003019945.1	Burkholderia vietnamiensis	environmental_other	host=environment	Environment	oryza sativa, rhizosphere soil	Not Applicable	Missing
+GCF_003019965.1	Burkholderia multivorans	human_clinical	host_disease=infection with burkholderia multivorans	Homo sapiens	cystic fibrosis patient	Infection with Burkholderia multivorans	Missing
+GCF_003020025.1	Burkholderia thailandensis	environmental_other	host=environment	Environment	water	Not Applicable	Missing
+GCF_003020185.1	Burkholderia thailandensis	human_clinical	host_disease=wound infection	Homo sapiens	pleural wound	Wound infection	Missing
+GCF_003076415.1	Burkholderia cenocepacia	human_clinical	host_disease=cystic fibrosis	Homo sapiens	patient sputum	cystic fibrosis	USA: Ohio, Cleveland
+GCF_003233675.1	Burkholderia sp. JP2-270	rhizosphere	isolation_source=rice rhizosphere		rice rhizosphere		China: Hangzhou
+GCF_003286395.1	Paraburkholderia dokdonensis	environmental_other	isolation_source=environmental		environmental		South Korea
+GCF_003330745.1	Paraburkholderia caledonica	soil	isolation_source=soil		soil		Netherlands: Hoeven
+GCF_003330765.1	Burkholderia pyrrocinia	soil	isolation_source=soil		soil		Netherlands: Hoeven
+GCF_003330785.1	Paraburkholderia graminis	soil	isolation_source=soil		soil		Netherlands: Hoeven
+GCF_003330805.1	Paraburkholderia hospita	soil	isolation_source=soil		soil		Netherlands: Hoeven
+GCF_003330825.1	Paraburkholderia terricola	soil	isolation_source=soil		soil		Netherlands: Hoeven
+GCF_003366075.1	Burkholderia sp. IDO3	industrial	isolation_source=reactor sludge		reactor sludge		China: Dalian
+GCF_003368325.1	Paraburkholderia caffeinilytica	soil	isolation_source=tea plantation soil		tea plantation soil		China
+GCF_003445415.1	Burkholderia pseudomallei	unknown	no usable metadata		unknown		Pakistan
+GCF_003546465.1	Burkholderia cepacia ATCC 25416	plant	isolation_source=plant derived food stuff		Plant derived food stuff		unknown
+GCF_003547015.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Institute for Medical Research, Kuala Lumpur	Missing	Malaysia
+GCF_003547035.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	clinical	Missing	Malaysia
+GCF_003547055.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Institute for Medical Research, Kuala Lumpur	Missing	Malaysia
+GCF_003568605.1	Burkholderia thailandensis E264	plant	isolation_source=rice field soil		Rice field soil		Thailand: Central
+GCF_003606245.1	Burkholderia pseudomallei	animal	host=capra hircus	Capra hircus			China
+GCF_003613595.1	Burkholderia gladioli pv. gladioli	environmental_other	host=environment	Environment	environmental	Not Applicable	Missing
+GCF_003614815.1	Burkholderia thailandensis	environmental_other	host=environment	Environment	environmental	Not Applicable	Missing
+GCF_003614835.1	Burkholderia thailandensis	environmental_other	host=environment	Environment	environmental	Not Applicable	Thailand
+GCF_003704285.1	Burkholderia contaminans	soil	isolation_source=soil	unknown	soil		USA: Orange, FL
+GCF_003711145.1	Burkholderia lata	human_clinical	host_disease=cepacia syndrome	Homo sapiens	blood	cepacia syndrome	Australia: Adelaide
+GCF_003713105.1	Burkholderia gladioli	plant	isolation_source=fermented corn meal		Fermented corn meal		China: Heilongjiang Province
+GCF_003798245.1	Burkholderia pseudomallei	unknown	no usable metadata	UCC strain	UCC isolate	Unknown	Unknown
+GCF_003798265.1	Burkholderia pseudomallei	human_clinical	host_disease=meliodosis	Homo sapiens	UCC isolate	Meliodosis	Thailand: Ubon Ratchathani
+GCF_003798365.1	Burkholderia pseudomallei	unknown	no usable metadata	UCC strain	UCC isolate	Not applicable	Thailand: Ubon Ratchathani
+GCF_003812365.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	clinical isolate	Unknown	not applicable
+GCF_003812585.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	clinical isolate	Unknown	not applicable
+GCF_003812965.1	Burkholderia multivorans	unknown	no usable metadata	UCC strain	UCC isolate	Not applicable	Thailand: Ubon Ratchathani
+GCF_003813045.1	Burkholderia dolosa	human_clinical	host=homo sapiens	Homo sapiens	UCC isolate	Unknown	Unknown
+GCF_003966315.1	Burkholderia cenocepacia	plant	host=populus	populus			China:Chenzhou,Hunan
+GCF_004323015.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood from melioidosis patient	Melioidosis	Sri Lanka: Batticaloae
+GCF_004323035.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood from melioidosis patient	Melioidosis	Sri Lanka: Batticaloae
+GCF_004348055.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood from Melioidosis patient	Melioidosis	Sri Lanka: Batticaloae
+GCF_004348075.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood from Melioidosis patient	Melioidosis	Sri Lanka: Batticaloae
+GCF_004367665.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood from a melioidosis patient	Melioidosis	Sri Lanka: Batticaloae
+GCF_004367685.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood and joint fluid of melioidosis patient	Melioidosis	Sri Lanka: Batticaloae
+GCF_004367705.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood	Melioidosis	Sri Lanka: Batticaloae
+GCF_004367725.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood	Melioidosis	Sri Lanka: Batticaloa
+GCF_004526325.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	blood from Melioidosis patient	Melioidosis	Sri Lanka: Batticaloa
+GCF_004842085.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			China:Hainan,Wenchang
+GCF_005280735.1	Trinickia violacea	soil	isolation_source=forest soil		forest soil		China:Guangdong Province
+GCF_005853645.1	Burkholderia pseudomallei	human_clinical	host_disease=blood stream infection	Homo sapiens	Blood aspirate	Blood stream infection	India
+GCF_005862325.1	Burkholderia pseudomallei	human_clinical	host_disease=blood stream infection	Homo sapiens	Blood aspirate	Blood stream infection	India: Vellore
+GCF_005937855.2	Burkholderia sp. KBS0801	soil	isolation_source=soil		soil		USA: Hickory Corners, MI
+GCF_006094315.1	Burkholderia cepacia ATCC 25416	unknown	no usable metadata	missing			missing
+GCF_007556815.1	Paraburkholderia megapolitana	unknown	no usable metadata	missing			Germany
+GCF_007724625.1	Burkholderia contaminans	soil	isolation_source=soil		soil		China
+GCF_008693485.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	clinical isolate	Unknown	USA: MI
+GCF_008693525.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	clinical isolate	Unknown	USA: MI
+GCF_008728255.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	sputum		Micronesia: Yap
+GCF_008728275.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Micronesia: Yap
+GCF_008728295.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	urine		Micronesia: Yap
+GCF_008728315.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Micronesia: Yap
+GCF_008728335.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	pleural fluid		Micronesia: Yap
+GCF_008728355.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	cerebrospinal fluid		Micronesia: Yap
+GCF_008728375.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Micronesia: Yap
+GCF_009191525.1	Burkholderia contaminans	human_clinical	isolation_source=the respiratory tract of a pig with swine respiratory disease		the respiratory tract of a pig with swine respiratory disease		South Korea
+GCF_009578005.1	Burkholderia glumae	plant	host=rice	rice			China: GuangXi
+GCF_009586235.1	Burkholderia cepacia	water	isolation_source=lake		lake		China: Jiujiang
+GCF_009730035.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	clinical isolate	Unknown	USA:MN
+GCF_009730175.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	clinical isolate	Unknown	USA:MN
+GCF_009730195.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	clinical isolate	Unknown	USA:MN
+GCF_009749345.1	Burkholderia pseudomallei	environmental_other	isolation_source=environmental		environmental		Papua New Guinea: Balimo
+GCF_009755625.1	Burkholderia contaminans	rhizosphere	isolation_source=cucumber rhizosphere		cucumber rhizosphere		China:Nanjing
+GCF_009789655.1	Paraburkholderia acidiphila	soil	isolation_source=forest soil		forest soil		China:Guangdong Province
+GCF_009789675.1	Paraburkholderia acidisoli	soil	isolation_source=forest soil		forest soil		China:Guangdong Province
+GCF_009857095.1	Burkholderia glumae AU6208	plant	host=rice	rice			none
+GCF_009931375.1	Burkholderia glumae	plant	host=oryza sativa	Oryza sativa			USA: Louisiana
+GCF_009938265.1	Burkholderia sp. THE68	unknown	no usable metadata	Togo hemipterus			Japan:Ibaraki, Tsukuba
+GCF_011039955.1	Caballeronia sp. SBC2	soil	isolation_source=soil		soil		not collected
+GCF_011493005.1	Caballeronia sp. SBC1	soil	isolation_source=soil		soil		not collected
+GCF_011578485.1	Burkholderia thailandensis	human_clinical	host=homo sapiens	Homo sapiens	blood from patient		China: Chongqing
+GCF_012689525.1	Paraburkholderia aromaticivorans	soil	isolation_source=alpine forest soil		Alpine forest soil		Italy: 7 km north of Bozen/Bolzano below the Rittner Horn, South Tyrol
+GCF_012974245.1	Burkholderia glumae	plant	host=rice	rice			none
+GCF_013122645.1	Burkholderia glumae	plant	host=rice	rice			China: hunan
+GCF_013307145.1	Burkholderia glumae	plant	host=oryza sativa	Oryza sativa	USA rice field		USA: Arkansas
+GCF_013307165.1	Burkholderia glumae	plant	host=oryza sativa	Oryza sativa			USA: Louisiana
+GCF_013378095.1	Paraburkholderia caribensis	plant	host=mimosa	Mimosa			China
+GCF_013426895.1	Paraburkholderia largidicola	insect	host=physopelta gutta	Physopelta gutta			Japan:Okinawa, Sesoko island
+GCF_013426915.1	Paraburkholderia sp. PGU19	insect	host=physopelta gutta	Physopelta gutta			Japan:Okinawa, Nago
+GCF_013822785.1	Burkholderia sp. MBR-1	water	env_medium=waste water				China:Changsha
+GCF_014171495.1	Paraburkholderia tropica	rhizosphere	isolation_source=sorghum rhizosphere	not applicable	Sorghum rhizosphere		Netherlands
+GCF_014211915.1	Burkholderia cenocepacia	soil	isolation_source=soil		soil		India: New Delhi
+GCF_014263355.1	Burkholderia gladioli	plant	host=sugarcane	sugarcane	leaf		China:Guangzhou
+GCF_014357995.1	Burkholderia cenocepacia	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum from cystic fibrosis patient	cystic fibrosis	Canada: Toronto
+GCF_014854795.1	Burkholderia cepacia	human_clinical	host=homo sapiens	Homo sapiens	sputum		Laos
+GCF_016026055.1	Burkholderia glumae	unknown	no usable metadata	missing	missing	Unknown	Not applicable
+GCF_016027435.1	Burkholderia oklahomensis	unknown	no usable metadata	missing	missing	Unknown	Not applicable
+GCF_016027455.1	Burkholderia humptydooensis	unknown	no usable metadata	missing	missing	Unknown	Not applicable
+GCF_016127755.1	Burkholderia ambifaria	unknown	no usable metadata	missing	missing	Unknown	USA:VA
+GCF_016128195.1	Paraburkholderia ginsengisoli	unknown	no usable metadata	missing	missing	Unknown	USA:MD
+GCF_016458785.1	Burkholderia ambifaria	industrial	isolation_source=baijiu fermentation starter		Baijiu fermentation starter		China: Hebei province
+GCF_016458805.1	Burkholderia anthina	industrial	isolation_source=baijiu fermentation starter		Baijiu fermentation starter		China: Hebei province
+GCF_016598875.1	Burkholderia glumae	unknown	no usable metadata	missing	missing	Unknown	Not applicable
+GCF_016698705.1	Burkholderia gladioli	plant	isolation_source=rice shoot		rice shoot		Taiwan: Taichung
+GCF_016774495.1	Burkholderia thailandensis	soil	isolation_source=soil		soil		Singapore
+GCF_016864355.1	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	sepsis	India
+GCF_016889205.1	Burkholderia dolosa	unknown	no usable metadata	missing	missing	Unknown	USA:MD
+GCF_016899425.1	Burkholderia sp. MS389	plant	isolation_source=soybean		soybean		USA: Mississippi
+GCF_016899445.1	Burkholderia sp. MS455	plant	isolation_source=soybean		soybean		USA: Mississippi
+GCF_017165175.1	Burkholderia multivorans	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic fibrosis	Belgium
+GCF_017165195.1	Burkholderia multivorans	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic fibrosis	Belgium
+GCF_017165475.1	Burkholderia multivorans	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic fibrosis	Belgium
+GCF_017165495.1	Burkholderia multivorans	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic fibrosis	Belgium
+GCF_017165515.1	Burkholderia multivorans	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic fibrosis	Belgium
+GCF_017165535.1	Burkholderia multivorans	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic fibrosis	Belgium
+GCF_017165555.1	Burkholderia multivorans	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic fibrosis	Belgium
+GCF_017220215.1	Caballeronia sp. M1242	human_clinical	host_disease=respiratory tract infections	Homo sapiens	ETA	Respiratory Tract Infections	Australia
+GCF_017378155.1	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	Sepsis	India
+GCF_017378195.1	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	Sepsis	India
+GCF_017378235.1	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	Sepsis	India
+GCF_017378275.1	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	Sepsis	India
+GCF_017378315.2	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	Sepsis	India
+GCF_017378355.1	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	Sepsis	India
+GCF_017378435.1	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	Sepsis	India
+GCF_017514945.1	Burkholderia anthina	unknown	no usable metadata		RoundUp		Germany: Goettingen
+GCF_017815595.1	Burkholderia latens	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic Fibrosis	USA:Virginia
+GCF_017815615.1	Burkholderia latens	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic Fibrosis	USA:Alabama
+GCF_017858835.1	Burkholderia glumae	plant	host=oryza sativa	Oryza sativa			USA: Louisiana
+GCF_018223765.1	Burkholderia cenocepacia	human_clinical	host=homo sapiens	Homo sapiens	blood	NA	Taiwan
+GCF_018223785.1	Burkholderia contaminans	human_clinical	host=homo sapiens	Homo sapiens	blood	NA	Taiwan
+GCF_018223805.1	Burkholderia cenocepacia	human_clinical	host=homo sapiens	Homo sapiens	blood	NA	Taiwan
+GCF_018228345.1	Burkholderia pseudomallei	soil	isolation_source=soil		soil		Singapore
+GCF_018228385.1	Burkholderia pseudomallei	water	isolation_source=water		water		Singapore
+GCF_018228525.1	Burkholderia pseudomallei	soil	isolation_source=soil		soil		Singapore
+GCF_018228545.1	Burkholderia pseudomallei	soil	isolation_source=soil		soil		Singapore
+GCF_018228565.1	Burkholderia pseudomallei	soil	isolation_source=soil		soil		Singapore
+GCF_018228585.1	Burkholderia pseudomallei	soil	isolation_source=soil		soil		Singapore
+GCF_018228605.1	Burkholderia pseudomallei	soil	isolation_source=soil		soil		Singapore
+GCF_018228625.1	Burkholderia cenocepacia	human_clinical	host=homo sapiens	Homo sapiens	blood	NA	Taiwan
+GCF_018408855.1	Caballeronia sp. NK8	soil	env_medium=enriched soil				Japan:Ibaraki, Tsukuba, Kannon-dai
+GCF_018417535.1	Burkholderia pyrrocinia	soil	env_medium=forest soil [envo:00002261]		mixed forest near oak tree		USA: Arkansas, Arkadelphia
+GCF_018771365.1	Burkholderia pseudomallei	human_clinical	host_disease=sepsis	Homo sapiens	blood	Sepsis	India
+GCF_019428685.1	Paraburkholderia edwinii	soil	env_medium=soil/tree roots near citrus sinensis	not applicable			USA:Pasadena, California
+GCF_019915365.1	Burkholderia contaminans	human_clinical	host_disease=surgical procedures, operative	Homo sapiens	Swab from tracheostomic tube	Surgical Procedures, Operative	Kazakhstan: Almaty
+GCF_019930785.1	Burkholderia dolosa	unknown	no usable metadata	missing	missing	Unknown	Germany: Braunschweig
+GCF_020099355.1	Burkholderia vietnamiensis	unknown	no usable metadata	missing	missing	Unknown	Germany: Braunschweig
+GCF_020544345.1	Paraburkholderia caribensis	plant	host=sugarcane	Sugarcane			Brazil
+GCF_020736245.1	Burkholderia dolosa	unknown	no usable metadata	missing	missing	Unknown	Germany: Braunschweig
+GCF_020843905.1	Burkholderia ambifaria	soil	isolation_source=agricultural soil		agricultural soil		Canada: Saint-Jean-sur-Richelieu, Quebec
+GCF_020843925.1	Burkholderia ambifaria	soil	isolation_source=agricultural soil		agricultural soil		Canada: Farnham, Quebec
+GCF_020843945.1	Burkholderia sp. B21-007	soil	isolation_source=agricultural soil		agricultural soil		Canada: Havelock, Quebec
+GCF_020843965.1	Burkholderia sp. B21-005	soil	isolation_source=agricultural soil		agricultural soil		Canada: Farnham, Quebec
+GCF_020843985.1	Burkholderia ambifaria	soil	isolation_source=agricultural soil		agricultural soil		Canada: Farnham, Quebec
+GCF_020885575.1	Paraburkholderia terrae	soil	env_broad=soil				Japan:Osaka
+GCF_021344035.2	Burkholderia cepacia	soil	env_medium=soil [envo:01001044]	Lilium longiflorum			South Korea:Wanju
+GCF_021484945.1	Burkholderia cepacia	water	env_local=purified water for pharmaceuticals				China:Beijing
+GCF_021535065.1	Burkholderia cenocepacia	water	env_local=purified water for pharmaceuticals				China:Beijing
+GCF_021899435.1	Burkholderia aenigmatica	water	env_local=purified water for pharmaceuticals				China:Beijing
+GCF_022213445.1	Burkholderia vietnamiensis	human_clinical	host=homo sapiens	Homo sapiens	clinical isolate	Unknown	USA:MN
+GCF_022533485.1	Burkholderia contaminans	water	isolation_source=water		water		Not applicable
+GCF_022809715.1	Burkholderia pyrrocinia	plant	host=poplar	poplar	China:Nanjing		not collected
+GCF_022879575.1	Caballeronia sp. SL2Y3	unknown	no usable metadata	Jalysus wickhami			USA: Arizona
+GCF_022879595.1	Caballeronia sp. Lep1P3	insect	host=leptoglossus zonatus	Leptoglossus zonatus			USA: California
+GCF_022879615.1	Caballeronia grimmiae	insect	host=leptoglossus zonatus	Leptoglossus zonatus			USA: California
+GCF_022879815.1	Caballeronia zhejiangensis	insect	host=anasa tristis	Anasa tristis			USA: Georgia
+GCF_023053515.1	Burkholderia cepacia	plant	host=rice	rice	root		China: Nanchang City, Jiangxi Province
+GCF_023169865.1	Paraburkholderia terrae	soil	env_broad=soil				Japan:Osaka
+GCF_023170545.1	Caballeronia sp. Sq4a	insect	host=anasa tristis	Anasa tristis			USA: Georgia
+GCF_023373625.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023373645.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023373665.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023373685.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023373725.1	Burkholderia vietnamiensis	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374315.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374335.1	Burkholderia cenocepacia	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374355.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374375.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374395.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374415.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374435.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374455.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374475.1	Burkholderia cepacia	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374495.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374515.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374535.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374575.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374595.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374615.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374635.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374655.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374675.1	Burkholderia cepacia	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374695.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374715.1	Burkholderia cepacia	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374735.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374755.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374775.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374795.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374815.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374835.1	Burkholderia cenocepacia	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374855.1	Burkholderia cenocepacia	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374875.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023374895.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	not collected	not collected	Germany
+GCF_023658595.1	Burkholderia gladioli	soil	isolation_source=soil		soil		China: chongqing
+GCF_024022955.1	Burkholderia glumae	plant	host=oryza sativa	Oryza sativa	rice panicle		South Korea: Icheon
+GCF_024072595.1	Paraburkholderia fungorum	plant	host=arabidopsis thaliana	Arabidopsis thaliana	leaf		France: Bagneres-de-Bigorre
+GCF_024072715.1	Paraburkholderia fungorum	plant	host=arabidopsis thaliana	Arabidopsis thaliana			France: Bagneres-de-Bigorre
+GCF_024123895.1	Paraburkholderia fungorum	plant	host=arabidopsis thaliana	Arabidopsis thaliana	leaf		France: Saubens
+GCF_024381035.2	Burkholderia arboris	soil	isolation_source=soil		soil		China:Shandong
+GCF_024600575.1	Burkholderia cepacia	soil	isolation_source=mixed soil samples	missing	Mixed soil samples		China:Guangxi
+GCF_024661975.1	Burkholderia contaminans	industrial	isolation_source=daily chemical products		Daily chemical products		China: Guangzhou
+GCF_024662395.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Naju
+GCF_024662415.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Taean-gun
+GCF_024662435.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Haenam-gun
+GCF_024662455.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Chungju
+GCF_024662475.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Muju-gun
+GCF_024662615.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea
+GCF_024662735.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Gyeongsangnam-do
+GCF_024662895.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Goryeong-gun
+GCF_024663015.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Sacheon
+GCF_024663135.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Suwon
+GCF_024663255.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea
+GCF_024663375.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Gimje
+GCF_024663615.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Buyeo-gun
+GCF_024663775.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Hadong-gun
+GCF_024663895.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Seocheon-gun
+GCF_024663975.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Jecheon
+GCF_024663995.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Yeongam-gun
+GCF_024664015.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Hadong-gun
+GCF_024664035.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Buan-gun
+GCF_024664055.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Buan-gun
+GCF_024664075.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Gyeongsan
+GCF_024664095.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Miryang
+GCF_024664115.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Jangsu-gun
+GCF_024664135.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Namwon
+GCF_024664155.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Bonghwa-gun
+GCF_024664175.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Hapcheon-gun
+GCF_024664195.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Goseong-gun
+GCF_024664215.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Suwon
+GCF_024664235.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Haman-gun
+GCF_024664255.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea
+GCF_024664275.1	Burkholderia glumae	unknown	no usable metadata	not applicable	not applicable		South Korea: Icheon
+GCF_024730645.1	Burkholderia sp. EMB26	soil	isolation_source=soil samples		Soil samples		India: New Delhi
+GCF_024732225.1	Burkholderia pyrrocinia	unknown	no usable metadata		none		none
+GCF_024760585.1	Burkholderia glumae	plant	isolation_source=diseased rice		diseased rice		South Korea: Gangjin district, Jeolla province
+GCF_024760605.1	Burkholderia glumae	plant	isolation_source=diseased rice		diseased rice		South Korea: Cheongju, Chungcheong province
+GCF_024760625.1	Burkholderia glumae	plant	isolation_source=diseased rice		diseased rice		South Korea: Changwon, Gyeongsang province
+GCF_024760645.1	Burkholderia glumae	plant	isolation_source=diseased rice		diseased rice		South Korea: Suwon, Gyeonggi province
+GCF_025244785.1	Burkholderia gladioli	plant	isolation_source=dendrobium officinale kimura et migo		Dendrobium officinale Kimura et Migo		China:Zhejiang
+GCF_025560745.1	Burkholderia sp. S-53	soil	isolation_source=mountain soil		mountain soil		China
+GCF_025643495.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	CF throat		Canada
+GCF_025643515.1	Burkholderia contaminans	human_clinical	host=homo sapiens	Homo sapiens	sputum		Canada: Manitoba
+GCF_025643555.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	sputum		Canada: Manitoba
+GCF_025643575.1	Burkholderia cenocepacia	human_clinical	host=homo sapiens	Homo sapiens	unknown		Canada: Manitoba
+GCF_026315005.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	sputum	melioidosis	Australia: Northern Territory
+GCF_026315025.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	sputum	melioidosis	Australia: Northern Territory
+GCF_026315045.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	sputum	melioidosis	Australia: Northern Territory
+GCF_026651625.1	Burkholderia gladioli	insect	host=lagria villosa	Lagria villosa			Brazil:Sao Paulo
+GCF_026651975.1	Burkholderia glumae	plant	isolation_source=broken rice		broken rice		South Korea: Yeoncheon-gun, Gyeonggi-do
+GCF_026651995.1	Burkholderia glumae	plant	isolation_source=broken rice		broken rice		South Korea: Icheon, Gyeonggi province
+GCF_026652015.1	Burkholderia glumae	plant	isolation_source=broken rice		broken rice		South Korea: Sancheong district, Gyeongsang province
+GCF_026683835.2	Burkholderia ambifaria	human_clinical	host=homo sapiens	Homo sapiens			Canada
+GCF_026683855.2	Burkholderia ambifaria	human_clinical	host=human cf	Human CF			Canada
+GCF_026683875.2	Burkholderia ambifaria	unknown	no usable metadata	NA			Canada
+GCF_026958255.1	Burkholderia ambifaria	rhizosphere	isolation_source=peanut rhizospheric soil		peanut rhizospheric soil		Argentina: Rio Cuarto
+GCF_028201395.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	unknown	melioidosis	Malaysia
+GCF_028462305.2	Burkholderia cepacia	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic fibrosis	Russia:Moscow
+GCF_028473685.1	Paraburkholderia bryophila	water	isolation_source=mat on a water body surface in quartzite imawari yeuta cave		Mat on a water body surface in quartzite Imawari Yeuta cave		Venezuela: Auyan Tepui
+GCF_028657905.1	Burkholderia sp. FERM BP-3421	soil	isolation_source=soil sample		soil sample		Japan
+GCF_029536165.1	Paraburkholderia sp. SUR17	plant	host=sugarcane	sugarcane			China: Fujian
+GCF_029590335.1	Burkholderia contaminans	human_clinical	host=homo sapiens	Homo sapiens			Australia: Victoria
+GCF_029633645.1	Burkholderia contaminans	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic Fibrosis	Argentina: Buenos Aires
+GCF_029633805.1	Burkholderia contaminans	industrial	isolation_source=pharmaceutical solution		pharmaceutical solution		Argentina: Buenos AIres
+GCF_029633825.1	Burkholderia contaminans	human_clinical	host_disease=mastitis	sheep	milk	mastitis	Spain
+GCF_029910195.1	Burkholderia sp. JSH-S8	soil	env_medium=soil	Tetrastigma hemsleyanum Diels et Gilg			China: Jiangxi Province
+GCF_029910215.1	Paraburkholderia sp. D15	plant	host=lichen	lichen			China: Jiangxi Province
+GCF_029962485.1	Burkholderia cepacia	insect	host=plectrocnemia	Plectrocnemia	Intestinal tract		China:Shiwanda Mountain in Guangxi Province
+GCF_030078435.1	Burkholderia vietnamiensis	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum	Cystic Fibrosis	Sweden
+GCF_030297195.1	Burkholderia pseudomallei	unknown	no usable metadata		Monkey		Singapore
+GCF_030297215.1	Burkholderia pseudomallei	unknown	no usable metadata				not applicable
+GCF_030297235.1	Burkholderia pseudomallei	animal	host=rattus norvegicus	Rattus norvegicus			not applicable
+GCF_030297255.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			USA
+GCF_030297275.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			Japan
+GCF_030297295.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			Japan
+GCF_030297315.1	Burkholderia pseudomallei	unknown	no usable metadata				not applicable
+GCF_030297335.1	Burkholderia pseudomallei	unknown	no usable metadata				not applicable
+GCF_030297355.1	Burkholderia pseudomallei	unknown	no usable metadata				not applicable
+GCF_030316055.1	Paraburkholderia bonniea	amoeba_protist	host=dictyostelium discoideum	Dictyostelium discoideum			USA: Virginia
+GCF_030316075.1	Paraburkholderia bonniea	amoeba_protist	host=dictyostelium discoideum	Dictyostelium discoideum			USA: Virginia
+GCF_030374675.1	Burkholderia anthina	rhizosphere	isolation_source=rhizosphere and root exudates	Sorghum bicolor	rhizosphere and root exudates		USA: California, Parlier, Kearney Agricultural Research and Extension Center (KARE)
+GCF_030412785.1	Paraburkholderia sabiae	plant	host=mimosa caesalpiniifolia	Mimosa caesalpiniifolia	root nodule		Brazil
+GCF_030505635.1	Burkholderia glumae	plant	host=oryza sativa	Oryza sativa			Bangladesh: Natore
+GCF_030644525.1	Burkholderia plantarii	plant	host=oryza sativa	Oryza sativa			South Korea
+GCF_030848725.1	Burkholderia dolosa	human_clinical	host=homo sapiens	Homo sapiens	Bronchial fluid	Stroke	Viet Nam
+GCF_031356765.1	Paraburkholderia phenoliruptrix	soil	isolation_source=soil		soil		South Korea
+GCF_031585635.1	Paraburkholderia sp. FT54	rhizosphere	isolation_source=rhizosphere soil of tomato		Rhizosphere soil of Tomato		South Korea: Busan
+GCF_032806925.1	Paraburkholderia kirstenboschensis	soil	isolation_source=burned soil (forest)		burned soil (forest)		USA: Blodgett Forest Research Station, California
+GCF_033391855.2	Paraburkholderia terrae	soil	env_medium=unvegetated sediment				Chile: Calbuco Volcano
+GCF_033675275.1	Burkholderia thailandensis	soil	isolation_source=soil	not applicable	soil		Thailand
+GCF_033675305.1	Burkholderia thailandensis	soil	isolation_source=soil	not applicable	soil		Thailand
+GCF_033675325.1	Burkholderia cepacia	human_clinical	host=homo sapiens	Homo sapiens	sputum		Thailand
+GCF_033870355.1	Burkholderia mallei	animal	host=equus caballus	Equus caballus	horse	Glanders	Yugoslavia
+GCF_033870375.1	Burkholderia mallei	animal	host=equus caballus	Equus caballus	horse	Glanders	India
+GCF_033870395.1	Burkholderia mallei	animal	host=equus caballus	Equus caballus	horse	Glanders	Indonesia
+GCF_033956065.1	Burkholderia mallei	human_clinical	host=homo sapiens	Homo sapiens	human	Glanders	Myanmar
+GCF_034047095.1	Robbsia andropogonis	plant	env_medium=leaf spot disease samples	Areca catechu			China: Haikou
+GCF_034424375.1	Paraburkholderia kururiensis	industrial	env_medium=manufactured product [envo:00003074]				Finland
+GCF_034424545.1	Trinickia caryophylli	plant	env_local=plant-associated environment [envo:01001001]				USA
+GCF_035621555.1	Burkholderia thailandensis	human_clinical	host=homo sapiens	Homo sapiens			China:Sichuan
+GCF_036352035.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens	bronchoalveolar lavage	NA	USA
+GCF_036362805.1	Burkholderia multivorans	human_clinical	host=homo sapiens	Homo sapiens			Viet Nam
+GCF_036837415.1	Burkholderia gladioli	plant	host=oryza sativa	Oryza sativa			South Korea
+GCF_036839165.1	Burkholderia gladioli	plant	host=oryza sativa	Oryza sativa			South Korea
+GCF_037055255.1	Burkholderia pyrrocinia	soil	env_medium=soil				South Korea
+GCF_037101255.1	Paraburkholderia sp. 22B1P	soil	env_medium=soil				Japan:Shizuoka, Shizuoka
+GCF_037101275.1	Burkholderia contaminans	soil	isolation_source=soil		soil		Japan:Tokyo
+GCF_037477895.1	Mycetohabitans endofungorum	fungus	host=rhizopus microsporus	Rhizopus microsporus	soil		Ukraine
+GCF_037477905.1	Mycetohabitans endofungorum	fungus	host=rhizopus microsporus	Rhizopus microsporus	forest soil		Georgia
+GCF_037478035.1	Mycetohabitans endofungorum	fungus	host=rhizopus microsporus	Rhizopus microsporus	corn		USA
+GCF_037478045.1	Mycetohabitans rhizoxinica	fungus	host=rhizopus microsporus	Rhizopus microsporus	Rabbit dung		USA
+GCF_037478055.1	Mycetohabitans rhizoxinica	fungus	host=rhizopus microsporus	Rhizopus microsporus	soil		Philippines
+GCF_037478065.1	Mycetohabitans rhizoxinica	fungus	host=rhizopus microsporus	Rhizopus microsporus	unknown		USA
+GCF_037478075.1	Mycetohabitans endofungorum	fungus	host=rhizopus microsporus	Rhizopus microsporus	ground nuts		Mozambique
+GCF_037478085.1	Mycetohabitans endofungorum	fungus	host=rhizopus microsporus	Rhizopus microsporus	rice wine tablet		Viet Nam
+GCF_038050405.1	Paraburkholderia sp. IMGN_8	soil	isolation_source=soil		soil		South Korea: Gyeonggi-Do
+GCF_038452255.1	Burkholderia pyrrocinia	soil	env_medium=tobacco soil				China:Guangdong
+GCF_038723655.1	Burkholderia arboris	soil	isolation_source=soil	Panax notoginseng	soil		China:Wenshan
+GCF_038782865.1	Burkholderia ambifaria	unknown	no usable metadata	Atractylodes lancea			China: Liaoyang
+GCF_038983115.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	urine	Melioidosis	Thailand: Bangkok
+GCF_038983225.1	Burkholderia pseudomallei	human_clinical	host_disease=melioidosis	Homo sapiens	urine	Melioidosis	Thailand: Bangkok
+GCF_039621805.1	Paraburkholderia sp. PREW-6R	unknown	no usable metadata		Phlox subulata		South Korea: Jinan-gun, Jeollabuk-do
+GCF_039728355.1	Burkholderia cenocepacia	human_clinical	isolation_source=sputum		sputum		China:Jinan
+GCF_039848545.1	Burkholderia stagnalis	unknown	no usable metadata		soils collected in Guangdong Province, China		China: Guangdong province
+GCF_039852015.1	Robbsia sp. KACC 23696	plant	isolation_source=flower	Coreopsis lanceolata L.	flower		South Korea: Suncheon-si, Jeollanam-do
+GCF_040215475.1	Burkholderia contaminans	plant	host=pelargonium graveolens	Pelargonium graveolens			Brazil: Brasilia
+GCF_040314805.1	Trinickia caryophylli	plant	env_medium=plant	Carnation			Missing
+GCF_040361905.1	Paraburkholderia terrae	soil	isolation_source=agricultural soil		agricultural soil		Japan:Osaka
+GCF_040735455.1	Burkholderia semiarida	human_clinical	host=homo sapiens	Homo sapiens			China: Haikou, Hainan
+GCF_040761425.1	Burkholderia sp. Ed8	plant	host=rice	Rice	leaves		Malaysia: Selangor
+GCF_041070875.1	Burkholderia cepacia	soil	isolation_source=soil		soil		South Korea:Jeonju
+GCF_041205585.2	Burkholderia cenocepacia	human_clinical	host_disease=cystic fibrosis	Homo sapiens	sputum from cystic fibrosis patient	Cystic Fibrosis	Russia: Moscow
+GCF_042604585.1	Burkholderia gladioli	human_clinical	isolation_source=clinical		clinical		USA
+GCF_042604595.1	Burkholderia gladioli	human_clinical	isolation_source=clinical, sputum		Clinical, sputum		USA
+GCF_043193125.1	Burkholderia ambifaria	soil	isolation_source=environmental, soil		Environmental, soil		USA
+GCF_044057485.1	Burkholderia contaminans	plant	isolation_source=pericarpium citri reticulatae 'chachiensis'		Pericarpium Citri Reticulatae 'Chachiensis'		China: Guangzhou
+GCF_044501195.1	Burkholderia anthina	soil	host=soil	Soil			Netherlands
+GCF_045345775.1	Burkholderia semiarida	human_clinical	host=homo sapiens	Homo sapiens			China:Sanya, Hainan
+GCF_045348565.1	Paraburkholderia fungorum	unknown	no usable metadata		Moso bamboo		China
+GCF_045862465.1	Burkholderia gladioli pv. gladioli	plant	host=gladiolus	Gladiolus			Japan:Shizuoka, Minami-Izu
+GCF_045925845.1	Burkholderia pyrrocinia	plant	host=cinnamomum camphora	Cinnamomum camphora			China: Nanchang
+GCF_046773525.1	Burkholderia cepacia	rhizosphere	isolation_source=the rhizosphere soil of moso		The rhizosphere soil of Moso		China:hangzhou
+GCF_047127275.1	Burkholderia lata	unknown	no usable metadata	Arachis hypogaea			Brazil: Jaboticabal, Sao Paulo State
+GCF_047325075.1	Paraburkholderia phenoliruptrix	plant	host=triticum aestivum cv. catawba	Triticum aestivum cv. Catawba	roots		USA: NCSU Phytotron, Raleigh, NC
+GCF_047497155.1	Burkholderia sp. 22PA0106	plant	host=allium cepa	Allium cepa	Agricultural field		USA: Pennsylvania
+GCF_047497165.1	Burkholderia sp. 22PA0099	plant	host=allium cepa	Allium cepa	Agricultural field		USA: Pennsylvania
+GCF_047902435.1	Burkholderia cepacia	industrial	isolation_source=activated sludge		activated sludge		China: Macau
+GCF_048565175.1	Burkholderia gladioli	plant	isolation_source=plant		Plant		China:Guizhou
+GCF_048565265.1	Burkholderia theae	soil	isolation_source=soil		soil		Taiwan: Xitou
+GCF_048627025.1	Burkholderia aenigmatica	human_clinical	isolation_source=wet tissue		wet tissue		China:Guangdong
+GCF_048688115.1	Burkholderia thailandensis	human_clinical	host=homo sapiens	Homo sapiens			China: Haikou, Hainan
+GCF_048917655.1	Burkholderia gladioli	plant	host=rice	rice			Viet Nam: Long An province
+GCF_048917665.1	Burkholderia gladioli	plant	host=rice	rice			Viet Nam: Hau Giang province
+GCF_048917685.1	Burkholderia gladioli	plant	host=rice	rice			Viet Nam: Hau Giang province
+GCF_049177125.1	Paraburkholderia sp. DD10	soil	env_medium=soil		Hyphosphere of Rhizophagus irregularis found in the meadow		France: Sorede
+GCF_049487195.1	Burkholderia sp. NLJ2	soil	isolation_source=soil		soil		China
+GCF_049913365.1	Burkholderia ambifaria	rhizosphere	isolation_source=maize rhizosphere		maize rhizosphere		USA: Iowa State University Marsden Farm, Boone, Co., Iowa
+GCF_049942845.1	Burkholderia sp. R-40	rhizosphere	isolation_source=maize rhizosphere		maize rhizosphere		USA: Iowa State University Marsden Farm, Boone, Co., Iowa
+GCF_050320195.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Melioidosis patient - Sputum		Thailand: Ubon Ratchathani
+GCF_050430075.1	Robbsia andropogonis	unknown	no usable metadata	Pueraria montana var. thomsonii			China: Guangdong
+GCF_050500075.1	Paraburkholderia tropica	unknown	no usable metadata		soils where Camelina sativa is grown		USA: Sidney, Montana
+GCF_050613125.1	Burkholderia gladioli	soil	isolation_source=soil		soil		China: Shandong
+GCF_050613135.1	Burkholderia cepacia	rhizosphere	isolation_source=casuarina rhizosphere soil samples		Casuarina rhizosphere soil samples		China: YangJiang
+GCF_050627075.1	Paraburkholderia fungorum	plant	env_medium=root tissue	Pisum sativum L.			France
+GCF_050627395.1	Paraburkholderia fungorum	plant	env_medium=root tissue	Pisum sativum L.			France
+GCF_050632305.1	Burkholderia contaminans	human_clinical	host=homo sapiens	Homo sapiens	blood culture	missing	Sierra Leone: Masanga
+GCF_050632315.1	Burkholderia contaminans	human_clinical	host=homo sapiens	Homo sapiens	blood culture	missing	Sierra Leone: Masanga
+GCF_050632325.1	Burkholderia cepacia	human_clinical	host=homo sapiens	Homo sapiens	swab	missing	Sierra Leone: Masanga
+GCF_050632335.1	Burkholderia contaminans	human_clinical	host=homo sapiens	Homo sapiens	blood culture	missing	Sierra Leone: Masanga
+GCF_050632345.1	Burkholderia contaminans	human_clinical	host=homo sapiens	Homo sapiens	blood culture	missing	Sierra Leone: Masanga
+GCF_050632355.1	Burkholderia cepacia	human_clinical	host=homo sapiens	Homo sapiens	blood culture	missing	Sierra Leone: Masanga
+GCF_050813845.1	Burkholderia sp. F1	soil	env_medium=top soil		Imbak Canyon Conservation Area		Malaysia: Sabah
+GCF_050858985.1	Burkholderia sp. M6-3	unknown	no usable metadata; accession updated GCA_050858985.1 -> GCF_050858985.1 (same BioSample)	not collected	acid upland red soils		China: Jiangxi
+GCF_050920555.1	Burkholderia gladioli pv. alliicola	plant	isolation_source=onion seeds		onion seeds		France
+GCF_050955445.1	Paraburkholderia sp. RHO2	soil	host=soil; accession updated GCA_050955445.1 -> GCF_050955445.1 (same BioSample)	soil			China:Nanjing
+GCF_050990585.1	Paraburkholderia phenoliruptrix	soil	host=soil	soil			China:Nanjing
+GCF_050990595.1	Paraburkholderia sacchari	soil	isolation_source=soil	missing	soil		China:Nanjing
+GCF_051027425.1	Paraburkholderia caffeinilytica	plant	host=chinese fir	Chinese fir	root		China:Fujian
+GCF_051124805.1	Paraburkholderia sp. A3RO-2L	soil	env_medium=top soil				Viet Nam: My Xuyen, Soc Trang
+GCF_051125205.1	Paraburkholderia sp. A1BS-2L	soil	env_medium=top soil				Viet Nam: My Xuyen, Soc Trang
+GCF_051125215.1	Paraburkholderia sp. A3BS-1L	soil	env_medium=top soil				Viet Nam: My Xuyen, Soc Trang
+GCF_051125545.1	Paraburkholderia sp. A2RO-4L	soil	env_medium=top soil				Viet Nam: My Xuyen, Soc Trang
+GCF_051355645.1	Burkholderia lata	soil	isolation_source=soil		soil		Trinidad and Tobago
+GCF_051560065.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			Australia: Queensland
+GCF_051560085.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			Australia: Queensland
+GCF_051560105.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			Australia: Queensland
+GCF_051560125.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			Australia: Queensland
+GCF_051560145.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens			Australia: Queensland
+GCF_051615025.1	Caballeronia sp. DA-9	water	isolation_source=seawater from weddell sea		seawater from Weddell Sea		Antarctica
+GCF_052222725.1	Burkholderia gladioli	soil	host=soil	soil			China: Dali City
+GCF_052854005.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052854015.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052854305.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052854315.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052854605.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052854615.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052854885.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052854895.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052855305.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052855315.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052855605.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052855615.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052855985.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052856205.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052857015.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052857225.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052857935.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052858145.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052858685.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_052858755.1	Burkholderia pseudomallei	soil	isolation_source=enviroment (soil)		enviroment (soil)		Viet Nam
+GCF_053038975.1	Burkholderia sola	human_clinical	host=homo sapiens	Homo sapiens	blood	not collected	USA: Pittsburgh
+GCF_053153985.1	Burkholderia vietnamiensis	human_clinical	host=homo sapiens	Homo sapiens	blood		China: Haikou
+GCF_053209605.1	Burkholderia sola	human_clinical	host=homo sapiens	Homo sapiens	sputum	not collected	USA: Pittsburgh
+GCF_053348855.1	Burkholderia metallica	plant	host=glycine max	Glycine max			USA: North Eastern Illinois
+GCF_053470105.1	Burkholderia gladioli	plant	isolation_source=rice		rice		China:Hangzhou
+GCF_053470145.1	Burkholderia gladioli	plant	isolation_source=rice		rice		China:Hangzhou
+GCF_053760385.1	Caballeronia sp. KNU42	soil	isolation_source=phosphoric acid, potassium 40 years long-lasting soil		Phosphoric acid, potassium 40 years long-lasting soil		South Korea: Daegu
+GCF_054073385.1	Burkholderia pyrrocinia	soil	isolation_source=korean agricultural soil		Korean agricultural soil		South Korea
+GCF_054073395.1	Burkholderia pyrrocinia	soil	isolation_source=korean agricultural soil		korean agricultural soil		South Korea
+GCF_054166125.1	Paraburkholderia strydomiana	soil	isolation_source=agricultural field soil		Agricultural Field Soil		Canada: Manitoba Carman
+GCF_054166145.1	Paraburkholderia strydomiana	soil	isolation_source=agricultural field soil		Agricultural Field Soil		Canada: Manitoba Carman
+GCF_054166155.1	Paraburkholderia strydomiana	soil	isolation_source=agricultural field soil		Agricultural Field Soil		Canada: Manitoba Carman
+GCF_054166185.1	Burkholderia ambifaria	soil	isolation_source=agricultural field soil		Agricultural Field Soil		Canada: Manitoba Carman
+GCF_054166195.1	Paraburkholderia graminis	soil	isolation_source=agricultural field soil		Agricultural Field Soil		Canada: Manitoba Carman
+GCF_054166225.1	Paraburkholderia strydomiana	soil	isolation_source=agricultural field soil		Agricultural Field Soil		Canada: Manitoba Carman
+GCF_054166245.1	Paraburkholderia strydomiana	soil	isolation_source=agricultural field soil		Agricultural Field Soil		Canada: Manitoba Carman
+GCF_054166265.1	Paraburkholderia strydomiana	soil	isolation_source=agricultural field soil		Agricultural Field Soil		Canada: Manitoba Carman
+GCF_054187845.1	Burkholderia gladioli	plant	isolation_source=rice seedling		Rice seedling		-
+GCF_054558305.1	Burkholderia contaminans	industrial	env_broad=food-associated environment	not applicable	natural cheese		USA
+GCF_054955335.1	Burkholderia contaminans	plant	host=oryza sativa	Oryza sativa	Seed of traditional rice cultivar Malshira		Bangladesh: Gazipur, Gazipur Agricultural University
+GCF_055386035.1	Burkholderia gladioli	plant	host=oryza sativa	Oryza sativa			Japan:Ibaraki, Tsukuba
+GCF_055387925.1	Burkholderia mallei	human_clinical	host=homo sapiens	Homo sapiens	missing	Glanders	USA
+GCF_055391905.1	Paraburkholderia monticola	unknown	no usable metadata		roots of Arabidopsis thaliana		Japan:Nara, Ikoma
+GCF_055397325.1	Paraburkholderia largidicola	insect	host=physopelta gutta	Physopelta gutta	Midgut crypts of sting bug Physopelta gutta		Japan:Okinawa, Nago
+GCF_055397665.1	Burkholderia mallei	animal	host=equus caballus	Equus caballus	liver abscess	Glanders	Mongolia:Ulanbaatar
+GCF_055397955.1	Burkholderia gladioli	plant	host=freesia	Freesia			Japan:Chiba
+GCF_055810255.1	Burkholderia thailandensis	human_clinical	host=homo sapiens	Homo sapiens			China:ChongQing
+GCF_056270685.1	Paraburkholderia sp. PAMB 6768	plant	host=nepenthes alata	Nepenthes alata			South Korea
+GCF_056591095.1	Paraburkholderia terricola	soil	isolation_source=soil		soil		South Korea
+GCF_056640905.1	Burkholderia pyrrocinia	soil	isolation_source=soil		soil		China: Chongqing
+GCF_056783395.1	Burkholderia pyrrocinia	plant	host=fern	Fern	rhizosphere soil		China: Guizhou
+GCF_056847505.1	Mycetohabitans endofungorum	fungus	host=rhizopus arrhizus	Rhizopus arrhizus	corn		USA: Nebraska
+GCF_056867595.1	Mycetohabitans rhizoxinica	fungus	host=rhizopus microsporus var. microsporus van. tieghem	Rhizopus microsporus var. microsporus van. Tieghem	Rice Seedlings		Japan
+GCF_056868365.1	Mycetohabitans rhizoxinica	fungus	host=rhizopus microsporus	Rhizopus microsporus	corn		USA
+GCF_056868375.1	Mycetohabitans rhizoxinica	fungus	host=rhizopus arrhizus	Rhizopus arrhizus	Hospital Mattress		USA: Ohio
+GCF_056880615.1	Mycetohabitans rhizoxinica	fungus	host=rhizopus microsporus var oligosporus	Rhizopus microsporus var oligosporus	tempeh		Indonesia
+GCF_057005415.2	Burkholderia sp. KL41	soil	isolation_source=soil; accession updated GCF_057005415.1 -> GCF_057005415.2 (same BioSample)		soil		South Korea: Changwon
+GCF_057369595.1	Burkholderia cepacia complex sp. TUM26381	human_clinical	host=homo sapiens	Homo sapiens	missing		Japan: Fukui
+GCF_057439935.1	Burkholderia cepacia complex sp. TUM26381	human_clinical	host=homo sapiens	Homo sapiens	blood		Japan
+GCF_057587595.1	Paraburkholderia sp. PAMB 6768	plant	host=nepenthes alata	Nepenthes alata			Korea
+GCF_057612605.2	Caballeronia sp. A2-2	plant	isolation_source=rice paddy soil	not applicable	rice paddy soil		South Korea: Gyeongsangnam-do
+GCF_057748135.1	Paraburkholderia sp. PAMB 6770	plant	host=nepenthes alata	Nepenthes alata			South Korea
+GCF_058448765.1	Burkholderia gladioli	plant	isolation_source=plant	Cyperus sp.	plant		Viet Nam: HoChiMinh City
+GCF_059089405.1	Burkholderia pyrrocinia	soil	isolation_source=korean agricultural soil		Korean agricultural soil		South Korea
+GCF_059622985.1	Paraburkholderia agricolaris	amoeba_protist	host=dictyostelium discoideum	Dictyostelium discoideum			USA: Virginia
+GCF_902141795.1	Burkholderia pseudomallei	unknown	no usable metadata				
+GCF_902141815.1	Burkholderia pseudomallei	unknown	no usable metadata				
+GCF_902141835.1	Burkholderia pseudomallei	unknown	no usable metadata				
+GCF_902459535.1	Paraburkholderia dioscoreae	plant	env_medium=leaf				Austria
+GCF_904865725.1	Burkholderia cepacia	human_clinical	host=homo sapiens	Homo sapiens	catheter tip		Australia
+GCF_905400185.1	Burkholderia sola	rhizosphere	isolation_source=maize rhizosphere		Maize rhizosphere		Italy
+GCF_939576165.1	Burkholderia mallei	unknown	no usable metadata				not collected
+GCF_964026365.1	Caballeronia sp. S22	unknown	no usable metadata				Australia
+GCF_964261745.1	Caballeronia sp. S22	unknown	no usable metadata				Australia
+GCF_964264985.1	Burkholderia mycopellens	human_clinical	isolation_source=cystic fibrosis patient		Cystic fibrosis patient		United Kingdom
+GCF_964264995.1	Burkholderia crassaminum	soil	isolation_source=soil		soil		USA
+GCF_964265005.1	Burkholderia crassaminum	water	isolation_source=river water		river water		USA
+GCF_964265015.1	Burkholderia crassaminum	soil	isolation_source=freshwater sediment		Freshwater sediment		USA
+GCF_964265025.1	Burkholderia mycopellens	environmental_other	isolation_source=environmental		environmental		USA
+GCF_965118185.1	Paraburkholderia kururiensis	rhizosphere	isolation_source=rhizosphere of oryza sativa		Rhizosphere of Oryza sativa		Senegal
+GCF_965199385.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Digestive abscess		New Caledonia
+GCF_965199395.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCF_965199405.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCF_965199425.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCF_965199435.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	urine		New Caledonia
+GCF_965199445.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCF_965199455.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	urine		New Caledonia
+GCF_965199515.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Medistinal lymph node		New Caledonia
+GCF_965199545.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Lung biopsy		New Caledonia
+GCF_965199625.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Abcess		New Caledonia
+GCF_965199835.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCF_965199925.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCF_965201125.1	Burkholderia pseudomallei	human_clinical	isolation_source=bronchoalveolar lavage	Cat	bronchoalveolar lavage		New Caledonia
+GCF_965202565.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCF_965211575.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCF_965211595.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	Blood culture		New Caledonia
+GCF_980295165.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Thailand
+GCF_980300355.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Thailand
+GCF_980300905.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Madagascar
+GCF_980300945.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Madagascar
+GCF_980300965.1	Burkholderia pseudomallei	human_clinical	host=homo sapiens	Homo sapiens	blood		Thailand
+GCF_984667665.1	Burkholderia arboris	soil	isolation_source=soil		soil		USA
+GCF_984667675.1	Burkholderia arboris	human_clinical	isolation_source=cystic fibrosis patient		Cystic fibrosis patient		Italy
+GCF_984667725.1	Burkholderia arboris	soil	isolation_source=soil		soil		United Kingdom
+GCF_984667835.1	Burkholderia arboris	human_clinical	isolation_source=cystic fibrosis patient		Cystic fibrosis patient		Belgium
+GCF_984667895.1	Burkholderia arboris	human_clinical	isolation_source=human		human		France
+GCF_984667945.1	Burkholderia arboris	rhizosphere	isolation_source=rhizosphere soil		rhizosphere soil		United Kingdom
+GCF_984667955.1	Burkholderia arboris	human_clinical	isolation_source=human		human		Israel
+GCF_984667975.1	Burkholderia sp. LMG 33096	human_clinical	isolation_source=cystic fibrosis patient		Cystic fibrosis patient		USA
+GCF_984668005.1	Burkholderia arboris	soil	isolation_source=soil		soil		USA
+GCF_984668195.1	Burkholderia sp. LMG 33096	human_clinical	isolation_source=cystic fibrosis patient		Cystic fibrosis patient		France
+GCF_984668265.1	Burkholderia arboris	human_clinical	isolation_source=cystic fibrosis patient		Cystic fibrosis patient		Portugal
+GCF_984668355.1	Burkholderia sp. LMG 33096	water	isolation_source=water		water		Belgium
+GCF_984668395.1	Burkholderia arboris	water	isolation_source=water		water		United Kingdom
+GCF_984668525.1	Burkholderia sp. LMG 34232	human_clinical	isolation_source=cystic fibrosis patient		Cystic fibrosis patient		Brazil
+GCF_984669265.1	Burkholderia sp. LMG 34232	rhizosphere	isolation_source=rhizosphere soil		rhizosphere soil		South Africa
+GCF_984669325.1	Burkholderia sp. LMG 33096	human_clinical	isolation_source=hospital environment		Hospital environment		France
+GCF_984669335.1	Burkholderia arboris	human_clinical	isolation_source=cystic fibrosis patient		Cystic fibrosis patient		USA
+GCF_984669415.1	Burkholderia arboris	human_clinical	isolation_source=human		human		France
+GCF_984669565.1	Burkholderia arboris	human_clinical	isolation_source=human		human		USA
+GCF_984669585.1	Burkholderia arboris	human_clinical	isolation_source=wound		wound		Sweden
+GCF_984669685.1	Burkholderia arboris	human_clinical	isolation_source=human		human		France
+GCF_984669705.1	Burkholderia sp. LMG 34232	soil	isolation_source=soil		soil		USA
+GCF_984671675.1	Burkholderia sp. LMG 33096	human_clinical	isolation_source=cystic fibrosis patient		Cystic fibrosis patient		United Kingdom
+GCF_984671695.1	Burkholderia arboris	industrial	isolation_source=industrial		Industrial		Belgium
+MF6	Burkholderia sola (MF6)	rhizosphere	manual curation: lab isolate, Omri Finkel / Dangl lab; not in NCBI BioSample		rhizosphere		
+MF7	Burkholderia sola (MF7)	rhizosphere	manual curation: same lab isolate as MF6 (ANI 100.00, clone cluster 22); inherits MF6 row		rhizosphere		

@@ -1,0 +1,6 @@
+gene_set	n_families	n_with_COG	pct_with_COG	n_with_KO	pct_with_KO	n_hypothetical	pct_hypothetical
+pC3_clade_core	833	234	28.1	153	18.4	24	2.9
+pC3_clade_accessory	550	47	8.5	60	10.9	84	15.3
+chr1_clade_core	2832	1888	66.7	827	29.2	20	0.7
+pC3_core_genus_derived	62	35	56.5	13	21.0	1	1.6
+pC3_core_clade_specific	771	199	25.8	140	18.2	23	3.0

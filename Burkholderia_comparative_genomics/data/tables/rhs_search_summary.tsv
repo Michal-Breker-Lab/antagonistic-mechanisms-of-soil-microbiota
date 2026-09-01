@@ -1,0 +1,4 @@
+query	n_genomes_any_hit	n_tier1	n_tier2_only	n_tier3_only	n_genomes_total
+CT354_CFFIHE_03684	9	9	0	0	773
+DEGQ_CFFIHE_02734	773	769	0	3	773
+FULL_CFFIHE_03684	256	9	0	0	773

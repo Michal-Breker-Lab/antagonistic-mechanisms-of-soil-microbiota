@@ -1,0 +1,11 @@
+locus	bakta_tag	replicon	length_aa	pgap_product	eggnog	search	n_carriers_773	n_carrier_pC3pos	n_carrier_pC3neg	n_noncarrier_pC3pos	n_noncarrier_pC3neg	odds_ratio	p_raw	p_bh	significant_bh_0.05	median_hits_in_hit_genomes	max_hits_in_a_genome	frac_hit_genomes_multi	low_information	tier1_hits_in_first40aa_only
+MF6_001079	CFFIHE_01081	chr1	229	hypothetical protein	(no eggNOG annotation)	blastp	5	5	0	248	520	inf	0.00366	0.00457	True	1	1	0.00	False	0
+MF6_002734	CFFIHE_02739	chr1	379	SGNH/GDSL hydrolase family protein	GDSL-like Lipase/Acylhydrolase (Lipase_GDSL)	blastp	649	253	396	0	124	inf	2.01e-24	2.01e-23	True	1	4	0.10	False	0
+MF6_003184	CFFIHE_03187	chr1	854	T6SS effector BTH_I2691 family protein	Band 7 protein	blastp	63	21	42	232	478	1.03	0.89	0.89	False	1	7	0.16	False	0
+MF6_003684	CFFIHE_03684	pC3	2867	RHS repeat domain-containing protein	self proteolysis	blastp	9	9	0	244	520	inf	3.91e-05	7.82e-05	True	1	3	0.28	False	0
+MF6_003686	(not in Bakta)	pC3	120	hypothetical protein	(no eggNOG annotation)	tblastn	9	9	0	244	520	inf	3.91e-05	7.82e-05	True	1	2	0.16	False	0
+MF6_003843	CFFIHE_03842	pC3	565	M4 family metallopeptidase	Thermolysin metallopeptidase (Peptidase_M4), ko:K20273	blastp	447	166	281	87	239	1.62	0.00245	0.00409	True	1	3	0.02	False	0
+MF6_004284	CFFIHE_04281	pC3	1538	RHS repeat-associated core domain protein	COG3209 Rhs family protein (RHS_repeat)	blastp	9	9	0	244	520	inf	3.91e-05	7.82e-05	True	9	35	0.98	False	0
+MF6_004285	CFFIHE_04283	pC3	326	hypothetical protein	(no eggNOG annotation)	blastp	5	5	0	248	520	inf	0.00366	0.00457	True	1	2	0.12	False	0
+MF6_004947	CFFIHE_04987	chr2	570	M36 family metallopeptidase	Fungalysin metallopeptidase M36, ko:K20274	blastp	487	176	311	77	209	1.54	0.00882	0.0098	True	1	3	0.00	False	0
+MF6_006318	CFFIHE_06334	chr2	364	triacylglycerol lipase	Triacylglycerol lipase (Abhydrolase_1), ko:K01046	blastp	665	250	415	3	105	21.1	3.68e-16	1.84e-15	True	2	5	0.55	True	0

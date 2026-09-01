@@ -1,0 +1,30 @@
+contig	length	replicon	best_target	aligned_bp	aligned_frac	margin	call
+BMF7_NODE_1_len_2762977_cov_36_2218_ID_5625874.37	2762977	chr2	cluster_002_consensus	2762904	1.0000	inf	assigned
+BMF7_NODE_2_len_976237_cov_36_3824_ID_6095666.46	976231	chr1	cluster_001_consensus	976231	1.0000	inf	assigned
+BMF7_NODE_3_len_857810_cov_35_9645_ID_6095484.64	857810	pC3	cluster_003_consensus	857611	0.9998	inf	assigned
+BMF7_NODE_4_len_774369_cov_34_0982_ID_6095556.31	774369	chr1	cluster_001_consensus	774369	1.0000	inf	assigned
+BMF7_NODE_5_len_513992_cov_36_785_ID_6095322.47	513992	chr1	cluster_001_consensus	513962	0.9999	inf	assigned
+BMF7_NODE_6_len_477527_cov_38_0064_ID_6093972.51	477523	chr2	cluster_002_consensus	477342	0.9996	inf	assigned
+BMF7_NODE_7_len_344507_cov_35_7877_ID_6095496.52	344507	chr1	cluster_001_consensus	343900	0.9982	inf	assigned
+BMF7_NODE_8_len_318422_cov_40_1587_ID_6095374.3	318422	pC3	cluster_003_consensus	318422	1.0000	inf	assigned
+BMF7_NODE_9_len_277037_cov_39_4247_ID_6095488.35	277037	chr1	cluster_001_consensus	277037	1.0000	inf	assigned
+BMF7_NODE_10_len_263972_cov_38_3003_ID_6095452.18	263971	chr1	cluster_001_consensus	263971	1.0000	inf	assigned
+BMF7_NODE_11_len_222092_cov_40_8434_ID_6095494.50	222092	chr2	cluster_002_consensus	221908	0.9992	inf	assigned
+BMF7_NODE_12_len_216500_cov_44_8759_ID_6095176.13	216555	chr1	cluster_001_consensus	216371	0.9992	inf	assigned
+BMF7_NODE_13_len_207122_cov_36_1576_ID_6094808.57	207126	chr1	cluster_001_consensus	207126	1.0000	inf	assigned
+BMF7_NODE_14_len_205724_cov_34_399_ID_6095508.40	205724	chr2	cluster_002_consensus	205538	0.9991	inf	assigned
+BMF7_NODE_15_len_155622_cov_37_8098_ID_6095468.9	155622	chr2	cluster_002_consensus	155622	1.0000	inf	assigned
+BMF7_NODE_16_len_91333_cov_34_7247_ID_6094694.32	91333	chr2	cluster_002_consensus	91333	1.0000	inf	assigned
+BMF7_NODE_17_len_3925_cov_146_449_ID_6075144.22	3926	chr2	cluster_002_consensus	3402	0.8665	inf	assigned
+BMF7_NODE_18_len_3138_cov_461_719_ID_6094354.21	3138		cluster_001_consensus	3138	1.0000	1.00	ambiguous
+BMF7_NODE_20_len_2158_cov_414_638_ID_6075048.41	2158		cluster_001_consensus	2158	1.0000	1.00	ambiguous
+BMF7_NODE_22_len_1878_cov_442_836_ID_6093106.12	1878		cluster_002_consensus	1878	1.0000	1.00	ambiguous
+BMF7_NODE_23_len_1605_cov_64_9052_ID_6088606.27	1605		cluster_003_consensus	1605	1.0000	1.00	ambiguous
+BMF7_NODE_27_len_736_cov_62_1997_ID_6093264.26	736		cluster_002_consensus	736	1.0000	inf	too_short
+BMF7_NODE_31_len_429_cov_259_153_ID_6094670.63	429		cluster_002_consensus	402	0.9371	inf	too_short
+BMF7_NODE_33_len_383_cov_137_12_ID_6095132.7	383		cluster_003_consensus	380	0.9922	inf	too_short
+BMF7_NODE_34_len_348_cov_29_7509_ID_6092054.44	348		cluster_002_consensus	348	1.0000	inf	too_short
+BMF7_NODE_35_len_344_cov_205_528_ID_6094622.10	344		cluster_001_consensus	344	1.0000	1.17	too_short
+BMF7_NODE_36_len_302_cov_273_172_ID_6085636.19	303		cluster_003_consensus	303	1.0000	1.00	too_short
+BMF7_NODE_37_len_271_cov_32_2296_ID_5903528.55	271		cluster_003_consensus	271	1.0000	inf	too_short
+BMF7_NODE_39_len_218_cov_31_9371_ID_6094370.36	218		cluster_002_consensus	217	0.9954	inf	too_short

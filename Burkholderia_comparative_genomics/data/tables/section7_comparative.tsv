@@ -1,0 +1,14 @@
+analysis	term	value	note
+simmap	model_chosen	ARD	AIC ER 329.9 vs ARD 277.3
+simmap	losses_present_to_absent	29.1	mean over 100 maps, sd 3.6
+simmap	gains_absent_to_present	0.0	mean over 100 maps, sd 0.0
+fritz_purvis	D	-0.098	P(random)=0.000 P(Brownian)=0.895
+host	n_tips_modelled	544	categories with n>=20, unknown excluded
+glm_uncorrected	(Intercept)	-0.601	p=0.000263
+glm_uncorrected	hostenvironmental_other	0.116	p=0.809
+glm_uncorrected	hosthuman_clinical	0.265	p=0.197
+glm_uncorrected	hostplant	-0.728	p=0.0197
+phyloglm	(Intercept)	-1.150	p=0.198
+phyloglm	hostenvironmental_other	0.031	p=0.783
+phyloglm	hosthuman_clinical	-0.017	p=0.835
+phyloglm	hostplant	0.230	p=0.29

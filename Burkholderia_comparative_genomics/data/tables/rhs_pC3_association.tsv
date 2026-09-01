@@ -1,0 +1,3 @@
+feature	n_pC3pos_with	n_pC3neg_with	n_pC3pos_total	n_pC3neg_total	odds_ratio	fisher_p
+CT354 warhead	9	0	253	520	inf	3.91e-05
+FULL RHS protein	92	164	253	520	1.24	0.193

@@ -1,0 +1,7 @@
+metric	value	note
+carriers_total	8	7 NCBI genomes + MF6
+carriers_on_chr1_tree	8	2 removed by dereplication; both their representatives are carriers
+exact_clan	False	rooting-independent test: no single edge separates carriers from all others
+smallest_clade_size	9	UFBoot 100; contains all 8 carriers
+non_carriers_in_clade	1	GCF_003966315.1 B. cenocepacia YG-3; pC3-positive, 95.32% ANI to MF6, zero hits to the full-length RHS protein (whole-gene loss, not a warhead swap)
+mean_patristic_observed	0.0313	

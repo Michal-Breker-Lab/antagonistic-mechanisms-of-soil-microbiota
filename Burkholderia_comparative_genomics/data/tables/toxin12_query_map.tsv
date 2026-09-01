@@ -1,0 +1,13 @@
+query_id	query_len_aa	pgap_locus_tag	match_to_pgap	span_within_pgap_protein	bakta_locus_tag	contig	replicon	start	end	strand	pgap_product	eggnog_description	eggnog_COG	eggnog_PFAM	eggnog_KEGG_ko
+MF6_001079	229	MF6_001079	exact		CFFIHE_01081	contig_1	chr1	1141313	1142002	-	hypothetical protein MF6_001079	(none)			
+MF6_002734	379	MF6_002734	exact		CFFIHE_02739	contig_1	chr1	2930138	2931277	+	SGNH/GDSL hydrolase family protein	GDSL-like Lipase/Acylhydrolase	I	Lipase_GDSL	
+MF6_003184	854	MF6_003184	exact		CFFIHE_03187	contig_1	chr1	3413125	3415689	-	T6SS effector BTH_I2691 family protein	Band 7 protein	S		
+MF6_003684_2514_2867	354	MF6_003684	substring	2514-2867 of 2867	CFFIHE_03684	contig_2	pC3	358906	367509	-	RHS repeat domain-containing protein	self proteolysis	M		
+MF6_003684_full	2867	MF6_003684	exact		CFFIHE_03684	contig_2	pC3	358906	367509	-	RHS repeat domain-containing protein	self proteolysis	M		
+MF6_003686	120	MF6_003686	exact		(not called by Bakta)	contig_2	pC3	368077	368439	-	hypothetical protein MF6_003686	(none)			
+MF6_003843	565	MF6_003843	exact		CFFIHE_03842	contig_2	pC3	545623	547320	+	M4 family metallopeptidase	Thermolysin metallopeptidase, alpha-helical domain	E	FTP,Peptidase_M4,Peptidase_M4_C	ko:K20273
+MF6_004284_1434_1538	104	MF6_004284	substring	1435-1538 of 1538	CFFIHE_04281	contig_2	pC3	1047087	1051703	-	RHS repeat-associated core domain-containing protein	COG3209 Rhs family protein	M	RHS_repeat	
+MF6_004284_full	1538	MF6_004284	exact		CFFIHE_04281	contig_2	pC3	1047087	1051703	-	RHS repeat-associated core domain-containing protein	COG3209 Rhs family protein	M	RHS_repeat	
+MF6_004285	326	MF6_004285	exact		CFFIHE_04283	contig_2	pC3	1052161	1053141	-	hypothetical protein MF6_004285	(none)			
+MF6_004947	570	MF6_004947	exact		CFFIHE_04987	contig_4	chr2	649084	650796	-	M36 family metallopeptidase	Fungalysin metallopeptidase (M36)	E	FTP,Peptidase_M36	ko:K20274
+MF6_006318	364	MF6_006318	exact		CFFIHE_06334	contig_4	chr2	2201153	2202247	-	triacylglycerol lipase	Triacylglycerol lipase	S	Abhydrolase_1	ko:K01046

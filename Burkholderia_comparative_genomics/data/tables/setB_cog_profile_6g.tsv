@@ -1,0 +1,65 @@
+gene_set	cog_category	cog_name	n_families	total	pct
+pC3_clade_core	-	no COG assigned	599	833	71.909
+pC3_clade_core	B	Chromatin structure and dynamics	2	833	0.24
+pC3_clade_core	C	Energy production and conversion	14	833	1.681
+pC3_clade_core	D	Cell cycle control and mitosis	2	833	0.24
+pC3_clade_core	E	Amino acid metabolism and transport	35	833	4.202
+pC3_clade_core	F	Nucleotide metabolism and transport	6	833	0.72
+pC3_clade_core	G	Carbohydrate metabolism and transport	31	833	3.721
+pC3_clade_core	H	Coenzyme metabolism	19	833	2.281
+pC3_clade_core	I	Lipid metabolism	16	833	1.921
+pC3_clade_core	J	Translation, ribosomal structure and biogenesis	4	833	0.48
+pC3_clade_core	K	Transcription	35	833	4.202
+pC3_clade_core	L	Replication, recombination and repair	2	833	0.24
+pC3_clade_core	M	Cell wall/membrane/envelope biogenesis	12	833	1.441
+pC3_clade_core	N	Cell motility	1	833	0.12
+pC3_clade_core	O	Post-translational modification, protein turnover, chaperones	5	833	0.6
+pC3_clade_core	P	Inorganic ion transport and metabolism	12	833	1.441
+pC3_clade_core	Q	Secondary metabolites biosynthesis, transport and catabolism	7	833	0.84
+pC3_clade_core	R	General function prediction only	24	833	2.881
+pC3_clade_core	S	Function unknown	7	833	0.84
+pC3_clade_core	T	Signal transduction mechanisms	14	833	1.681
+pC3_clade_core	U	Intracellular trafficking and secretion	1	833	0.12
+pC3_clade_core	V	Defence mechanisms	12	833	1.441
+pC3_clade_core	W	Extracellular structures	5	833	0.6
+pC3_clade_core	X	Mobilome: prophages, transposons	1	833	0.12
+pC3_clade_accessory	-	no COG assigned	503	550	91.455
+pC3_clade_accessory	C	Energy production and conversion	7	550	1.273
+pC3_clade_accessory	E	Amino acid metabolism and transport	11	550	2.0
+pC3_clade_accessory	F	Nucleotide metabolism and transport	1	550	0.182
+pC3_clade_accessory	G	Carbohydrate metabolism and transport	2	550	0.364
+pC3_clade_accessory	H	Coenzyme metabolism	7	550	1.273
+pC3_clade_accessory	I	Lipid metabolism	4	550	0.727
+pC3_clade_accessory	K	Transcription	10	550	1.818
+pC3_clade_accessory	M	Cell wall/membrane/envelope biogenesis	3	550	0.545
+pC3_clade_accessory	O	Post-translational modification, protein turnover, chaperones	1	550	0.182
+pC3_clade_accessory	P	Inorganic ion transport and metabolism	3	550	0.545
+pC3_clade_accessory	R	General function prediction only	7	550	1.273
+pC3_clade_accessory	V	Defence mechanisms	3	550	0.545
+pC3_clade_accessory	X	Mobilome: prophages, transposons	2	550	0.364
+chr1_clade_core	-	no COG assigned	944	2832	33.333
+chr1_clade_core	A	RNA processing and modification	1	2832	0.035
+chr1_clade_core	B	Chromatin structure and dynamics	5	2832	0.177
+chr1_clade_core	C	Energy production and conversion	129	2832	4.555
+chr1_clade_core	D	Cell cycle control and mitosis	33	2832	1.165
+chr1_clade_core	E	Amino acid metabolism and transport	226	2832	7.98
+chr1_clade_core	F	Nucleotide metabolism and transport	72	2832	2.542
+chr1_clade_core	G	Carbohydrate metabolism and transport	149	2832	5.261
+chr1_clade_core	H	Coenzyme metabolism	129	2832	4.555
+chr1_clade_core	I	Lipid metabolism	120	2832	4.237
+chr1_clade_core	J	Translation, ribosomal structure and biogenesis	179	2832	6.321
+chr1_clade_core	K	Transcription	179	2832	6.321
+chr1_clade_core	L	Replication, recombination and repair	64	2832	2.26
+chr1_clade_core	M	Cell wall/membrane/envelope biogenesis	153	2832	5.403
+chr1_clade_core	N	Cell motility	44	2832	1.554
+chr1_clade_core	O	Post-translational modification, protein turnover, chaperones	102	2832	3.602
+chr1_clade_core	P	Inorganic ion transport and metabolism	99	2832	3.496
+chr1_clade_core	Q	Secondary metabolites biosynthesis, transport and catabolism	41	2832	1.448
+chr1_clade_core	R	General function prediction only	136	2832	4.802
+chr1_clade_core	S	Function unknown	44	2832	1.554
+chr1_clade_core	T	Signal transduction mechanisms	93	2832	3.284
+chr1_clade_core	U	Intracellular trafficking and secretion	54	2832	1.907
+chr1_clade_core	V	Defence mechanisms	45	2832	1.589
+chr1_clade_core	W	Extracellular structures	3	2832	0.106
+chr1_clade_core	X	Mobilome: prophages, transposons	2	2832	0.071
+chr1_clade_core	Z	Cytoskeleton	1	2832	0.035

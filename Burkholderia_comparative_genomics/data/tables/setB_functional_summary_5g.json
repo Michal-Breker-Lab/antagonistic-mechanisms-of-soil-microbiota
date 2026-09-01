@@ -1,0 +1,67 @@
+{
+  "setB_genomes": [
+    "GCF_016899425.1",
+    "GCF_053038975.1",
+    "GCF_053209605.1",
+    "GCF_905400185.1",
+    "MF6"
+  ],
+  "pC3_clade_core": 833,
+  "pC3_clade_accessory": 549,
+  "chr1_clade_core": 2833,
+  "pC3_core_genus_derived": 62,
+  "pC3_core_clade_specific": 771,
+  "genus_softcore_mf6_tags": 63,
+  "coverage": [
+    {
+      "gene_set": "pC3_clade_core",
+      "n_families": 833,
+      "n_with_COG": 236,
+      "pct_with_COG": 28.3,
+      "n_with_KO": 153,
+      "pct_with_KO": 18.4,
+      "n_hypothetical": 24,
+      "pct_hypothetical": 2.9
+    },
+    {
+      "gene_set": "pC3_clade_accessory",
+      "n_families": 549,
+      "n_with_COG": 46,
+      "pct_with_COG": 8.4,
+      "n_with_KO": 60,
+      "pct_with_KO": 10.9,
+      "n_hypothetical": 83,
+      "pct_hypothetical": 15.1
+    },
+    {
+      "gene_set": "chr1_clade_core",
+      "n_families": 2833,
+      "n_with_COG": 1896,
+      "pct_with_COG": 66.9,
+      "n_with_KO": 830,
+      "pct_with_KO": 29.3,
+      "n_hypothetical": 21,
+      "pct_hypothetical": 0.7
+    },
+    {
+      "gene_set": "pC3_core_genus_derived",
+      "n_families": 62,
+      "n_with_COG": 36,
+      "pct_with_COG": 58.1,
+      "n_with_KO": 13,
+      "pct_with_KO": 21.0,
+      "n_hypothetical": 1,
+      "pct_hypothetical": 1.6
+    },
+    {
+      "gene_set": "pC3_core_clade_specific",
+      "n_families": 771,
+      "n_with_COG": 200,
+      "pct_with_COG": 25.9,
+      "n_with_KO": 140,
+      "pct_with_KO": 18.2,
+      "n_hypothetical": 23,
+      "pct_hypothetical": 3.0
+    }
+  ]
+}
