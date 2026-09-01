@@ -1,0 +1,5 @@
+gene_set	cog_status	n_families	n_interpro_entry
+accessory	COG	47	47
+accessory	noCOG	503	387
+core	COG	234	234
+core	noCOG	599	505

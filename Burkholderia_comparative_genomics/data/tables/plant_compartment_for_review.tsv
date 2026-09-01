@@ -1,0 +1,109 @@
+accession	organism_name	clade	host_category	compartment	matched_evidence	raw_isolation_source	raw_host	c3_present
+GCA_048918525.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified			rice	False
+GCA_051027405.1	Burkholderia stagnalis	Bcc	plant	root_rhizosphere	raw_isolation_source=root	root	Chinese fir	False
+GCA_965217235.1	Burkholderia multivorans	Bcc	plant	root_rhizosphere	raw_isolation_source=root of oryza sativa cv zonghua	Root of Oryza sativa cv Zonghua		False
+GCA_965217245.1	Burkholderia multivorans	Bcc	plant	root_rhizosphere	raw_isolation_source=root of oryza sativa cv zonghua	Root of Oryza sativa cv Zonghua		False
+GCF_000262695.1	Burkholderia sp. KJ006	other Burkholderia	plant	root_rhizosphere	raw_isolation_source=rice root	rice root		True
+GCF_000300095.1	Paraburkholderia phenoliruptrix BR3459a	other genus	plant	plant_unspecified			Mimosa flocculosa	False
+GCF_000959445.1	Burkholderia vietnamiensis LMG 10929	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=oryza sativa, rhizosphere soil	Oryza sativa, rhizosphere soil		True
+GCF_000959545.1	Burkholderia ambifaria AMMD	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=pea rhizosphere	Pea rhizosphere		True
+GCF_000959725.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified		Plant		False
+GCF_000960995.1	Burkholderia glumae LMG 2196 = ATCC 33617	other Burkholderia	plant	grain_fruit	raw_isolation_source=oryza sativa, grain	Oryza sativa, grain		False
+GCF_001411495.1	Burkholderia cepacia ATCC 25416	Bcc	plant	plant_unspecified			Allium cepa (onion)	True
+GCF_001718815.1	Burkholderia vietnamiensis	Bcc	plant	root_rhizosphere	raw_isolation_source=oryza sativa root	Oryza sativa root	unknown	True
+GCF_001718915.1	Burkholderia vietnamiensis	Bcc	plant	root_rhizosphere	raw_isolation_source=plant roots	plant roots	unknown	True
+GCF_001865575.2	Paraburkholderia sprentiae WSM5005	other genus	rhizosphere	nodule	raw_isolation_source=root nodule	root nodule	Lebeckia ambigua	False
+GCF_001922345.1	Paraburkholderia sp. SOS3	other genus	plant	root_rhizosphere	raw_host=tomato rhizosphere		tomato rhizosphere	False
+GCF_002007585.1	Burkholderia cenocepacia	Bcc	plant	root_rhizosphere	raw_isolation_source=corn root	Corn Root	Corn	True
+GCF_002208175.1	Burkholderia gladioli pv. gladioli	other Burkholderia	plant	plant_unspecified		gladiolus		False
+GCF_002393425.1	Burkholderia gladioli pv. gladioli	other Burkholderia	plant	plant_unspecified		onion	Onion	False
+GCF_002407525.2	Burkholderia cepacia	Bcc	plant	plant_unspecified		onion	Onion	True
+GCF_003233675.1	Burkholderia sp. JP2-270	other Burkholderia	rhizosphere	root_rhizosphere	raw_isolation_source=rice rhizosphere	rice rhizosphere		True
+GCF_003546465.1	Burkholderia cepacia ATCC 25416	Bcc	plant	grain_fruit	raw_isolation_source=plant derived food stuff	Plant derived food stuff		True
+GCF_003568605.1	Burkholderia thailandensis E264	other Burkholderia	plant	plant_unspecified		Rice field soil		False
+GCF_003713105.1	Burkholderia gladioli	other Burkholderia	plant	grain_fruit	raw_isolation_source=fermented corn meal	Fermented corn meal		False
+GCF_003966315.1	Burkholderia cenocepacia	Bcc	plant	plant_unspecified			populus	True
+GCF_009578005.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified			rice	False
+GCF_009755625.1	Burkholderia contaminans	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=cucumber rhizosphere	cucumber rhizosphere		True
+GCF_009857095.1	Burkholderia glumae AU6208	other Burkholderia	plant	plant_unspecified			rice	False
+GCF_009931375.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified			Oryza sativa	False
+GCF_012974245.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified			rice	False
+GCF_013122645.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified			rice	False
+GCF_013307145.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified		USA rice field	Oryza sativa	False
+GCF_013307165.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified			Oryza sativa	False
+GCF_013378095.1	Paraburkholderia caribensis	other genus	plant	plant_unspecified			Mimosa	False
+GCF_014171495.1	Paraburkholderia tropica	other genus	rhizosphere	root_rhizosphere	raw_isolation_source=sorghum rhizosphere	Sorghum rhizosphere	not applicable	False
+GCF_014263355.1	Burkholderia gladioli	other Burkholderia	plant	leaf	raw_isolation_source=leaf	leaf	sugarcane	False
+GCF_016698705.1	Burkholderia gladioli	other Burkholderia	plant	stem_shoot	raw_isolation_source=rice shoot	rice shoot		False
+GCF_016899425.1	Burkholderia sp. MS389	other Burkholderia	plant	plant_unspecified		soybean		True
+GCF_016899445.1	Burkholderia sp. MS455	other Burkholderia	plant	plant_unspecified		soybean		True
+GCF_017858835.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified			Oryza sativa	False
+GCF_020544345.1	Paraburkholderia caribensis	other genus	plant	plant_unspecified			Sugarcane	False
+GCF_022809715.1	Burkholderia pyrrocinia	Bcc	plant	plant_unspecified		China:Nanjing	poplar	True
+GCF_023053515.1	Burkholderia cepacia	Bcc	plant	root_rhizosphere	raw_isolation_source=root	root	rice	True
+GCF_024022955.1	Burkholderia glumae	other Burkholderia	plant	grain_fruit	raw_isolation_source=rice panicle	rice panicle	Oryza sativa	False
+GCF_024072595.1	Paraburkholderia fungorum	other genus	plant	leaf	raw_isolation_source=leaf	leaf	Arabidopsis thaliana	False
+GCF_024072715.1	Paraburkholderia fungorum	other genus	plant	plant_unspecified			Arabidopsis thaliana	False
+GCF_024123895.1	Paraburkholderia fungorum	other genus	plant	leaf	raw_isolation_source=leaf	leaf	Arabidopsis thaliana	False
+GCF_024760585.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified		diseased rice		False
+GCF_024760605.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified		diseased rice		False
+GCF_024760625.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified		diseased rice		False
+GCF_024760645.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified		diseased rice		False
+GCF_025244785.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified		Dendrobium officinale Kimura et Migo		False
+GCF_026651975.1	Burkholderia glumae	other Burkholderia	plant	grain_fruit	raw_isolation_source=broken rice	broken rice		False
+GCF_026651995.1	Burkholderia glumae	other Burkholderia	plant	grain_fruit	raw_isolation_source=broken rice	broken rice		False
+GCF_026652015.1	Burkholderia glumae	other Burkholderia	plant	grain_fruit	raw_isolation_source=broken rice	broken rice		False
+GCF_026958255.1	Burkholderia ambifaria	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=peanut rhizospheric soil	peanut rhizospheric soil		True
+GCF_029536165.1	Paraburkholderia sp. SUR17	other genus	plant	plant_unspecified			sugarcane	False
+GCF_029910215.1	Paraburkholderia sp. D15	other genus	plant	plant_unspecified			lichen	False
+GCF_030374675.1	Burkholderia anthina	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=rhizosphere and root exudates	rhizosphere and root exudates	Sorghum bicolor	True
+GCF_030412785.1	Paraburkholderia sabiae	other genus	plant	nodule	raw_isolation_source=root nodule	root nodule	Mimosa caesalpiniifolia	False
+GCF_030505635.1	Burkholderia glumae	other Burkholderia	plant	plant_unspecified			Oryza sativa	False
+GCF_030644525.1	Burkholderia plantarii	other Burkholderia	plant	plant_unspecified			Oryza sativa	False
+GCF_031585635.1	Paraburkholderia sp. FT54	other genus	rhizosphere	root_rhizosphere	raw_isolation_source=rhizosphere soil of tomato	Rhizosphere soil of Tomato		False
+GCF_034047095.1	Robbsia andropogonis	other genus	plant	plant_unspecified			Areca catechu	False
+GCF_034424545.1	Trinickia caryophylli	other genus	plant	no_metadata				False
+GCF_036837415.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified			Oryza sativa	False
+GCF_036839165.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified			Oryza sativa	False
+GCF_039852015.1	Robbsia sp. KACC 23696	other genus	plant	flower	raw_isolation_source=flower	flower	Coreopsis lanceolata L.	False
+GCF_040215475.1	Burkholderia contaminans	Bcc	plant	plant_unspecified			Pelargonium graveolens	True
+GCF_040314805.1	Trinickia caryophylli	other genus	plant	plant_unspecified			Carnation	False
+GCF_040761425.1	Burkholderia sp. Ed8	other Burkholderia	plant	leaf	raw_isolation_source=leaves	leaves	Rice	True
+GCF_044057485.1	Burkholderia contaminans	Bcc	plant	grain_fruit	raw_isolation_source=pericarpium citri reticulatae 'chachiensis'	Pericarpium Citri Reticulatae 'Chachiensis'		True
+GCF_045862465.1	Burkholderia gladioli pv. gladioli	other Burkholderia	plant	plant_unspecified			Gladiolus	False
+GCF_045925845.1	Burkholderia pyrrocinia	Bcc	plant	plant_unspecified			Cinnamomum camphora	True
+GCF_046773525.1	Burkholderia cepacia	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=the rhizosphere soil of moso	The rhizosphere soil of Moso		True
+GCF_047325075.1	Paraburkholderia phenoliruptrix	other genus	plant	root_rhizosphere	raw_isolation_source=roots	roots	Triticum aestivum cv. Catawba	False
+GCF_047497155.1	Burkholderia sp. 22PA0106	other Burkholderia	plant	plant_unspecified		Agricultural field	Allium cepa	False
+GCF_047497165.1	Burkholderia sp. 22PA0099	other Burkholderia	plant	plant_unspecified		Agricultural field	Allium cepa	False
+GCF_048565175.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified		Plant		False
+GCF_048917655.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified			rice	False
+GCF_048917665.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified			rice	False
+GCF_048917685.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified			rice	False
+GCF_049913365.1	Burkholderia ambifaria	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=maize rhizosphere	maize rhizosphere		True
+GCF_049942845.1	Burkholderia sp. R-40	other Burkholderia	rhizosphere	root_rhizosphere	raw_isolation_source=maize rhizosphere	maize rhizosphere		True
+GCF_050613135.1	Burkholderia cepacia	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=casuarina rhizosphere soil samples	Casuarina rhizosphere soil samples		True
+GCF_050627075.1	Paraburkholderia fungorum	other genus	plant	plant_unspecified			Pisum sativum L.	False
+GCF_050627395.1	Paraburkholderia fungorum	other genus	plant	plant_unspecified			Pisum sativum L.	False
+GCF_050920555.1	Burkholderia gladioli pv. alliicola	other Burkholderia	plant	seed	raw_isolation_source=onion seeds	onion seeds		False
+GCF_051027425.1	Paraburkholderia caffeinilytica	other genus	plant	root_rhizosphere	raw_isolation_source=root	root	Chinese fir	False
+GCF_053348855.1	Burkholderia metallica	Bcc	plant	plant_unspecified			Glycine max	True
+GCF_053470105.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified		rice		False
+GCF_053470145.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified		rice		False
+GCF_054187845.1	Burkholderia gladioli	other Burkholderia	plant	seed	raw_isolation_source=rice seedling	Rice seedling		False
+GCF_054955335.1	Burkholderia contaminans	Bcc	plant	seed	raw_isolation_source=seed of traditional rice cultivar malshira	Seed of traditional rice cultivar Malshira	Oryza sativa	False
+GCF_055386035.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified			Oryza sativa	False
+GCF_055397955.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified			Freesia	False
+GCF_056270685.1	Paraburkholderia sp. PAMB 6768	other genus	plant	plant_unspecified			Nepenthes alata	False
+GCF_056783395.1	Burkholderia pyrrocinia	Bcc	plant	root_rhizosphere	raw_isolation_source=rhizosphere soil	rhizosphere soil	Fern	True
+GCF_057587595.1	Paraburkholderia sp. PAMB 6768	other genus	plant	plant_unspecified			Nepenthes alata	False
+GCF_057612605.2	Caballeronia sp. A2-2	other genus	plant	plant_unspecified		rice paddy soil	not applicable	False
+GCF_057748135.1	Paraburkholderia sp. PAMB 6770	other genus	plant	plant_unspecified			Nepenthes alata	False
+GCF_058448765.1	Burkholderia gladioli	other Burkholderia	plant	plant_unspecified		plant	Cyperus sp.	False
+GCF_902459535.1	Paraburkholderia dioscoreae	other genus	plant	no_metadata				False
+GCF_905400185.1	Burkholderia sola	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=maize rhizosphere	Maize rhizosphere		True
+GCF_965118185.1	Paraburkholderia kururiensis	other genus	rhizosphere	root_rhizosphere	raw_isolation_source=rhizosphere of oryza sativa	Rhizosphere of Oryza sativa		False
+GCF_984667945.1	Burkholderia arboris	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=rhizosphere soil	rhizosphere soil		True
+GCF_984669265.1	Burkholderia sp. LMG 34232	other Burkholderia	rhizosphere	root_rhizosphere	raw_isolation_source=rhizosphere soil	rhizosphere soil		True
+MF6	Burkholderia sola (MF6)	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=rhizosphere	rhizosphere		True
+MF7	Burkholderia sola (MF7)	Bcc	rhizosphere	root_rhizosphere	raw_isolation_source=rhizosphere	rhizosphere		True

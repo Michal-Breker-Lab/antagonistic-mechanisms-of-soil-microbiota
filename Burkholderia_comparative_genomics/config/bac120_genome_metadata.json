@@ -1,0 +1,5532 @@
+{
+ "GCA_017356705.2": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCA_017356725.2": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCA_020887275.1": {
+  "env_medium": "Chinese cabbage field soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. SFA1"
+ },
+ "GCA_024298805.1": {
+  "env_medium": "",
+  "host": "not collected",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. FXe9"
+ },
+ "GCA_036870995.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCA_038448705.1": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "environmental soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCA_040954445.1": {
+  "env_medium": "ENVO_01000814",
+  "host": "",
+  "isolation_source": "Accessory glands from 6 females",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp."
+ },
+ "GCA_048918525.1": {
+  "env_medium": "plant",
+  "host": "rice",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCA_050916205.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "pus",
+  "level": "Chromosome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCA_051027405.1": {
+  "env_medium": "",
+  "host": "Chinese fir",
+  "isolation_source": "root",
+  "level": "Complete Genome",
+  "organism": "Burkholderia stagnalis"
+ },
+ "GCA_055387565.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "missing",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCA_056494915.1": {
+  "env_medium": "ENVO_01001405",
+  "host": "Fadogia homblei",
+  "isolation_source": "Laboratory culture",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia caledonica"
+ },
+ "GCA_059696275.1": {
+  "env_medium": "",
+  "host": "Pardieuches dissimilis",
+  "isolation_source": "gut",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. SJ1"
+ },
+ "GCA_903231545.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Cystic fibrosis patient",
+  "level": "Chromosome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCA_964417475.2": {
+  "env_medium": "",
+  "host": "Not applicable",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCA_965199415.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCA_965199775.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCA_965217235.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Root of Oryza sativa cv Zonghua",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCA_965217245.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Root of Oryza sativa cv Zonghua",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCA_980298765.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_000182585.2": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "sputum of a melioidosis patient admitted to Royal Darwin Hospital, Northern Territory, Australia",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei MSHR346"
+ },
+ "GCF_000193475.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "pus aspirated from liver abscess",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei 1106b"
+ },
+ "GCF_000260515.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood of patient with septicemic melioidosis",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei 1026b"
+ },
+ "GCF_000262695.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "rice root",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. KJ006"
+ },
+ "GCF_000292915.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia GG4"
+ },
+ "GCF_000294635.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood from patient with type I diabetes and multiple abcesses",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei BPC006"
+ },
+ "GCF_000300095.1": {
+  "env_medium": "",
+  "host": "Mimosa flocculosa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia phenoliruptrix BR3459a"
+ },
+ "GCF_000385525.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis MSMB121"
+ },
+ "GCF_000439695.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "autopsy brain sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei MSHR305"
+ },
+ "GCF_000494855.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "skin ulcer",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei NCTC 13179"
+ },
+ "GCF_000497165.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "airway from a patient with cystic fibrosis",
+  "level": "Chromosome",
+  "organism": "Burkholderia dolosa PC543"
+ },
+ "GCF_000511895.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "post mortem brain",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei NCTC 13178"
+ },
+ "GCF_000511915.1": {
+  "env_medium": "",
+  "host": "missing",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei NAU20B-16"
+ },
+ "GCF_000520895.1": {
+  "env_medium": "",
+  "host": "goat",
+  "isolation_source": "throat",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei MSHR511"
+ },
+ "GCF_000521645.1": {
+  "env_medium": "",
+  "host": "goat",
+  "isolation_source": "right udder",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei MSHR146"
+ },
+ "GCF_000522545.2": {
+  "env_medium": "",
+  "host": "missing",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia caribensis MBA4"
+ },
+ "GCF_000567905.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "pleural wound",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis H0587"
+ },
+ "GCF_000567925.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis 2002721723"
+ },
+ "GCF_000567945.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis E444"
+ },
+ "GCF_000583835.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei MSHR520"
+ },
+ "GCF_000701165.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "garlic farming soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia JBK9"
+ },
+ "GCF_000705535.2": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "surface-sterilized vetiver roots",
+  "level": "Complete Genome",
+  "organism": "Burkholderia seminalis"
+ },
+ "GCF_000755725.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Aerosol sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_000755765.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "brain",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_000755785.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "laboratory acquired infection",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_000755805.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Aerosol sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_000755845.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_000755865.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Knee fluid",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_000755885.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "horse",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_000755905.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "tracheal suction",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei HBPUB10303a"
+ },
+ "GCF_000755925.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Tracheal suction",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei HBPUB10134a"
+ },
+ "GCF_000755945.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei MSHR5858"
+ },
+ "GCF_000755965.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei MSHR5848"
+ },
+ "GCF_000755985.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Conjuctival",
+  "level": "Complete Genome",
+  "organism": "Burkholderia oklahomensis"
+ },
+ "GCF_000756005.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Aerosol sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_000756065.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei MSHR5855"
+ },
+ "GCF_000756145.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "liver",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_000764575.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei NAU35A-3"
+ },
+ "GCF_000764595.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis MSMB59"
+ },
+ "GCF_000764955.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_000765375.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis E254"
+ },
+ "GCF_000770395.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei MSHR62"
+ },
+ "GCF_000770415.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei MSHR2243"
+ },
+ "GCF_000770435.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei MSHR1153"
+ },
+ "GCF_000770455.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "environmental sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei B03"
+ },
+ "GCF_000770475.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "environmental sample",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei MSHR3965"
+ },
+ "GCF_000770495.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "environmental sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei TSV 48"
+ },
+ "GCF_000770515.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "environmental sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei K42"
+ },
+ "GCF_000770535.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "environmental sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei A79A"
+ },
+ "GCF_000770565.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "environmental sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_000775165.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei MSHR435"
+ },
+ "GCF_000808035.2": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_000828875.1": {
+  "env_medium": "missing",
+  "host": "Riptortus pedestris",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Caballeronia cordobensis"
+ },
+ "GCF_000953095.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "pus",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_000954175.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_000959125.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Septicemic melioidosis patient blood sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei 1026b"
+ },
+ "GCF_000959145.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei 406e"
+ },
+ "GCF_000959165.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Guinea pig",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_000959185.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Human Brain Tissue",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei MSHR840"
+ },
+ "GCF_000959205.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "community water supply storage tank",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei MSHR491"
+ },
+ "GCF_000959265.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Human clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei 7894"
+ },
+ "GCF_000959285.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Human Clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei K96243"
+ },
+ "GCF_000959305.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_000959325.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "water",
+  "level": "Complete Genome",
+  "organism": "Burkholderia humptydooensis"
+ },
+ "GCF_000959345.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Human Clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei PB08298010"
+ },
+ "GCF_000959365.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Pelvic Wound",
+  "level": "Complete Genome",
+  "organism": "Burkholderia oklahomensis C6786"
+ },
+ "GCF_000959405.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_000959445.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Oryza sativa, rhizosphere soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia vietnamiensis LMG 10929"
+ },
+ "GCF_000959465.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Mule",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_000959505.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Human Clinical (cystic fibrosis patient)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia dolosa AU0158"
+ },
+ "GCF_000959525.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Human Clinical Sample (Cystis Fibrosis Patient)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans ATCC BAA-247"
+ },
+ "GCF_000959545.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Pea rhizosphere",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria AMMD"
+ },
+ "GCF_000959605.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Unavailable",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis 34"
+ },
+ "GCF_000959725.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Plant",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_000960995.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Oryza sativa, grain",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae LMG 2196 = ATCC 33617"
+ },
+ "GCF_000961515.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "White-rot fungus Phanerochaete chrysosporium",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia fungorum"
+ },
+ "GCF_000970935.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei MSHR1328"
+ },
+ "GCF_000970955.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "lymph node",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei MSHR1079"
+ },
+ "GCF_000974835.2": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "pulmonary",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_001028665.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_001029145.1": {
+  "env_medium": "Soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_001275585.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "water",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001277875.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001277895.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001277975.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Pus",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001293045.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. HB1"
+ },
+ "GCF_001318245.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001411495.1": {
+  "env_medium": "",
+  "host": "Allium cepa (onion)",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia ATCC 25416"
+ },
+ "GCF_001449005.1": {
+  "env_medium": "soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia caribensis"
+ },
+ "GCF_001462435.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "water",
+  "level": "Chromosome",
+  "organism": "Burkholderia humptydooensis"
+ },
+ "GCF_001484665.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_001513745.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "water",
+  "level": "Complete Genome",
+  "organism": "Burkholderia humptydooensis"
+ },
+ "GCF_001522105.2": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "unknown",
+  "level": "Complete Genome",
+  "organism": "Burkholderia oklahomensis EO147"
+ },
+ "GCF_001522135.2": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "unknown",
+  "level": "Complete Genome",
+  "organism": "Burkholderia oklahomensis C6786"
+ },
+ "GCF_001522585.2": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. NRF60-BP8"
+ },
+ "GCF_001522635.2": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mayonis"
+ },
+ "GCF_001523745.2": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mayonis"
+ },
+ "GCF_001523915.2": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. LA-2-3-30-S1-D2"
+ },
+ "GCF_001524445.2": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia savannae"
+ },
+ "GCF_001524625.2": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia savannae"
+ },
+ "GCF_001524645.2": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. MSMB0856"
+ },
+ "GCF_001532025.2": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. MSMB617WGS"
+ },
+ "GCF_001546925.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia sp. MSMB1588"
+ },
+ "GCF_001546975.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia ubonensis"
+ },
+ "GCF_001547525.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia anthina"
+ },
+ "GCF_001557535.2": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "lichen",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. PAMC 26561"
+ },
+ "GCF_001577465.1": {
+  "env_medium": "",
+  "host": "Usnea",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. PAMC 28687"
+ },
+ "GCF_001606115.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "nasal",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_001606135.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Cord blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_001611015.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "farm soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia caribensis"
+ },
+ "GCF_001634365.1": {
+  "env_medium": "soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia phytofirmans OLGA172"
+ },
+ "GCF_001636095.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia territorii"
+ },
+ "GCF_001695715.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001695735.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001718295.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "unknown",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_001718315.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia diffusa"
+ },
+ "GCF_001718335.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia territorii"
+ },
+ "GCF_001718355.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ubonensis"
+ },
+ "GCF_001718395.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_001718415.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomultivorans"
+ },
+ "GCF_001718495.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_001718515.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_001718535.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia seminalis"
+ },
+ "GCF_001718555.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia metallica"
+ },
+ "GCF_001718575.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "environmental",
+  "level": "Complete Genome",
+  "organism": "Burkholderia lata"
+ },
+ "GCF_001718595.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_001718635.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "environmental",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_001718655.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ubonensis"
+ },
+ "GCF_001718695.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ubonensis"
+ },
+ "GCF_001718755.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Thigh Biopsy",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_001718775.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "CF Blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_001718795.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "CF Maxillary Sinus",
+  "level": "Complete Genome",
+  "organism": "Burkholderia latens"
+ },
+ "GCF_001718815.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "Oryza sativa root",
+  "level": "Complete Genome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_001718835.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_001718855.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ubonensis"
+ },
+ "GCF_001718875.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia singularis"
+ },
+ "GCF_001718895.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "water",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_001718915.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "plant roots",
+  "level": "Complete Genome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_001718955.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia stagnalis"
+ },
+ "GCF_001718975.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ubonensis"
+ },
+ "GCF_001718995.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "air",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_001729545.1": {
+  "env_medium": "",
+  "host": "Equus caballus",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_001742165.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum from a cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia stabilis"
+ },
+ "GCF_001865575.2": {
+  "env_medium": "Root nodule",
+  "host": "Lebeckia ambigua",
+  "isolation_source": "root nodule",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sprentiae WSM5005"
+ },
+ "GCF_001885195.1": {
+  "env_medium": "",
+  "host": "Jguana",
+  "isolation_source": "pus of abscess",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001887555.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001887575.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001922345.1": {
+  "env_medium": "",
+  "host": "tomato rhizosphere",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. SOS3"
+ },
+ "GCF_001974745.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001975065.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001975085.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001975105.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001975125.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001975145.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001980585.2": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "missing",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_001988975.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Lake Lanier 2,4-D mesocosm",
+  "level": "Chromosome",
+  "organism": "Burkholderia sp. KK1"
+ },
+ "GCF_001999785.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_001999805.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Chromosome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_001999825.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_001999885.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_001999925.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Chromosome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_002007585.1": {
+  "env_medium": "",
+  "host": "Corn",
+  "isolation_source": "Corn Root",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_002083015.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Chromosome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_002097715.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ubonensis subsp. mesacidophila"
+ },
+ "GCF_002110925.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002110945.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002110965.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002110985.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111005.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111025.1": {
+  "env_medium": "",
+  "host": "missing",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111045.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111065.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111085.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111105.1": {
+  "env_medium": "",
+  "host": "Iguana iguana",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111125.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111145.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111165.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111185.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111205.1": {
+  "env_medium": "",
+  "host": "Iguana iguana",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111225.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111245.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111265.1": {
+  "env_medium": "",
+  "host": "missing",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111285.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111305.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111325.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111345.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111365.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002111385.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002208175.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "gladiolus",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli pv. gladioli"
+ },
+ "GCF_002209085.2": {
+  "env_medium": "",
+  "host": "Environment",
+  "isolation_source": "plant derived food stuff, onion, Allium cepa",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_002220305.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "rhizosphere and bulk soil of C. arenaria stands",
+  "level": "Chromosome",
+  "organism": "Burkholderia sp. AD24"
+ },
+ "GCF_002278075.1": {
+  "env_medium": "soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia aromaticivorans"
+ },
+ "GCF_002346045.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "missing",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_002346205.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Missing",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_002356275.1": {
+  "env_medium": "sludge",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia stabilis"
+ },
+ "GCF_002386205.1": {
+  "env_medium": "",
+  "host": "Environment",
+  "isolation_source": "environmental",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_002393425.1": {
+  "env_medium": "",
+  "host": "Onion",
+  "isolation_source": "onion",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli pv. gladioli"
+ },
+ "GCF_002407525.2": {
+  "env_medium": "",
+  "host": "Onion",
+  "isolation_source": "onion",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_002843645.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "environment",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002860065.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_002902925.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia terrae"
+ },
+ "GCF_002902945.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia caribensis"
+ },
+ "GCF_002902965.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia hospita"
+ },
+ "GCF_002924455.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Chromosome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_003019945.1": {
+  "env_medium": "",
+  "host": "Environment",
+  "isolation_source": "oryza sativa, rhizosphere soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_003019965.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_003020025.1": {
+  "env_medium": "",
+  "host": "Environment",
+  "isolation_source": "water",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_003020185.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "pleural wound",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_003076415.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "patient sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_003233675.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "rice rhizosphere",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. JP2-270"
+ },
+ "GCF_003286395.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "environmental",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia dokdonensis"
+ },
+ "GCF_003330745.1": {
+  "env_medium": "00000114",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia caledonica"
+ },
+ "GCF_003330765.1": {
+  "env_medium": "00000114",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_003330785.1": {
+  "env_medium": "00000114",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia graminis"
+ },
+ "GCF_003330805.1": {
+  "env_medium": "00000114",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia hospita"
+ },
+ "GCF_003330825.1": {
+  "env_medium": "00002259",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia terricola"
+ },
+ "GCF_003366075.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "reactor sludge",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. IDO3"
+ },
+ "GCF_003368325.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "tea plantation soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia caffeinilytica"
+ },
+ "GCF_003546465.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Plant derived food stuff",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia ATCC 25416"
+ },
+ "GCF_003546995.3": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Raub General Hospital, Pahang",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_003547015.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Institute for Medical Research, Kuala Lumpur",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_003547035.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_003547055.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Institute for Medical Research, Kuala Lumpur",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_003568605.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Rice field soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis E264"
+ },
+ "GCF_003606245.1": {
+  "env_medium": "lung",
+  "host": "Capra hircus",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_003613595.1": {
+  "env_medium": "",
+  "host": "Environment",
+  "isolation_source": "environmental",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli pv. gladioli"
+ },
+ "GCF_003614815.1": {
+  "env_medium": "",
+  "host": "Environment",
+  "isolation_source": "environmental",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_003614835.1": {
+  "env_medium": "",
+  "host": "Environment",
+  "isolation_source": "environmental",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_003704285.1": {
+  "env_medium": "",
+  "host": "unknown",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_003711145.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia lata"
+ },
+ "GCF_003713105.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Fermented corn meal",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_003798245.1": {
+  "env_medium": "",
+  "host": "UCC strain",
+  "isolation_source": "UCC isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_003798265.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "UCC isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_003798365.1": {
+  "env_medium": "",
+  "host": "UCC strain",
+  "isolation_source": "UCC isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_003812365.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_003812585.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_003812965.1": {
+  "env_medium": "",
+  "host": "UCC strain",
+  "isolation_source": "UCC isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_003813045.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "UCC isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia dolosa"
+ },
+ "GCF_003852635.1": {
+  "env_medium": "",
+  "host": "UCC strain",
+  "isolation_source": "UCC Isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_003933015.1": {
+  "env_medium": "",
+  "host": "UCC strain",
+  "isolation_source": "UCC Isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_003933025.1": {
+  "env_medium": "",
+  "host": "UCC strain",
+  "isolation_source": "clinical isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_003933035.1": {
+  "env_medium": "",
+  "host": "Horse",
+  "isolation_source": "environmental",
+  "level": "Chromosome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_003933045.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_003966315.1": {
+  "env_medium": "",
+  "host": "populus",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_004323015.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood from melioidosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_004323035.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood from melioidosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_004348055.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood from Melioidosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_004348075.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood from Melioidosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_004367665.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood from a melioidosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_004367685.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood and joint fluid of melioidosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_004367705.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_004367725.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_004524855.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "forest soil",
+  "level": "Chromosome",
+  "organism": "Paraburkholderia pallida"
+ },
+ "GCF_004526325.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood from Melioidosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_004842085.1": {
+  "env_medium": "serum",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_005280735.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "forest soil",
+  "level": "Complete Genome",
+  "organism": "Trinickia violacea"
+ },
+ "GCF_005853645.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood aspirate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_005862325.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood aspirate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_005937855.2": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. KBS0801"
+ },
+ "GCF_006542565.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_006542585.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_007556815.1": {
+  "env_medium": "ENVO:00000227",
+  "host": "missing",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia megapolitana"
+ },
+ "GCF_007724625.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_008693485.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_008693525.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_008728255.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_008728275.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_008728295.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "urine",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_008728315.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_008728335.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "pleural fluid",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_008728355.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "cerebrospinal fluid",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_008728375.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_009191525.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "the respiratory tract of a pig with swine respiratory disease",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_009578005.1": {
+  "env_medium": "none",
+  "host": "rice",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_009586235.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "lake",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_009730035.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_009730175.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_009730195.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_009749345.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "environmental",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_009755625.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "cucumber rhizosphere",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_009789655.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "forest soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia acidiphila"
+ },
+ "GCF_009789675.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "forest soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia acidisoli"
+ },
+ "GCF_009857095.1": {
+  "env_medium": "none",
+  "host": "rice",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae AU6208"
+ },
+ "GCF_009931375.1": {
+  "env_medium": "",
+  "host": "Oryza sativa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_009938265.1": {
+  "env_medium": "Midgut crypts of stink bug Togo hemipterus",
+  "host": "Togo hemipterus",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. THE68"
+ },
+ "GCF_011039955.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Caballeronia sp. SBC2"
+ },
+ "GCF_011493005.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Caballeronia sp. SBC1"
+ },
+ "GCF_011578485.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood from patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_012272655.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_012273415.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_012689525.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Alpine forest soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia aromaticivorans"
+ },
+ "GCF_012974245.1": {
+  "env_medium": "none",
+  "host": "rice",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_013122645.1": {
+  "env_medium": "none",
+  "host": "rice",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_013307145.1": {
+  "env_medium": "",
+  "host": "Oryza sativa",
+  "isolation_source": "USA rice field",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_013307165.1": {
+  "env_medium": "",
+  "host": "Oryza sativa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_013349105.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Chromosome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_013378095.1": {
+  "env_medium": "",
+  "host": "Mimosa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia caribensis"
+ },
+ "GCF_013390345.1": {
+  "env_medium": "",
+  "host": "Manis javanica (pangolin)",
+  "isolation_source": "",
+  "level": "Chromosome",
+  "organism": "Paraburkholderia fungorum"
+ },
+ "GCF_013426895.1": {
+  "env_medium": "Midgut crypts of stink bug Physopelta gutta",
+  "host": "Physopelta gutta",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia largidicola"
+ },
+ "GCF_013426915.1": {
+  "env_medium": "Midgut crypts of stink bug Physopelta gutta",
+  "host": "Physopelta gutta",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. PGU19"
+ },
+ "GCF_013822785.1": {
+  "env_medium": "waste water",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. MBR-1"
+ },
+ "GCF_014171495.1": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "Sorghum rhizosphere",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia tropica"
+ },
+ "GCF_014211915.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_014263355.1": {
+  "env_medium": "",
+  "host": "sugarcane",
+  "isolation_source": "leaf",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_014357995.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum from cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_014854795.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_016458785.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Baijiu fermentation starter",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_016458805.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Baijiu fermentation starter",
+  "level": "Complete Genome",
+  "organism": "Burkholderia anthina"
+ },
+ "GCF_016698705.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "rice shoot",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_016774495.1": {
+  "env_medium": "Clay soil",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_016864355.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_016899425.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soybean",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. MS389"
+ },
+ "GCF_016899445.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soybean",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. MS455"
+ },
+ "GCF_017165175.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_017165195.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_017165475.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_017165495.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_017165515.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_017165535.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_017165555.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_017220215.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "ETA",
+  "level": "Complete Genome",
+  "organism": "Caballeronia sp. M1242"
+ },
+ "GCF_017301875.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_017301895.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_017301905.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_017378155.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_017378195.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_017378235.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_017378275.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_017378315.2": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_017378355.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_017378435.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_017514945.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "RoundUp",
+  "level": "Complete Genome",
+  "organism": "Burkholderia anthina"
+ },
+ "GCF_017742755.1": {
+  "env_medium": "",
+  "host": "Glycine max",
+  "isolation_source": "Rhizosphere of Soya beans",
+  "level": "Chromosome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_017815595.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia latens"
+ },
+ "GCF_017815615.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia latens"
+ },
+ "GCF_017858835.1": {
+  "env_medium": "",
+  "host": "Oryza sativa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_018223765.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_018223785.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_018223805.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_018228345.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_018228385.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "water",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_018228525.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_018228545.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_018228565.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_018228585.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_018228605.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_018228625.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_018274335.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_018408855.1": {
+  "env_medium": "enriched soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Caballeronia sp. NK8"
+ },
+ "GCF_018417535.1": {
+  "env_medium": "forest soil [ENVO:00002261]",
+  "host": "",
+  "isolation_source": "mixed forest near oak tree",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_018417615.1": {
+  "env_medium": "soil [ENVO:00001998]",
+  "host": "",
+  "isolation_source": "residential yard",
+  "level": "Chromosome",
+  "organism": "Burkholderia sp. LAS2"
+ },
+ "GCF_018771365.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_019428685.1": {
+  "env_medium": "soil/tree roots near Citrus sinensis",
+  "host": "not applicable",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia edwinii"
+ },
+ "GCF_019843765.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_019915365.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Swab from tracheostomic tube",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_020544345.1": {
+  "env_medium": "",
+  "host": "Sugarcane",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia caribensis"
+ },
+ "GCF_020809565.1": {
+  "env_medium": "",
+  "host": "missing",
+  "isolation_source": "DSMZ Isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia dolosa"
+ },
+ "GCF_020843905.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "agricultural soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_020843925.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "agricultural soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_020843945.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "agricultural soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. B21-007"
+ },
+ "GCF_020843965.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "agricultural soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. B21-005"
+ },
+ "GCF_020843985.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "agricultural soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_021344035.2": {
+  "env_medium": "soil [ENVO:01001044]",
+  "host": "Lilium longiflorum",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_022213445.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "clinical isolate",
+  "level": "Complete Genome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_022533485.1": {
+  "env_medium": "Water",
+  "host": "",
+  "isolation_source": "water",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_022809715.1": {
+  "env_medium": "",
+  "host": "poplar",
+  "isolation_source": "China:Nanjing",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_022870505.1": {
+  "env_medium": "leaf litter",
+  "host": "",
+  "isolation_source": "",
+  "level": "Chromosome",
+  "organism": "Burkholderia perseverans"
+ },
+ "GCF_022878925.1": {
+  "env_medium": "",
+  "host": "Jalysus wickhami",
+  "isolation_source": "",
+  "level": "Chromosome",
+  "organism": "Caballeronia sp. TF1N1"
+ },
+ "GCF_022879555.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Collected from soil near Alydus sp.",
+  "level": "Chromosome",
+  "organism": "Paraburkholderia terricola"
+ },
+ "GCF_022879575.1": {
+  "env_medium": "",
+  "host": "Jalysus wickhami",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Caballeronia sp. SL2Y3"
+ },
+ "GCF_022879595.1": {
+  "env_medium": "",
+  "host": "Leptoglossus zonatus",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Caballeronia sp. Lep1P3"
+ },
+ "GCF_022879615.1": {
+  "env_medium": "",
+  "host": "Leptoglossus zonatus",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Caballeronia grimmiae"
+ },
+ "GCF_022879815.1": {
+  "env_medium": "",
+  "host": "Anasa tristis",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Caballeronia zhejiangensis"
+ },
+ "GCF_023053515.1": {
+  "env_medium": "soil",
+  "host": "rice",
+  "isolation_source": "root",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_023170545.1": {
+  "env_medium": "",
+  "host": "Anasa tristis",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Caballeronia sp. Sq4a"
+ },
+ "GCF_023373625.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023373645.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023373665.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023373685.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023373705.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023373725.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_023374315.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374335.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_023374355.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374375.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374395.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374415.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374435.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374455.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374475.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_023374495.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374515.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374535.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374555.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374575.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374595.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374615.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374635.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374655.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374675.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_023374695.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374715.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_023374735.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374755.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374775.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374795.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374815.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374835.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_023374855.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_023374875.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023374895.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023383415.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023383425.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023383465.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023383485.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023383515.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023658595.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_023704255.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "respiratory isolate",
+  "level": "Chromosome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_023895935.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023895995.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896015.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896025.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896055.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896075.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896095.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_023896115.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896135.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_023896155.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896175.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896195.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896215.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_023896235.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896255.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896295.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896315.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_023896835.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023896855.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023924265.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023924285.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_023924305.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_024022955.1": {
+  "env_medium": "field",
+  "host": "Oryza sativa",
+  "isolation_source": "rice panicle",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_024072595.1": {
+  "env_medium": "",
+  "host": "Arabidopsis thaliana",
+  "isolation_source": "leaf",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia fungorum"
+ },
+ "GCF_024072715.1": {
+  "env_medium": "",
+  "host": "Arabidopsis thaliana",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia fungorum"
+ },
+ "GCF_024123895.1": {
+  "env_medium": "",
+  "host": "Arabidopsis thaliana",
+  "isolation_source": "leaf",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia fungorum"
+ },
+ "GCF_024381035.2": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_024600575.1": {
+  "env_medium": "",
+  "host": "missing",
+  "isolation_source": "Mixed soil samples",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_024661975.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Daily chemical products",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_024730645.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Soil samples",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. EMB26"
+ },
+ "GCF_024760585.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "diseased rice",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_024760605.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "diseased rice",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_024760625.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "diseased rice",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_024760645.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "diseased rice",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_025244785.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Dendrobium officinale Kimura et Migo",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_025560745.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "mountain soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. S-53"
+ },
+ "GCF_025643495.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "CF throat",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_025643515.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_025643535.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Chromosome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_025643555.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_025643575.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "unknown",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_026314965.1": {
+  "env_medium": "Petri dish",
+  "host": "NA",
+  "isolation_source": "",
+  "level": "Chromosome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_026314985.1": {
+  "env_medium": "Cystic fibrosis",
+  "host": "Human CF",
+  "isolation_source": "",
+  "level": "Chromosome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_026315005.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_026315025.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_026315045.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_026651625.1": {
+  "env_medium": "",
+  "host": "Lagria villosa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_026651975.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "broken rice",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_026651995.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "broken rice",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_026652015.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "broken rice",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_026683795.2": {
+  "env_medium": "Petri dish",
+  "host": "NA",
+  "isolation_source": "",
+  "level": "Chromosome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_026683835.2": {
+  "env_medium": "Cystic fibrosis Sputum",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_026683855.2": {
+  "env_medium": "Cystic fibrosis Sputum",
+  "host": "Human CF",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_026683875.2": {
+  "env_medium": "Petri dish",
+  "host": "NA",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_026958255.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "peanut rhizospheric soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_028201395.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "unknown",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_028462305.2": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_028462345.2": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Chromosome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_028473685.1": {
+  "env_medium": "CHEBI:15377|ENVO:01000156",
+  "host": "",
+  "isolation_source": "Mat on a water body surface in quartzite Imawari Yeuta cave",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia bryophila"
+ },
+ "GCF_028657905.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil sample",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. FERM BP-3421"
+ },
+ "GCF_029536165.1": {
+  "env_medium": "",
+  "host": "sugarcane",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. SUR17"
+ },
+ "GCF_029590335.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_029633645.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_029633805.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "pharmaceutical solution",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_029633825.1": {
+  "env_medium": "",
+  "host": "sheep",
+  "isolation_source": "milk",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_029910195.1": {
+  "env_medium": "soil",
+  "host": "Tetrastigma hemsleyanum Diels et Gilg",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. JSH-S8"
+ },
+ "GCF_029910215.1": {
+  "env_medium": "soil",
+  "host": "lichen",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. D15"
+ },
+ "GCF_029962485.1": {
+  "env_medium": "",
+  "host": "Plectrocnemia",
+  "isolation_source": "Intestinal tract",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_030064565.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "not collected",
+  "level": "Chromosome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_030078435.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_030297195.1": {
+  "env_medium": "not applicable",
+  "host": "",
+  "isolation_source": "Monkey",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_030297235.1": {
+  "env_medium": "not applicable",
+  "host": "Rattus norvegicus",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_030297255.1": {
+  "env_medium": "not applicable",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_030297275.1": {
+  "env_medium": "not applicable",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_030297295.1": {
+  "env_medium": "not applicable",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_030316055.1": {
+  "env_medium": "soil",
+  "host": "Dictyostelium discoideum",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia bonniea"
+ },
+ "GCF_030316075.1": {
+  "env_medium": "soil",
+  "host": "Dictyostelium discoideum",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia bonniea"
+ },
+ "GCF_030374675.1": {
+  "env_medium": "rhizosphere [ENVO:00005801] | soil [ENVO:00001998]",
+  "host": "Sorghum bicolor",
+  "isolation_source": "rhizosphere and root exudates",
+  "level": "Complete Genome",
+  "organism": "Burkholderia anthina"
+ },
+ "GCF_030412785.1": {
+  "env_medium": "",
+  "host": "Mimosa caesalpiniifolia",
+  "isolation_source": "root nodule",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sabiae"
+ },
+ "GCF_030505635.1": {
+  "env_medium": "ENVO:00002160",
+  "host": "Oryza sativa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia glumae"
+ },
+ "GCF_030644525.1": {
+  "env_medium": "",
+  "host": "Oryza sativa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia plantarii"
+ },
+ "GCF_030848725.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Bronchial fluid",
+  "level": "Complete Genome",
+  "organism": "Burkholderia dolosa"
+ },
+ "GCF_031356765.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia phenoliruptrix"
+ },
+ "GCF_031585635.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Rhizosphere soil of Tomato",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. FT54"
+ },
+ "GCF_032806925.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "burned soil (forest)",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia kirstenboschensis"
+ },
+ "GCF_033391855.2": {
+  "env_medium": "Unvegetated sediment",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia terrae"
+ },
+ "GCF_033675275.1": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_033675305.1": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_033675325.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_033675345.1": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "environment",
+  "level": "Chromosome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_033870355.1": {
+  "env_medium": "",
+  "host": "Equus caballus",
+  "isolation_source": "horse",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_033870375.1": {
+  "env_medium": "",
+  "host": "Equus caballus",
+  "isolation_source": "horse",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_033870395.1": {
+  "env_medium": "",
+  "host": "Equus caballus",
+  "isolation_source": "horse",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_033956065.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_034047095.1": {
+  "env_medium": "leaf spot disease samples",
+  "host": "Areca catechu",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Robbsia andropogonis"
+ },
+ "GCF_034424375.1": {
+  "env_medium": "manufactured product [ENVO:00003074]",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia kururiensis"
+ },
+ "GCF_035621555.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_036352035.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "bronchoalveolar lavage",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_036362805.1": {
+  "env_medium": "phlegm",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia multivorans"
+ },
+ "GCF_036837415.1": {
+  "env_medium": "",
+  "host": "Oryza sativa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_036839165.1": {
+  "env_medium": "",
+  "host": "Oryza sativa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_037055255.1": {
+  "env_medium": "soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_037101255.1": {
+  "env_medium": "Soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. 22B1P"
+ },
+ "GCF_037101275.1": {
+  "env_medium": "volcanic soil ENVO_01001841",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_037477895.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans endofungorum"
+ },
+ "GCF_037477905.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus",
+  "isolation_source": "forest soil",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans endofungorum"
+ },
+ "GCF_037478035.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus",
+  "isolation_source": "corn",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans endofungorum"
+ },
+ "GCF_037478045.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus",
+  "isolation_source": "Rabbit dung",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans rhizoxinica"
+ },
+ "GCF_037478055.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans rhizoxinica"
+ },
+ "GCF_037478065.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus",
+  "isolation_source": "unknown",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans rhizoxinica"
+ },
+ "GCF_037478075.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus",
+  "isolation_source": "ground nuts",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans endofungorum"
+ },
+ "GCF_037478085.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus",
+  "isolation_source": "rice wine tablet",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans endofungorum"
+ },
+ "GCF_038050405.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. IMGN_8"
+ },
+ "GCF_038447715.1": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "environmental soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_038447785.1": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "environmental soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_038448065.1": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "environmental soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_038448955.1": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "environmental soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_038452255.1": {
+  "env_medium": "tobacco soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_038723655.1": {
+  "env_medium": "",
+  "host": "Panax notoginseng",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_038782865.1": {
+  "env_medium": "",
+  "host": "Atractylodes lancea",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_038983115.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "urine",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_038983225.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "urine",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_039621805.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Phlox subulata",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. PREW-6R"
+ },
+ "GCF_039728355.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_039848545.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soils collected in Guangdong Province, China",
+  "level": "Complete Genome",
+  "organism": "Burkholderia stagnalis"
+ },
+ "GCF_039852015.1": {
+  "env_medium": "",
+  "host": "Coreopsis lanceolata L.",
+  "isolation_source": "flower",
+  "level": "Complete Genome",
+  "organism": "Robbsia sp. KACC 23696"
+ },
+ "GCF_040148685.1": {
+  "env_medium": "ENVO:01001121",
+  "host": "not provided",
+  "isolation_source": "shallow plant roots",
+  "level": "Chromosome",
+  "organism": "Paraburkholderia acidicola"
+ },
+ "GCF_040215475.1": {
+  "env_medium": "greenhouse",
+  "host": "Pelargonium graveolens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_040314805.1": {
+  "env_medium": "plant",
+  "host": "Carnation",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Trinickia caryophylli"
+ },
+ "GCF_040361905.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "agricultural soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia terrae"
+ },
+ "GCF_040735455.1": {
+  "env_medium": "Bronchoalveolar Lavage Fluid",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia semiarida"
+ },
+ "GCF_040761425.1": {
+  "env_medium": "",
+  "host": "Rice",
+  "isolation_source": "leaves",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. Ed8"
+ },
+ "GCF_041070875.1": {
+  "env_medium": "soil [ENVO:01001044]",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_041205585.2": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum from cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cenocepacia"
+ },
+ "GCF_042604585.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "clinical",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_042604595.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Clinical, sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_043193125.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Environmental, soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_044057485.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Pericarpium Citri Reticulatae 'Chachiensis'",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_044501195.1": {
+  "env_medium": "Soil rhizosphere",
+  "host": "Soil",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia anthina"
+ },
+ "GCF_045345775.1": {
+  "env_medium": "Sputum and blood",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia semiarida"
+ },
+ "GCF_045348565.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Moso bamboo",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia fungorum"
+ },
+ "GCF_045862465.1": {
+  "env_medium": "flower",
+  "host": "Gladiolus",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli pv. gladioli"
+ },
+ "GCF_045925845.1": {
+  "env_medium": "",
+  "host": "Cinnamomum camphora",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_046773525.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "The rhizosphere soil of Moso",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_047127275.1": {
+  "env_medium": "",
+  "host": "Arachis hypogaea",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia lata"
+ },
+ "GCF_047325075.1": {
+  "env_medium": "not provided",
+  "host": "Triticum aestivum cv. Catawba",
+  "isolation_source": "roots",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia phenoliruptrix"
+ },
+ "GCF_047497155.1": {
+  "env_medium": "",
+  "host": "Allium cepa",
+  "isolation_source": "Agricultural field",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. 22PA0106"
+ },
+ "GCF_047497165.1": {
+  "env_medium": "",
+  "host": "Allium cepa",
+  "isolation_source": "Agricultural field",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. 22PA0099"
+ },
+ "GCF_047902435.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "activated sludge",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_048565175.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Plant",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_048565265.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia theae"
+ },
+ "GCF_048627025.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "wet tissue",
+  "level": "Complete Genome",
+  "organism": "Burkholderia aenigmatica"
+ },
+ "GCF_048688115.1": {
+  "env_medium": "Bronchoalveolar Lavage Fluid",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_048914405.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Chromosome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_048917655.1": {
+  "env_medium": "plant",
+  "host": "rice",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_048917665.1": {
+  "env_medium": "plant",
+  "host": "rice",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_048917685.1": {
+  "env_medium": "plant",
+  "host": "rice",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_049177125.1": {
+  "env_medium": "Soil",
+  "host": "",
+  "isolation_source": "Hyphosphere of Rhizophagus irregularis found in the meadow",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. DD10"
+ },
+ "GCF_049487195.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. NLJ2"
+ },
+ "GCF_049913365.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "maize rhizosphere",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_049942845.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "maize rhizosphere",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. R-40"
+ },
+ "GCF_050320195.1": {
+  "env_medium": "N/A",
+  "host": "Homo sapiens",
+  "isolation_source": "Melioidosis patient - Sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_050430075.1": {
+  "env_medium": "",
+  "host": "Pueraria montana var. thomsonii",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Robbsia andropogonis"
+ },
+ "GCF_050500075.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soils where Camelina sativa is grown",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia tropica"
+ },
+ "GCF_050613125.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_050613135.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Casuarina rhizosphere soil samples",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_050627075.1": {
+  "env_medium": "Root tissue",
+  "host": "Pisum sativum L.",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia fungorum"
+ },
+ "GCF_050627395.1": {
+  "env_medium": "Root tissue",
+  "host": "Pisum sativum L.",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia fungorum"
+ },
+ "GCF_050632305.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_050632315.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_050632325.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "swab",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_050632335.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_050632345.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_050632355.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_050813845.1": {
+  "env_medium": "Top soil",
+  "host": "",
+  "isolation_source": "Imbak Canyon Conservation Area",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. F1"
+ },
+ "GCF_050858985.1": {
+  "env_medium": "",
+  "host": "not collected",
+  "isolation_source": "acid upland red soils",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. M6-3"
+ },
+ "GCF_050920555.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "onion seeds",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli pv. alliicola"
+ },
+ "GCF_050955445.1": {
+  "env_medium": "",
+  "host": "soil",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. RHO2"
+ },
+ "GCF_050990585.1": {
+  "env_medium": "",
+  "host": "soil",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia phenoliruptrix"
+ },
+ "GCF_050990595.1": {
+  "env_medium": "",
+  "host": "missing",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sacchari"
+ },
+ "GCF_051027425.1": {
+  "env_medium": "",
+  "host": "Chinese fir",
+  "isolation_source": "root",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia caffeinilytica"
+ },
+ "GCF_051124805.1": {
+  "env_medium": "top soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. A3RO-2L"
+ },
+ "GCF_051125205.1": {
+  "env_medium": "top soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. A1BS-2L"
+ },
+ "GCF_051125215.1": {
+  "env_medium": "top soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. A3BS-1L"
+ },
+ "GCF_051125545.1": {
+  "env_medium": "top soil",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. A2RO-4L"
+ },
+ "GCF_051355645.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia lata"
+ },
+ "GCF_051560065.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_051560085.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_051560105.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_051560125.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_051560145.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_051615025.1": {
+  "env_medium": "sea(ENVO:00000016)",
+  "host": "",
+  "isolation_source": "seawater from Weddell Sea",
+  "level": "Complete Genome",
+  "organism": "Caballeronia sp. DA-9"
+ },
+ "GCF_052146275.1": {
+  "env_medium": "ENVO:00001998",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Chromosome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_052222725.1": {
+  "env_medium": "",
+  "host": "soil",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_052854005.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052854015.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052854305.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052854315.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052854605.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052854615.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052854885.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052854895.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052855305.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052855315.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052855605.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052855615.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052855985.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052856205.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052857015.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052857225.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052857935.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052858145.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052858685.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_052858755.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "enviroment (soil)",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_053038975.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_053153985.1": {
+  "env_medium": "Blood",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia vietnamiensis"
+ },
+ "GCF_053209605.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "sputum",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_053348855.1": {
+  "env_medium": "Soybean Rhizosphere Sample Grown in Prairie Soil",
+  "host": "Glycine max",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia metallica"
+ },
+ "GCF_053470105.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "rice",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_053470145.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "rice",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_053760385.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Phosphoric acid, potassium 40 years long-lasting soil",
+  "level": "Complete Genome",
+  "organism": "Caballeronia sp. KNU42"
+ },
+ "GCF_054073385.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Korean agricultural soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_054073395.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "korean agricultural soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_054166125.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Agricultural Field Soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia strydomiana"
+ },
+ "GCF_054166145.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Agricultural Field Soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia strydomiana"
+ },
+ "GCF_054166155.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Agricultural Field Soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia strydomiana"
+ },
+ "GCF_054166185.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Agricultural Field Soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia ambifaria"
+ },
+ "GCF_054166195.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Agricultural Field Soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia graminis"
+ },
+ "GCF_054166225.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Agricultural Field Soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia strydomiana"
+ },
+ "GCF_054166245.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Agricultural Field Soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia strydomiana"
+ },
+ "GCF_054166265.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Agricultural Field Soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia strydomiana"
+ },
+ "GCF_054187845.1": {
+  "env_medium": "-",
+  "host": "",
+  "isolation_source": "Rice seedling",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_054558305.1": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "natural cheese",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_054955335.1": {
+  "env_medium": "",
+  "host": "Oryza sativa",
+  "isolation_source": "Seed of traditional rice cultivar Malshira",
+  "level": "Complete Genome",
+  "organism": "Burkholderia contaminans"
+ },
+ "GCF_055386035.1": {
+  "env_medium": "not applicable",
+  "host": "Oryza sativa",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_055387925.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "missing",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_055391905.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "roots of Arabidopsis thaliana",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia monticola"
+ },
+ "GCF_055397325.1": {
+  "env_medium": "Midgut crypts of sting bug Physopelta gutta",
+  "host": "Physopelta gutta",
+  "isolation_source": "Midgut crypts of sting bug Physopelta gutta",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia largidicola"
+ },
+ "GCF_055397665.1": {
+  "env_medium": "",
+  "host": "Equus caballus",
+  "isolation_source": "liver abscess",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mallei"
+ },
+ "GCF_055397955.1": {
+  "env_medium": "not applicable",
+  "host": "Freesia",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_055810255.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Burkholderia thailandensis"
+ },
+ "GCF_056270685.1": {
+  "env_medium": "",
+  "host": "Nepenthes alata",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. PAMB 6768"
+ },
+ "GCF_056591095.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia terricola"
+ },
+ "GCF_056640905.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_056783395.1": {
+  "env_medium": "",
+  "host": "Fern",
+  "isolation_source": "rhizosphere soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_056847505.1": {
+  "env_medium": "",
+  "host": "Rhizopus arrhizus",
+  "isolation_source": "corn",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans endofungorum"
+ },
+ "GCF_056867595.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus var. microsporus van. Tieghem",
+  "isolation_source": "Rice Seedlings",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans rhizoxinica"
+ },
+ "GCF_056868365.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus",
+  "isolation_source": "corn",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans rhizoxinica"
+ },
+ "GCF_056868375.1": {
+  "env_medium": "",
+  "host": "Rhizopus arrhizus",
+  "isolation_source": "Hospital Mattress",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans rhizoxinica"
+ },
+ "GCF_056880615.1": {
+  "env_medium": "",
+  "host": "Rhizopus microsporus var oligosporus",
+  "isolation_source": "tempeh",
+  "level": "Complete Genome",
+  "organism": "Mycetohabitans rhizoxinica"
+ },
+ "GCF_057005415.2": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. KL41"
+ },
+ "GCF_057369595.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "missing",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia complex sp. TUM26381"
+ },
+ "GCF_057439935.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia complex sp. TUM26381"
+ },
+ "GCF_057587595.1": {
+  "env_medium": "",
+  "host": "Nepenthes alata",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. PAMB 6768"
+ },
+ "GCF_057612605.2": {
+  "env_medium": "",
+  "host": "not applicable",
+  "isolation_source": "rice paddy soil",
+  "level": "Complete Genome",
+  "organism": "Caballeronia sp. A2-2"
+ },
+ "GCF_057748135.1": {
+  "env_medium": "",
+  "host": "Nepenthes alata",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia sp. PAMB 6770"
+ },
+ "GCF_058448765.1": {
+  "env_medium": "",
+  "host": "Cyperus sp.",
+  "isolation_source": "plant",
+  "level": "Complete Genome",
+  "organism": "Burkholderia gladioli"
+ },
+ "GCF_059089405.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Korean agricultural soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pyrrocinia"
+ },
+ "GCF_059622985.1": {
+  "env_medium": "soil",
+  "host": "Dictyostelium discoideum",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia agricolaris"
+ },
+ "GCF_900240005.1": {
+  "env_medium": "",
+  "host": "environment",
+  "isolation_source": "contaminated wipes",
+  "level": "Chromosome",
+  "organism": "Burkholderia stabilis"
+ },
+ "GCF_902459535.1": {
+  "env_medium": "leaf",
+  "host": "",
+  "isolation_source": "",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia dioscoreae"
+ },
+ "GCF_904865725.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "catheter tip",
+  "level": "Complete Genome",
+  "organism": "Burkholderia cepacia"
+ },
+ "GCF_905400155.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400185.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400195.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400215.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400225.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400235.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400265.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400275.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400285.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400295.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400305.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400315.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400325.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400335.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400345.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400355.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400365.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400375.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400385.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400395.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400405.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400415.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400425.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400435.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400445.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400455.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400465.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400475.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400485.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400495.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400505.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400515.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400525.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400535.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400545.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400555.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400565.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_905400575.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Maize rhizosphere",
+  "level": "Chromosome",
+  "organism": "Burkholderia sola"
+ },
+ "GCF_964264985.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mycopellens"
+ },
+ "GCF_964264995.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia crassaminum"
+ },
+ "GCF_964265005.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "river water",
+  "level": "Complete Genome",
+  "organism": "Burkholderia crassaminum"
+ },
+ "GCF_964265015.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Freshwater sediment",
+  "level": "Complete Genome",
+  "organism": "Burkholderia crassaminum"
+ },
+ "GCF_964265025.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "environmental",
+  "level": "Complete Genome",
+  "organism": "Burkholderia mycopellens"
+ },
+ "GCF_965118125.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Root of Oryza sativa",
+  "level": "Complete Genome",
+  "organism": "Pararobbsia alpina"
+ },
+ "GCF_965118185.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Rhizosphere of Oryza sativa",
+  "level": "Complete Genome",
+  "organism": "Paraburkholderia kururiensis"
+ },
+ "GCF_965199385.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Digestive abscess",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199395.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199405.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199425.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199435.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "urine",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199445.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199455.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "urine",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199515.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Medistinal lymph node",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199545.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Lung biopsy",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199625.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Abcess",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199835.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965199925.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965201125.1": {
+  "env_medium": "",
+  "host": "Cat",
+  "isolation_source": "bronchoalveolar lavage",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965202565.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965211575.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_965211595.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "Blood culture",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_980295165.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_980300355.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_980300905.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_980300945.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_980300965.1": {
+  "env_medium": "",
+  "host": "Homo sapiens",
+  "isolation_source": "blood",
+  "level": "Complete Genome",
+  "organism": "Burkholderia pseudomallei"
+ },
+ "GCF_984667665.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984667675.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984667725.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984667835.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984667895.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984667945.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "rhizosphere soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984667955.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984667975.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. LMG 33096"
+ },
+ "GCF_984668005.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984668195.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. LMG 33096"
+ },
+ "GCF_984668265.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984668355.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "water",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. LMG 33096"
+ },
+ "GCF_984668395.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "water",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984668525.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. LMG 34232"
+ },
+ "GCF_984669265.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "rhizosphere soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. LMG 34232"
+ },
+ "GCF_984669325.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Hospital environment",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. LMG 33096"
+ },
+ "GCF_984669335.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984669415.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984669565.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984669585.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "wound",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984669685.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "human",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ },
+ "GCF_984669705.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "soil",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. LMG 34232"
+ },
+ "GCF_984671675.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Cystic fibrosis patient",
+  "level": "Complete Genome",
+  "organism": "Burkholderia sp. LMG 33096"
+ },
+ "GCF_984671695.1": {
+  "env_medium": "",
+  "host": "",
+  "isolation_source": "Industrial",
+  "level": "Complete Genome",
+  "organism": "Burkholderia arboris"
+ }
+}

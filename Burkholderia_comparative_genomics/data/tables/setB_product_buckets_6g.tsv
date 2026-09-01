@@ -1,0 +1,13 @@
+gene_set	product_bucket	n_families	total	pct
+pC3_clade_core	named product	691	833	82.95
+pC3_clade_core	domain-containing, no specific function	71	833	8.52
+pC3_clade_core	DUF / uncharacterised domain	47	833	5.64
+pC3_clade_core	hypothetical protein	24	833	2.88
+pC3_clade_accessory	named product	398	550	72.36
+pC3_clade_accessory	hypothetical protein	84	550	15.27
+pC3_clade_accessory	domain-containing, no specific function	49	550	8.91
+pC3_clade_accessory	DUF / uncharacterised domain	19	550	3.45
+chr1_clade_core	named product	2385	2832	84.22
+chr1_clade_core	domain-containing, no specific function	308	2832	10.88
+chr1_clade_core	DUF / uncharacterised domain	119	2832	4.2
+chr1_clade_core	hypothetical protein	20	2832	0.71

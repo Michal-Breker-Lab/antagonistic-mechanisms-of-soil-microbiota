@@ -1,0 +1,143 @@
+accession	c3_present	evidence	c3_contig	c3_len	c3_ani_to_ref	c3_aligned_fraction	c3_best_ref
+GCA_036870995.1	False	measured_skani_vs_known_c3					
+GCA_038448705.1	False	measured_skani_vs_known_c3					
+GCA_050916205.1	True	measured_skani_vs_known_c3	CP100441.1	922861	99.02	91.5	ref__GCF_001718775.1__NZ_CP013434.1.fna
+GCA_903231545.1	True	measured_skani_vs_known_c3	LR798195.1	1060649	99.08	84.9	ref__GCF_001606135.1__NZ_CP015037.1.fna
+GCF_000182585.2	False	measured_skani_vs_known_c3					
+GCF_000193475.1	False	measured_skani_vs_known_c3					
+GCF_000497165.1	True	measured_skani_vs_known_c3	NZ_CM002279.1	823866	98.80	94.5	ref__GCF_030848725.1__NZ_CP132924.1.fna
+GCF_000770415.1	False	measured_skani_vs_known_c3					
+GCF_000770435.1	False	measured_skani_vs_known_c3					
+GCF_000770475.1	False	measured_skani_vs_known_c3					
+GCF_000775165.1	False	measured_skani_vs_known_c3					
+GCF_000970935.1	False	measured_skani_vs_known_c3					
+GCF_000970955.1	False	measured_skani_vs_known_c3					
+GCF_001275585.1	False	measured_skani_vs_known_c3					
+GCF_001462435.1	False	measured_skani_vs_known_c3					
+GCF_001546925.1	False	measured_skani_vs_known_c3					
+GCF_001546975.1	True	measured_skani_vs_known_c3	NZ_LNJU01000004.1	916684	98.01	68.5	ref__GCF_001718855.1__NZ_CP013445.1.fna
+GCF_001547525.1	True	measured_skani_vs_known_c3	NZ_CM003769.1	963101	98.53	95.9	ref__GCF_045345775.1__NZ_CP174278.1.fna
+GCF_001636095.1	True	measured_skani_vs_known_c3	NZ_CM004193.1	786145	95.36	67.7	ref__GCF_001718335.1__NZ_CP013367.1.fna
+GCF_001974745.1	False	measured_skani_vs_known_c3					
+GCF_001988975.1	False	measured_skani_vs_known_c3					
+GCF_001999805.1	True	measured_skani_vs_known_c3	NZ_CP019667.1	974315	99.36	95.3	ref__GCF_001606135.1__NZ_CP015037.1.fna
+GCF_001999925.1	True	measured_skani_vs_known_c3	NZ_CP019675.1	1011214	99.23	91.3	ref__GCF_001606135.1__NZ_CP015037.1.fna
+GCF_002083015.1	True	measured_skani_vs_known_c3	NZ_CP020601.1	1003192	99.14	79.8	ref__GCF_001606135.1__NZ_CP015037.1.fna
+GCF_002110925.1	False	measured_skani_vs_known_c3					
+GCF_002110985.1	False	measured_skani_vs_known_c3					
+GCF_002111065.1	False	measured_skani_vs_known_c3					
+GCF_002111185.1	False	measured_skani_vs_known_c3					
+GCF_002220305.1	False	measured_skani_vs_known_c3					
+GCF_002924455.1	True	measured_skani_vs_known_c3	NZ_CM009577.1	1202138	98.92	96.0	ref__GCF_050632345.1__NZ_CP192565.1.fna
+GCF_003546995.3	False	measured_skani_vs_known_c3					
+GCF_003852635.1	False	measured_skani_vs_known_c3					
+GCF_003933015.1	False	measured_skani_vs_known_c3					
+GCF_003933025.1	False	measured_skani_vs_known_c3					
+GCF_003933035.1	False	measured_skani_vs_known_c3					
+GCF_003933045.1	False	measured_skani_vs_known_c3					
+GCF_004524855.1	False	measured_skani_vs_known_c3					
+GCF_006542565.1	False	measured_skani_vs_known_c3					
+GCF_006542585.1	False	measured_skani_vs_known_c3					
+GCF_012272655.1	True	measured_skani_vs_known_c3	NZ_CP050892.1	525208	98.24	90.6	ref__GCF_009730035.1__NZ_CP046338.1.fna
+GCF_012273415.1	False	measured_skani_vs_known_c3					
+GCF_013349105.1	True	measured_skani_vs_known_c3	NZ_CP054819.1	875977	98.97	81.3	ref__GCF_024730645.1__NZ_CP078072.1.fna
+GCF_013390345.1	False	measured_skani_vs_known_c3					
+GCF_017301875.1	True	measured_skani_vs_known_c3	NZ_JAAEEE010000003.1	728855	100.00	100.0	ref__GCF_017165475.1__NZ_CP048450.1.fna
+GCF_017301895.1	True	measured_skani_vs_known_c3	NZ_JAAEEF010000003.1	728861	100.00	100.0	ref__GCF_017165475.1__NZ_CP048450.1.fna
+GCF_017301905.1	True	measured_skani_vs_known_c3	NZ_JAAEEC010000003.1	728904	100.00	100.0	ref__GCF_017165475.1__NZ_CP048450.1.fna
+GCF_017742755.1	True	measured_skani_vs_known_c3	NZ_CP072321.1	1335482	99.29	82.4	ref__GCF_001718775.1__NZ_CP013434.1.fna
+GCF_018274335.1	False	measured_skani_vs_known_c3					
+GCF_018417615.1	True	measured_skani_vs_known_c3	NZ_CP071054.1	1225491	99.36	89.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_019843765.1	False	measured_skani_vs_known_c3					
+GCF_020809565.1	True	measured_skani_vs_known_c3	NZ_JAJFOB010000004.1	834392	99.02	94.0	ref__GCF_030848725.1__NZ_CP132924.1.fna
+GCF_022870505.1	False	measured_skani_vs_known_c3					
+GCF_022878925.1	False	measured_skani_vs_known_c3					
+GCF_022879555.1	False	measured_skani_vs_known_c3					
+GCF_023373705.1	True	measured_skani_vs_known_c3	NZ_CP090785.1	575883	99.03	94.5	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023374555.1	False	measured_skani_vs_known_c3					
+GCF_023383415.1	True	measured_skani_vs_known_c3	NZ_JAKEZZ010000003.1	578500	99.02	94.1	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023383425.1	True	measured_skani_vs_known_c3	NZ_JAKFAC010000002.1	546752	99.02	96.6	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023383465.1	True	measured_skani_vs_known_c3	NZ_JAKFAG010000004.1	728077	100.00	100.0	ref__GCF_023374415.1__NZ_CP090690.1.fna
+GCF_023383485.1	True	measured_skani_vs_known_c3	NZ_JAKFAJ010000004.1	575874	99.03	94.6	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023383515.1	True	measured_skani_vs_known_c3	NZ_JAKFAN010000004.1	563017	99.09	91.8	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023704255.1	True	measured_skani_vs_known_c3	NZ_CP098498.1	1074343	98.92	82.4	ref__GCF_001606135.1__NZ_CP015037.1.fna
+GCF_023895935.1	True	measured_skani_vs_known_c3	NZ_JAKEZN010000002.1	542302	99.02	96.8	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023895995.1	False	measured_skani_vs_known_c3					
+GCF_023896015.1	True	measured_skani_vs_known_c3	NZ_JAKEZS010000003.1	560670	98.97	92.1	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023896025.1	False	measured_skani_vs_known_c3					
+GCF_023896055.1	True	measured_skani_vs_known_c3	NZ_JAKEZV010000002.1	562932	99.09	91.8	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023896075.1	False	measured_skani_vs_known_c3					
+GCF_023896095.1	True	measured_skani_vs_known_c3	NZ_JAKEZW010000003.1	1111724	98.92	91.0	ref__GCF_053153985.1__NZ_CP195306.1.fna
+GCF_023896115.1	True	measured_skani_vs_known_c3	NZ_JAKFAB010000003.1	560673	98.97	92.1	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023896135.1	True	measured_skani_vs_known_c3	NZ_JAKFAE010000005.1	1111724	98.97	91.7	ref__GCF_013822785.1__NZ_CP053611.1.fna
+GCF_023896155.1	True	measured_skani_vs_known_c3	NZ_JAKFAF010000003.1	547644	99.08	91.8	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023896175.1	True	measured_skani_vs_known_c3	NZ_JAKFAH010000003.1	617476	99.08	83.4	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023896195.1	True	measured_skani_vs_known_c3	NZ_JAKFAI010000003.1	546745	99.02	96.6	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023896215.1	True	measured_skani_vs_known_c3	NZ_JAKFAK010000002.1	1017701	98.97	91.8	ref__GCF_024730645.1__NZ_CP078072.1.fna
+GCF_023896235.1	True	measured_skani_vs_known_c3	NZ_JAKFAL010000002.1	551762	99.02	97.3	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023896255.1	True	measured_skani_vs_known_c3	NZ_JAKFAM010000003.1	544353	99.03	97.2	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023896295.1	False	measured_skani_vs_known_c3					
+GCF_023896315.1	True	measured_skani_vs_known_c3	NZ_JAKFAD010000002.1	1017656	98.92	91.7	ref__GCF_024730645.1__NZ_CP078072.1.fna
+GCF_023896835.1	True	measured_skani_vs_known_c3	NZ_JAKEZP010000003.1	617470	99.08	83.4	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023896855.1	True	measured_skani_vs_known_c3	NZ_JAKEZX010000005.1	575864	99.02	94.5	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023924265.1	True	measured_skani_vs_known_c3	NZ_JAKEZO010000003.1	563581	99.23	97.5	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023924285.1	True	measured_skani_vs_known_c3	NZ_JAKFAA010000003.1	564627	99.23	97.4	ref__GCF_008693525.1__NZ_CP044057.1.fna
+GCF_023924305.1	False	measured_skani_vs_known_c3					
+GCF_025643535.1	True	measured_skani_vs_known_c3	NZ_CP102469.1	1349703	99.99	100.0	ref__GCF_025643515.1__NZ_CP102464.1.fna
+GCF_026314965.1	True	measured_skani_vs_known_c3	NZ_CP111122.1	1281473	100.00	100.0	ref__GCF_000959545.1__NZ_CP009800.1.fna
+GCF_026314985.1	True	measured_skani_vs_known_c3	NZ_CP111125.1	1281472	99.99	100.0	ref__GCF_000959545.1__NZ_CP009800.1.fna
+GCF_026683795.2	False	measured_skani_vs_known_c3					
+GCF_028462345.2	True	measured_skani_vs_known_c3	NZ_CM145220.1	1006682	99.18	89.4	ref__GCF_001606135.1__NZ_CP015037.1.fna
+GCF_030064565.1	False	measured_skani_vs_known_c3					
+GCF_033675345.1	True	measured_skani_vs_known_c3	NZ_QXCV01000002.1	1309270	98.57	84.3	ref__GCF_050613135.1__NZ_CP192535.1.fna
+GCF_038447715.1	False	measured_skani_vs_known_c3					
+GCF_038447785.1	False	measured_skani_vs_known_c3					
+GCF_038448065.1	False	measured_skani_vs_known_c3					
+GCF_038448955.1	False	measured_skani_vs_known_c3					
+GCF_040148685.1	False	measured_skani_vs_known_c3					
+GCF_048914405.1	True	measured_skani_vs_known_c3	NZ_CP184864.1	1172496	99.98	99.8	ref__GCF_007724625.1__NZ_CP042166.1.fna
+GCF_050858985.1	False	measured_skani_vs_known_c3					
+GCF_050955445.1	False	measured_skani_vs_known_c3					
+GCF_052146275.1	False	measured_skani_vs_known_c3					
+GCF_057005415.2	True	measured_skani_vs_known_c3	NZ_CM189268.1	1297318	98.86	91.1	ref__GCF_009586235.1__NZ_CP045237.1.fna
+GCF_900240005.1	True	measured_skani_vs_known_c3	NZ_LR025744.1	1230157	98.52	69.8	ref__GCF_001742165.1__NZ_CP016444.1.fna
+GCF_905400155.1	True	measured_skani_vs_known_c3	NZ_FR989685.1	1347482	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400195.1	True	measured_skani_vs_known_c3	NZ_FR989693.1	1298922	100.00	99.6	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400215.1	True	measured_skani_vs_known_c3	NZ_FR989681.1	1347942	100.00	99.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400225.1	True	measured_skani_vs_known_c3	NZ_FR989689.1	1347482	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400235.1	True	measured_skani_vs_known_c3	NZ_FR989673.1	1347493	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400265.1	True	measured_skani_vs_known_c3	NZ_FR989697.1	1347374	100.00	99.5	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400275.1	True	measured_skani_vs_known_c3	NZ_FR989725.1	1348085	100.00	99.3	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400285.1	True	measured_skani_vs_known_c3	NZ_FR989729.1	1347502	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400295.1	True	measured_skani_vs_known_c3	NZ_FR989721.1	1347390	100.00	99.2	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400305.1	True	measured_skani_vs_known_c3	NZ_FR989701.1	1347744	100.00	99.1	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400315.1	True	measured_skani_vs_known_c3	NZ_FR989717.1	1347956	100.00	99.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400325.1	True	measured_skani_vs_known_c3	NZ_FR989713.1	1342026	100.00	100.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400335.1	True	measured_skani_vs_known_c3	NZ_FR989709.1	1347484	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400345.1	True	measured_skani_vs_known_c3	NZ_FR989705.1	1347503	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400355.1	True	measured_skani_vs_known_c3	NZ_FR989741.1	1347928	100.00	99.1	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400365.1	True	measured_skani_vs_known_c3	NZ_FR989733.1	1347570	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400375.1	True	measured_skani_vs_known_c3	NZ_FR989745.1	1342241	100.00	100.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400385.1	True	measured_skani_vs_known_c3	NZ_FR989749.1	1347838	100.00	99.1	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400395.1	True	measured_skani_vs_known_c3	NZ_FR989737.1	1342153	100.00	100.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400405.1	True	measured_skani_vs_known_c3	NZ_FR989769.1	1342925	100.00	100.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400415.1	True	measured_skani_vs_known_c3	NZ_FR989753.1	1341993	100.00	100.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400425.1	True	measured_skani_vs_known_c3	NZ_FR989773.1	1347570	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400435.1	True	measured_skani_vs_known_c3	NZ_FR989757.1	1347570	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400445.1	True	measured_skani_vs_known_c3	NZ_FR989761.1	1347584	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400455.1	True	measured_skani_vs_known_c3	NZ_FR989777.1	1347570	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400465.1	True	measured_skani_vs_known_c3	NZ_FR989765.1	1347482	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400475.1	True	measured_skani_vs_known_c3	NZ_FR989785.1	1347746	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400485.1	True	measured_skani_vs_known_c3	NZ_FR989781.1	1347599	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400495.1	True	measured_skani_vs_known_c3	NZ_FR989797.1	1342545	100.00	100.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400505.1	True	measured_skani_vs_known_c3	NZ_FR989789.1	1347430	100.00	99.2	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400515.1	True	measured_skani_vs_known_c3	NZ_FR989809.1	1347786	100.00	99.1	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400525.1	True	measured_skani_vs_known_c3	NZ_FR989805.1	1342545	100.00	100.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400535.1	True	measured_skani_vs_known_c3	NZ_FR989801.1	1347482	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400545.1	True	measured_skani_vs_known_c3	NZ_FR989793.1	1347658	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400555.1	True	measured_skani_vs_known_c3	NZ_FR989821.1	1347674	100.00	99.7	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400565.1	True	measured_skani_vs_known_c3	NZ_FR989813.1	1342329	100.00	100.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_905400575.1	True	measured_skani_vs_known_c3	NZ_FR989817.1	1342633	100.00	100.0	ref__GCF_905400185.1__NZ_FR989677.1.fna
+GCF_965118125.1	False	measured_skani_vs_known_c3					
+MF6	True	measured_skani_vs_known_c3	cluster_003_consensus	1179882	100.00	99.9	ref__MF6__cluster_003_consensus.fna
+MF7	True	measured_skani_vs_known_c3	BMF7_NODE_3_len_857810_cov_35_9645_ID_6095484.64	857810	100.00	99.9	ref__MF6__cluster_003_consensus.fna

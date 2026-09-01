@@ -1,0 +1,149 @@
+mode	contrast	cog_category	cog_name	set_a	n_a	total_a	pct_a	set_b	n_b	total_b	pct_b	log2_OR	ci_low	ci_high	p_fisher	q_BH
+all_families	A_pC3core_vs_chr1core	-	no COG assigned	pC3_clade_core	599	833	71.91	chr1_clade_core	944	2832	33.33	2.354	2.109	2.599	1.2255801434411604e-87	3.1865083729470167e-86
+all_families	A_pC3core_vs_chr1core	A	RNA processing and modification	pC3_clade_core	0	833	0.0	chr1_clade_core	1	2832	0.04	0.179	-4.44	4.798	1.0	1.0
+all_families	A_pC3core_vs_chr1core	B	Chromatin structure and dynamics	pC3_clade_core	2	833	0.24	chr1_clade_core	5	2832	0.18	0.628	-1.532	2.788	0.6611770416808818	0.747417525378388
+all_families	A_pC3core_vs_chr1core	C	Energy production and conversion	pC3_clade_core	14	833	1.68	chr1_clade_core	129	2832	4.56	-1.437	-2.228	-0.646	6.170269439874747e-05	0.0002291814363382049
+all_families	A_pC3core_vs_chr1core	D	Cell cycle control and mitosis	pC3_clade_core	2	833	0.24	chr1_clade_core	33	2832	1.17	-1.993	-3.85	-0.136	0.013531427544609871	0.02391919480349579
+all_families	A_pC3core_vs_chr1core	E	Amino acid metabolism and transport	pC3_clade_core	35	833	4.2	chr1_clade_core	226	2832	7.98	-0.967	-1.49	-0.444	0.00011737101641010775	0.0003814558033328502
+all_families	A_pC3core_vs_chr1core	F	Nucleotide metabolism and transport	pC3_clade_core	6	833	0.72	chr1_clade_core	72	2832	2.54	-1.741	-2.905	-0.578	0.0005735997868060714	0.0014913594456957857
+all_families	A_pC3core_vs_chr1core	G	Carbohydrate metabolism and transport	pC3_clade_core	31	833	3.72	chr1_clade_core	149	2832	5.26	-0.505	-1.071	0.061	0.08258938371262757	0.11301705139622721
+all_families	A_pC3core_vs_chr1core	H	Coenzyme metabolism	pC3_clade_core	19	833	2.28	chr1_clade_core	129	2832	4.56	-1.001	-1.697	-0.304	0.0025575889319198694	0.005115177863839739
+all_families	A_pC3core_vs_chr1core	I	Lipid metabolism	pC3_clade_core	16	833	1.92	chr1_clade_core	120	2832	4.24	-1.138	-1.889	-0.387	0.001172142679054246	0.002770519059582763
+all_families	A_pC3core_vs_chr1core	J	Translation, ribosomal structure and biogenesis	pC3_clade_core	4	833	0.48	chr1_clade_core	179	2832	6.32	-3.64	-4.995	-2.286	5.673923129963989e-16	7.376100068953186e-15
+all_families	A_pC3core_vs_chr1core	K	Transcription	pC3_clade_core	35	833	4.2	chr1_clade_core	179	2832	6.32	-0.606	-1.137	-0.074	0.02295360844699005	0.033155212201207845
+all_families	A_pC3core_vs_chr1core	L	Replication, recombination and repair	pC3_clade_core	2	833	0.24	chr1_clade_core	64	2832	2.26	-2.954	-4.78	-1.128	1.0530065710806597e-05	5.475634169619431e-05
+all_families	A_pC3core_vs_chr1core	M	Cell wall/membrane/envelope biogenesis	pC3_clade_core	12	833	1.44	chr1_clade_core	153	2832	5.4	-1.913	-2.752	-1.073	1.062256590076207e-07	9.20622378066046e-07
+all_families	A_pC3core_vs_chr1core	N	Cell motility	pC3_clade_core	1	833	0.12	chr1_clade_core	44	2832	1.55	-3.147	-5.497	-0.797	0.00021809385211753714	0.0006300489061173294
+all_families	A_pC3core_vs_chr1core	O	Post-translational modification, protein turnover, chaperones	pC3_clade_core	5	833	0.6	chr1_clade_core	102	2832	3.6	-2.499	-3.742	-1.257	4.411042064610777e-07	2.867177341997005e-06
+all_families	A_pC3core_vs_chr1core	P	Inorganic ion transport and metabolism	pC3_clade_core	12	833	1.44	chr1_clade_core	99	2832	3.5	-1.258	-2.114	-0.402	0.0017291097011422037	0.0037464043524747747
+all_families	A_pC3core_vs_chr1core	Q	Secondary metabolites biosynthesis, transport and catabolism	pC3_clade_core	7	833	0.84	chr1_clade_core	41	2832	1.45	-0.712	-1.84	0.415	0.22442376195566854	0.27785799099273245
+all_families	A_pC3core_vs_chr1core	R	General function prediction only	pC3_clade_core	24	833	2.88	chr1_clade_core	136	2832	4.8	-0.742	-1.373	-0.111	0.01578342627310454	0.025648067693794876
+all_families	A_pC3core_vs_chr1core	S	Function unknown	pC3_clade_core	7	833	0.84	chr1_clade_core	44	2832	1.55	-0.814	-1.936	0.307	0.13269511916363066	0.17250365491271985
+all_families	A_pC3core_vs_chr1core	T	Signal transduction mechanisms	pC3_clade_core	14	833	1.68	chr1_clade_core	93	2832	3.28	-0.948	-1.754	-0.142	0.013799535463555262	0.02391919480349579
+all_families	A_pC3core_vs_chr1core	U	Intracellular trafficking and secretion	pC3_clade_core	1	833	0.12	chr1_clade_core	54	2832	1.91	-3.444	-5.787	-1.101	1.471490728764617e-05	6.376459824646674e-05
+all_families	A_pC3core_vs_chr1core	V	Defence mechanisms	pC3_clade_core	12	833	1.44	chr1_clade_core	45	2832	1.59	-0.101	-1.011	0.809	0.8739491519052752	0.9467782478973815
+all_families	A_pC3core_vs_chr1core	W	Extracellular structures	pC3_clade_core	5	833	0.6	chr1_clade_core	3	2832	0.11	2.424	0.487	4.361	0.01806344888107149	0.02762645122987404
+all_families	A_pC3core_vs_chr1core	X	Mobilome: prophages, transposons	pC3_clade_core	1	833	0.12	chr1_clade_core	2	2832	0.07	1.029	-1.894	3.951	0.5387321440688295	0.6366834429904349
+all_families	A_pC3core_vs_chr1core	Z	Cytoskeleton	pC3_clade_core	0	833	0.0	chr1_clade_core	1	2832	0.04	0.179	-4.44	4.798	1.0	1.0
+all_families	B_pC3core_vs_pC3acc	-	no COG assigned	pC3_clade_core	599	833	71.91	pC3_clade_accessory	503	550	91.45	-2.052	-2.533	-1.571	2.745009399961654e-20	6.58802255990797e-19
+all_families	B_pC3core_vs_pC3acc	B	Chromatin structure and dynamics	pC3_clade_core	2	833	0.24	pC3_clade_accessory	0	550	0.0	1.727	-2.656	6.11	0.5205895863875276	0.6247075036650331
+all_families	B_pC3core_vs_pC3acc	C	Energy production and conversion	pC3_clade_core	14	833	1.68	pC3_clade_accessory	7	550	1.27	0.359	-0.923	1.64	0.6559779810761928	0.7156123429922103
+all_families	B_pC3core_vs_pC3acc	D	Cell cycle control and mitosis	pC3_clade_core	2	833	0.24	pC3_clade_accessory	0	550	0.0	1.727	-2.656	6.11	0.5205895863875276	0.6247075036650331
+all_families	B_pC3core_vs_pC3acc	E	Amino acid metabolism and transport	pC3_clade_core	35	833	4.2	pC3_clade_accessory	11	550	2.0	1.061	0.088	2.033	0.031003917288141586	0.14881880298307962
+all_families	B_pC3core_vs_pC3acc	F	Nucleotide metabolism and transport	pC3_clade_core	6	833	0.72	pC3_clade_accessory	1	550	0.18	1.525	-1.041	4.091	0.25448593199312575	0.3817288979896886
+all_families	B_pC3core_vs_pC3acc	G	Carbohydrate metabolism and transport	pC3_clade_core	31	833	3.72	pC3_clade_accessory	2	550	0.36	3.106	1.242	4.971	1.584094718639045e-05	0.00019009136623668538
+all_families	B_pC3core_vs_pC3acc	H	Coenzyme metabolism	pC3_clade_core	19	833	2.28	pC3_clade_accessory	7	550	1.27	0.795	-0.43	2.02	0.22569384137133525	0.36111014619413645
+all_families	B_pC3core_vs_pC3acc	I	Lipid metabolism	pC3_clade_core	16	833	1.92	pC3_clade_accessory	4	550	0.73	1.293	-0.218	2.805	0.10472300084172234	0.2792613355779262
+all_families	B_pC3core_vs_pC3acc	J	Translation, ribosomal structure and biogenesis	pC3_clade_core	4	833	0.48	pC3_clade_accessory	0	550	0.0	2.578	-1.64	6.797	0.15608190856037252	0.313666157528946
+all_families	B_pC3core_vs_pC3acc	K	Transcription	pC3_clade_core	35	833	4.2	pC3_clade_accessory	10	550	1.82	1.194	0.189	2.2	0.019161212152838038	0.11496727291702823
+all_families	B_pC3core_vs_pC3acc	L	Replication, recombination and repair	pC3_clade_core	2	833	0.24	pC3_clade_accessory	0	550	0.0	1.727	-2.656	6.11	0.5205895863875276	0.6247075036650331
+all_families	B_pC3core_vs_pC3acc	M	Cell wall/membrane/envelope biogenesis	pC3_clade_core	12	833	1.44	pC3_clade_accessory	3	550	0.55	1.251	-0.466	2.968	0.1829719252252185	0.313666157528946
+all_families	B_pC3core_vs_pC3acc	N	Cell motility	pC3_clade_core	1	833	0.12	pC3_clade_accessory	0	550	0.0	0.988	-3.632	5.608	1.0	1.0
+all_families	B_pC3core_vs_pC3acc	O	Post-translational modification, protein turnover, chaperones	pC3_clade_core	5	833	0.6	pC3_clade_accessory	1	550	0.18	1.282	-1.327	3.891	0.4118483398146723	0.5814329503265961
+all_families	B_pC3core_vs_pC3acc	P	Inorganic ion transport and metabolism	pC3_clade_core	12	833	1.44	pC3_clade_accessory	3	550	0.55	1.251	-0.466	2.968	0.1829719252252185	0.313666157528946
+all_families	B_pC3core_vs_pC3acc	Q	Secondary metabolites biosynthesis, transport and catabolism	pC3_clade_core	7	833	0.84	pC3_clade_accessory	0	550	0.0	3.321	-0.812	7.454	0.046484480737216824	0.1593753625276005
+all_families	B_pC3core_vs_pC3acc	R	General function prediction only	pC3_clade_core	24	833	2.88	pC3_clade_accessory	7	550	1.27	1.133	-0.057	2.323	0.062055935035399586	0.18616780510619876
+all_families	B_pC3core_vs_pC3acc	S	Function unknown	pC3_clade_core	7	833	0.84	pC3_clade_accessory	0	550	0.0	3.321	-0.812	7.454	0.046484480737216824	0.1593753625276005
+all_families	B_pC3core_vs_pC3acc	T	Signal transduction mechanisms	pC3_clade_core	14	833	1.68	pC3_clade_accessory	0	550	0.0	4.284	0.214	8.354	0.0013308679238022124	0.010646943390417699
+all_families	B_pC3core_vs_pC3acc	U	Intracellular trafficking and secretion	pC3_clade_core	1	833	0.12	pC3_clade_accessory	0	550	0.0	0.988	-3.632	5.608	1.0	1.0
+all_families	B_pC3core_vs_pC3acc	V	Defence mechanisms	pC3_clade_core	12	833	1.44	pC3_clade_accessory	3	550	0.55	1.251	-0.466	2.968	0.1829719252252185	0.313666157528946
+all_families	B_pC3core_vs_pC3acc	W	Extracellular structures	pC3_clade_core	5	833	0.6	pC3_clade_accessory	0	550	0.0	2.87	-1.31	7.049	0.16378080087383307	0.313666157528946
+all_families	B_pC3core_vs_pC3acc	X	Mobilome: prophages, transposons	pC3_clade_core	1	833	0.12	pC3_clade_accessory	2	550	0.36	-1.339	-4.263	1.586	0.5667601765471646	0.6477259160539024
+all_families	C_genusderived_vs_cladespecific	-	no COG assigned	pC3_core_genus_derived	27	62	43.55	pC3_core_clade_specific	572	771	74.19	-1.889	-2.644	-1.134	1.1906874053345952e-06	2.8576497728030285e-05
+all_families	C_genusderived_vs_cladespecific	B	Chromatin structure and dynamics	pC3_core_genus_derived	0	62	0.0	pC3_core_clade_specific	2	771	0.26	1.3	-3.096	5.696	1.0	1.0
+all_families	C_genusderived_vs_cladespecific	C	Energy production and conversion	pC3_core_genus_derived	2	62	3.23	pC3_core_clade_specific	12	771	1.56	1.328	-0.667	3.323	0.2800141267176255	0.560028253435251
+all_families	C_genusderived_vs_cladespecific	D	Cell cycle control and mitosis	pC3_core_genus_derived	2	62	3.23	pC3_core_clade_specific	0	771	0.0	5.995	1.598	10.391	0.005456990488503093	0.06548388586203711
+all_families	C_genusderived_vs_cladespecific	E	Amino acid metabolism and transport	pC3_core_genus_derived	1	62	1.61	pC3_core_clade_specific	34	771	4.41	-0.94	-3.328	1.449	0.5073595506043651	0.8117752809669841
+all_families	C_genusderived_vs_cladespecific	F	Nucleotide metabolism and transport	pC3_core_genus_derived	1	62	1.61	pC3_core_clade_specific	5	771	0.65	1.765	-0.866	4.397	0.37219541164929526	0.6380492771130777
+all_families	C_genusderived_vs_cladespecific	G	Carbohydrate metabolism and transport	pC3_core_genus_derived	6	62	9.68	pC3_core_clade_specific	25	771	3.24	1.752	0.45	3.054	0.022441939577339115	0.15419837036734063
+all_families	C_genusderived_vs_cladespecific	H	Coenzyme metabolism	pC3_core_genus_derived	2	62	3.23	pC3_core_clade_specific	17	771	2.2	0.833	-1.116	2.782	0.6461274519759055	0.9691911779638582
+all_families	C_genusderived_vs_cladespecific	I	Lipid metabolism	pC3_core_genus_derived	4	62	6.45	pC3_core_clade_specific	12	771	1.56	2.225	0.623	3.826	0.02569972839455677	0.15419837036734063
+all_families	C_genusderived_vs_cladespecific	J	Translation, ribosomal structure and biogenesis	pC3_core_genus_derived	0	62	0.0	pC3_core_clade_specific	4	771	0.52	0.448	-3.783	4.68	1.0	1.0
+all_families	C_genusderived_vs_cladespecific	K	Transcription	pC3_core_genus_derived	6	62	9.68	pC3_core_clade_specific	29	771	3.76	1.534	0.248	2.82	0.03908358864848214	0.18760122551271427
+all_families	C_genusderived_vs_cladespecific	L	Replication, recombination and repair	pC3_core_genus_derived	1	62	1.61	pC3_core_clade_specific	1	771	0.13	3.647	0.361	6.934	0.14340255332902394	0.38240680887739714
+all_families	C_genusderived_vs_cladespecific	M	Cell wall/membrane/envelope biogenesis	pC3_core_genus_derived	2	62	3.23	pC3_core_clade_specific	10	771	1.3	1.583	-0.442	3.609	0.22276399358068402	0.4860305314487652
+all_families	C_genusderived_vs_cladespecific	N	Cell motility	pC3_core_genus_derived	1	62	1.61	pC3_core_clade_specific	0	771	0.0	5.234	0.601	9.867	0.0744297719087635	0.25518778940147485
+all_families	C_genusderived_vs_cladespecific	O	Post-translational modification, protein turnover, chaperones	pC3_core_genus_derived	1	62	1.61	pC3_core_clade_specific	4	771	0.52	2.057	-0.636	4.749	0.32138094105171866	0.5933186604031729
+all_families	C_genusderived_vs_cladespecific	P	Inorganic ion transport and metabolism	pC3_core_genus_derived	0	62	0.0	pC3_core_clade_specific	12	771	1.56	-1.041	-5.136	3.054	1.0	1.0
+all_families	C_genusderived_vs_cladespecific	Q	Secondary metabolites biosynthesis, transport and catabolism	pC3_core_genus_derived	0	62	0.0	pC3_core_clade_specific	7	771	0.91	-0.294	-4.441	3.853	1.0	1.0
+all_families	C_genusderived_vs_cladespecific	R	General function prediction only	pC3_core_genus_derived	2	62	3.23	pC3_core_clade_specific	22	771	2.85	0.461	-1.462	2.384	0.6975013115603458	0.984707733967547
+all_families	C_genusderived_vs_cladespecific	S	Function unknown	pC3_core_genus_derived	2	62	3.23	pC3_core_clade_specific	5	771	0.65	2.526	0.336	4.715	0.08979721713120319	0.26939165139360954
+all_families	C_genusderived_vs_cladespecific	T	Signal transduction mechanisms	pC3_core_genus_derived	1	62	1.61	pC3_core_clade_specific	13	771	1.69	0.455	-2.008	2.917	1.0	1.0
+all_families	C_genusderived_vs_cladespecific	U	Intracellular trafficking and secretion	pC3_core_genus_derived	0	62	0.0	pC3_core_clade_specific	1	771	0.13	2.039	-2.594	6.671	1.0	1.0
+all_families	C_genusderived_vs_cladespecific	V	Defence mechanisms	pC3_core_genus_derived	2	62	3.23	pC3_core_clade_specific	10	771	1.3	1.583	-0.442	3.609	0.22276399358068402	0.4860305314487652
+all_families	C_genusderived_vs_cladespecific	W	Extracellular structures	pC3_core_genus_derived	0	62	0.0	pC3_core_clade_specific	5	771	0.65	0.157	-4.036	4.35	1.0	1.0
+all_families	C_genusderived_vs_cladespecific	X	Mobilome: prophages, transposons	pC3_core_genus_derived	1	62	1.61	pC3_core_clade_specific	0	771	0.0	5.234	0.601	9.867	0.0744297719087635	0.25518778940147485
+COG_annotated_only	A_pC3core_vs_chr1core	-	no COG assigned	pC3_clade_core	0	234	0.0	chr1_clade_core	0	1888	0.0	3.01	-2.649	8.668	1.0	1.0
+COG_annotated_only	A_pC3core_vs_chr1core	A	RNA processing and modification	pC3_clade_core	0	234	0.0	chr1_clade_core	1	1888	0.05	1.424	-3.198	6.046	1.0	1.0
+COG_annotated_only	A_pC3core_vs_chr1core	B	Chromatin structure and dynamics	pC3_clade_core	2	234	0.85	chr1_clade_core	5	1888	0.26	1.881	-0.285	4.046	0.17550984894802668	0.3802713393873911
+COG_annotated_only	A_pC3core_vs_chr1core	C	Energy production and conversion	pC3_clade_core	14	234	5.98	chr1_clade_core	129	1888	6.83	-0.163	-0.971	0.646	0.7817646832682323	0.9239037165897291
+COG_annotated_only	A_pC3core_vs_chr1core	D	Cell cycle control and mitosis	pC3_clade_core	2	234	0.85	chr1_clade_core	33	1888	1.75	-0.748	-2.612	1.117	0.42138409881559974	0.6805829782101538
+COG_annotated_only	A_pC3core_vs_chr1core	E	Amino acid metabolism and transport	pC3_clade_core	35	234	14.96	chr1_clade_core	226	1888	11.97	0.385	-0.167	0.938	0.20481140616826432	0.40962281233652864
+COG_annotated_only	A_pC3core_vs_chr1core	F	Nucleotide metabolism and transport	pC3_clade_core	6	234	2.56	chr1_clade_core	72	1888	3.81	-0.489	-1.663	0.686	0.4599595958267847	0.6805829782101538
+COG_annotated_only	A_pC3core_vs_chr1core	G	Carbohydrate metabolism and transport	pC3_clade_core	31	234	13.25	chr1_clade_core	149	1888	7.89	0.849	0.256	1.441	0.008584119813981626	0.07322837262813525
+COG_annotated_only	A_pC3core_vs_chr1core	H	Coenzyme metabolism	pC3_clade_core	19	234	8.12	chr1_clade_core	129	1888	6.83	0.298	-0.419	1.015	0.49527358958588463	0.6805829782101538
+COG_annotated_only	A_pC3core_vs_chr1core	I	Lipid metabolism	pC3_clade_core	16	234	6.84	chr1_clade_core	120	1888	6.36	0.148	-0.621	0.918	0.7769091896482275	0.9239037165897291
+COG_annotated_only	A_pC3core_vs_chr1core	J	Translation, ribosomal structure and biogenesis	pC3_clade_core	4	234	1.71	chr1_clade_core	179	1888	9.48	-2.427	-3.791	-1.063	5.848152354212982e-06	0.00015205196120953753
+COG_annotated_only	A_pC3core_vs_chr1core	K	Transcription	pC3_clade_core	35	234	14.96	chr1_clade_core	179	1888	9.48	0.761	0.2	1.322	0.011265903481251578	0.07322837262813525
+COG_annotated_only	A_pC3core_vs_chr1core	L	Replication, recombination and repair	pC3_clade_core	2	234	0.85	chr1_clade_core	64	1888	3.39	-1.717	-3.55	0.116	0.028209442279567863	0.09171022404681232
+COG_annotated_only	A_pC3core_vs_chr1core	M	Cell wall/membrane/envelope biogenesis	pC3_clade_core	12	234	5.13	chr1_clade_core	153	1888	8.1	-0.655	-1.511	0.201	0.12055949927616291	0.2849588164709305
+COG_annotated_only	A_pC3core_vs_chr1core	N	Cell motility	pC3_clade_core	1	234	0.43	chr1_clade_core	44	1888	2.33	-1.909	-4.265	0.447	0.05431983906960376	0.15692397953441087
+COG_annotated_only	A_pC3core_vs_chr1core	O	Post-translational modification, protein turnover, chaperones	pC3_clade_core	5	234	2.14	chr1_clade_core	102	1888	5.4	-1.259	-2.513	-0.006	0.026588176050451204	0.09171022404681232
+COG_annotated_only	A_pC3core_vs_chr1core	P	Inorganic ion transport and metabolism	pC3_clade_core	12	234	5.13	chr1_clade_core	99	1888	5.24	0.015	-0.857	0.887	1.0	1.0
+COG_annotated_only	A_pC3core_vs_chr1core	Q	Secondary metabolites biosynthesis, transport and catabolism	pC3_clade_core	7	234	2.99	chr1_clade_core	41	1888	2.17	0.553	-0.586	1.693	0.48018561796459514	0.6805829782101538
+COG_annotated_only	A_pC3core_vs_chr1core	R	General function prediction only	pC3_clade_core	24	234	10.26	chr1_clade_core	136	1888	7.2	0.579	-0.074	1.233	0.11367998396734813	0.2849588164709305
+COG_annotated_only	A_pC3core_vs_chr1core	S	Function unknown	pC3_clade_core	7	234	2.99	chr1_clade_core	44	1888	2.33	0.45	-0.683	1.584	0.49734909946126626	0.6805829782101538
+COG_annotated_only	A_pC3core_vs_chr1core	T	Signal transduction mechanisms	pC3_clade_core	14	234	5.98	chr1_clade_core	93	1888	4.93	0.337	-0.487	1.16	0.5248740543225321	0.6823362706192917
+COG_annotated_only	A_pC3core_vs_chr1core	U	Intracellular trafficking and secretion	pC3_clade_core	1	234	0.43	chr1_clade_core	54	1888	2.86	-2.209	-4.558	0.139	0.02594785707363713	0.09171022404681232
+COG_annotated_only	A_pC3core_vs_chr1core	V	Defence mechanisms	pC3_clade_core	12	234	5.13	chr1_clade_core	45	1888	2.38	1.187	0.262	2.112	0.028218530475942253	0.09171022404681232
+COG_annotated_only	A_pC3core_vs_chr1core	W	Extracellular structures	pC3_clade_core	5	234	2.14	chr1_clade_core	3	1888	0.16	3.69	1.747	5.634	0.000662436842208375	0.008611678948708875
+COG_annotated_only	A_pC3core_vs_chr1core	X	Mobilome: prophages, transposons	pC3_clade_core	1	234	0.43	chr1_clade_core	2	1888	0.11	2.277	-0.65	5.204	0.295803812441219	0.5493499373908353
+COG_annotated_only	A_pC3core_vs_chr1core	Z	Cytoskeleton	pC3_clade_core	0	234	0.0	chr1_clade_core	1	1888	0.05	1.424	-3.198	6.046	1.0	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	-	no COG assigned	pC3_clade_core	0	234	0.0	pC3_clade_accessory	0	47	0.0	-2.304	-7.977	3.37	1.0	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	B	Chromatin structure and dynamics	pC3_clade_core	2	234	0.85	pC3_clade_accessory	0	47	0.0	0.031	-4.373	4.434	1.0	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	C	Energy production and conversion	pC3_clade_core	14	234	5.98	pC3_clade_accessory	7	47	14.89	-1.494	-2.854	-0.133	0.06039395139404265	0.6963734095157249
+COG_annotated_only	B_pC3core_vs_pC3acc	D	Cell cycle control and mitosis	pC3_clade_core	2	234	0.85	pC3_clade_accessory	0	47	0.0	0.031	-4.373	4.434	1.0	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	E	Amino acid metabolism and transport	pC3_clade_core	35	234	14.96	pC3_clade_accessory	11	47	23.4	-0.824	-1.91	0.262	0.1928419065360205	0.771367626144082
+COG_annotated_only	B_pC3core_vs_pC3acc	F	Nucleotide metabolism and transport	pC3_clade_core	6	234	2.56	pC3_clade_accessory	1	47	2.13	-0.181	-2.783	2.42	1.0	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	G	Carbohydrate metabolism and transport	pC3_clade_core	31	234	13.25	pC3_clade_accessory	2	47	4.26	1.494	-0.421	3.409	0.08704667618946561	0.6963734095157249
+COG_annotated_only	B_pC3core_vs_pC3acc	H	Coenzyme metabolism	pC3_clade_core	19	234	8.12	pC3_clade_accessory	7	47	14.89	-1.033	-2.341	0.275	0.16595931641818137	0.771367626144082
+COG_annotated_only	B_pC3core_vs_pC3acc	I	Lipid metabolism	pC3_clade_core	16	234	6.84	pC3_clade_accessory	4	47	8.51	-0.454	-2.029	1.121	0.7547300629741109	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	J	Translation, ribosomal structure and biogenesis	pC3_clade_core	4	234	1.71	pC3_clade_accessory	0	47	0.0	0.891	-3.348	5.13	1.0	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	K	Transcription	pC3_clade_core	35	234	14.96	pC3_clade_accessory	10	47	21.28	-0.654	-1.768	0.46	0.28062082272316513	0.9621285350508518
+COG_annotated_only	B_pC3core_vs_pC3acc	L	Replication, recombination and repair	pC3_clade_core	2	234	0.85	pC3_clade_accessory	0	47	0.0	0.031	-4.373	4.434	1.0	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	M	Cell wall/membrane/envelope biogenesis	pC3_clade_core	12	234	5.13	pC3_clade_accessory	3	47	6.38	-0.485	-2.257	1.287	0.7226749066643383	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	N	Cell motility	pC3_clade_core	1	234	0.43	pC3_clade_accessory	0	47	0.0	-0.712	-5.352	3.927	1.0	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	O	Post-translational modification, protein turnover, chaperones	pC3_clade_core	5	234	2.14	pC3_clade_accessory	1	47	2.13	-0.429	-3.073	2.215	1.0	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	P	Inorganic ion transport and metabolism	pC3_clade_core	12	234	5.13	pC3_clade_accessory	3	47	6.38	-0.485	-2.257	1.287	0.7226749066643383	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	Q	Secondary metabolites biosynthesis, transport and catabolism	pC3_clade_core	7	234	2.99	pC3_clade_accessory	0	47	0.0	1.647	-2.508	5.802	0.6053645782611814	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	R	General function prediction only	pC3_clade_core	24	234	10.26	pC3_clade_accessory	7	47	14.89	-0.67	-1.946	0.606	0.4419392503261649	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	S	Function unknown	pC3_clade_core	7	234	2.99	pC3_clade_accessory	0	47	0.0	1.647	-2.508	5.802	0.6053645782611814	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	T	Signal transduction mechanisms	pC3_clade_core	14	234	5.98	pC3_clade_accessory	0	47	0.0	2.643	-1.449	6.736	0.13693974550497617	0.771367626144082
+COG_annotated_only	B_pC3core_vs_pC3acc	U	Intracellular trafficking and secretion	pC3_clade_core	1	234	0.43	pC3_clade_accessory	0	47	0.0	-0.712	-5.352	3.927	1.0	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	V	Defence mechanisms	pC3_clade_core	12	234	5.13	pC3_clade_accessory	3	47	6.38	-0.485	-2.257	1.287	0.7226749066643383	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	W	Extracellular structures	pC3_clade_core	5	234	2.14	pC3_clade_accessory	0	47	0.0	1.187	-3.014	5.388	0.5937938578483776	1.0
+COG_annotated_only	B_pC3core_vs_pC3acc	X	Mobilome: prophages, transposons	pC3_clade_core	1	234	0.43	pC3_clade_accessory	2	47	4.26	-3.096	-6.053	-0.14	0.07357118257703725	0.6963734095157249
+COG_annotated_only	C_genusderived_vs_cladespecific	-	no COG assigned	pC3_core_genus_derived	0	35	0.0	pC3_core_clade_specific	0	199	0.0	2.49	-3.188	8.169	1.0	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	B	Chromatin structure and dynamics	pC3_core_genus_derived	0	35	0.0	pC3_core_clade_specific	2	199	1.01	0.154	-4.257	4.565	1.0	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	C	Energy production and conversion	pC3_core_genus_derived	2	35	5.71	pC3_core_clade_specific	12	199	6.03	0.163	-1.867	2.192	1.0	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	D	Cell cycle control and mitosis	pC3_core_genus_derived	2	35	5.71	pC3_core_clade_specific	0	199	0.0	4.896	0.484	9.308	0.021826051868970325	0.4362531207186323
+COG_annotated_only	C_genusderived_vs_cladespecific	E	Amino acid metabolism and transport	pC3_core_genus_derived	1	35	2.86	pC3_core_clade_specific	34	199	17.09	-2.261	-4.678	0.156	0.036354426726552695	0.4362531207186323
+COG_annotated_only	C_genusderived_vs_cladespecific	F	Nucleotide metabolism and transport	pC3_core_genus_derived	1	35	2.86	pC3_core_clade_specific	5	199	2.51	0.621	-2.036	3.277	1.0	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	G	Carbohydrate metabolism and transport	pC3_core_genus_derived	6	35	17.14	pC3_core_clade_specific	25	199	12.56	0.592	-0.772	1.956	0.4270679663338925	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	H	Coenzyme metabolism	pC3_core_genus_derived	2	35	5.71	pC3_core_clade_specific	17	199	8.54	-0.362	-2.346	1.623	0.7464584047608024	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	I	Lipid metabolism	pC3_core_genus_derived	4	35	11.43	pC3_core_clade_specific	12	199	6.03	1.1	-0.548	2.747	0.27071034303482244	0.8447266339289947
+COG_annotated_only	C_genusderived_vs_cladespecific	J	Translation, ribosomal structure and biogenesis	pC3_core_genus_derived	0	35	0.0	pC3_core_clade_specific	4	199	2.01	-0.709	-4.955	3.538	1.0	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	K	Transcription	pC3_core_genus_derived	6	35	17.14	pC3_core_clade_specific	29	199	14.57	0.349	-1.0	1.698	0.7968140277402173	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	L	Replication, recombination and repair	pC3_core_genus_derived	1	35	2.86	pC3_core_clade_specific	1	199	0.5	2.524	-0.782	5.831	0.27731924727632884	0.8447266339289947
+COG_annotated_only	C_genusderived_vs_cladespecific	M	Cell wall/membrane/envelope biogenesis	pC3_core_genus_derived	2	35	5.71	pC3_core_clade_specific	10	199	5.03	0.43	-1.63	2.489	0.6963355852972182	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	N	Cell motility	pC3_core_genus_derived	1	35	2.86	pC3_core_clade_specific	0	199	0.0	4.117	-0.53	8.764	0.1495726495726496	0.8447266339289947
+COG_annotated_only	C_genusderived_vs_cladespecific	O	Post-translational modification, protein turnover, chaperones	pC3_core_genus_derived	1	35	2.86	pC3_core_clade_specific	4	199	2.01	0.918	-1.799	3.634	0.5585560224179755	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	P	Inorganic ion transport and metabolism	pC3_core_genus_derived	0	35	0.0	pC3_core_clade_specific	12	199	6.03	-2.243	-6.354	1.868	0.2219392147924546	0.8447266339289947
+COG_annotated_only	C_genusderived_vs_cladespecific	Q	Secondary metabolites biosynthesis, transport and catabolism	pC3_core_genus_derived	0	35	0.0	pC3_core_clade_specific	7	199	3.52	-1.468	-5.63	2.694	0.598141571775193	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	R	General function prediction only	pC3_core_genus_derived	2	35	5.71	pC3_core_clade_specific	22	199	11.06	-0.764	-2.723	1.195	0.5451283929212856	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	S	Function unknown	pC3_core_genus_derived	2	35	5.71	pC3_core_clade_specific	5	199	2.51	1.4	-0.821	3.621	0.2815755446429982	0.8447266339289947
+COG_annotated_only	C_genusderived_vs_cladespecific	T	Signal transduction mechanisms	pC3_core_genus_derived	1	35	2.86	pC3_core_clade_specific	13	199	6.53	-0.735	-3.225	1.754	0.6999832058942486	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	U	Intracellular trafficking and secretion	pC3_core_genus_derived	0	35	0.0	pC3_core_clade_specific	1	199	0.5	0.898	-3.748	5.545	1.0	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	V	Defence mechanisms	pC3_core_genus_derived	2	35	5.71	pC3_core_clade_specific	10	199	5.03	0.43	-1.63	2.489	0.6963355852972182	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	W	Extracellular structures	pC3_core_genus_derived	0	35	0.0	pC3_core_clade_specific	5	199	2.51	-1.006	-5.214	3.203	1.0	1.0
+COG_annotated_only	C_genusderived_vs_cladespecific	X	Mobilome: prophages, transposons	pC3_core_genus_derived	1	35	2.86	pC3_core_clade_specific	0	199	0.0	4.117	-0.53	8.764	0.1495726495726496	0.8447266339289947
